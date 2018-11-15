@@ -1,5 +1,4 @@
-﻿
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <!--[if lt IE 7 ]> <html lang="en-US" class="ie6"> <![endif]-->
 <!--[if IE 7 ]>    <html lang="en-US" class="ie7"> <![endif]-->
 <!--[if IE 8 ]>    <html lang="en-US" class="ie8"> <![endif]-->
@@ -9,7 +8,7 @@
 <!--<![endif]-->
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
     <script>document.createElement('video')</script>
     <meta name="Author" content="nThrive" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
@@ -26,7 +25,8 @@
     <meta name="section" content="nquirer" />
     <link rel="icon" href="https://www.nthrive.com/_Assets/images/icon/favicon.ico" type="image/x-icon" />
     <!-- Google Tag Manager -->
-    <script>(function (w, d, s, l, i) {
+    <script>
+(function (w, d, s, l, i) {
 w[l] = w[l] || []; w[l].push({
 'gtm.start':
 new Date().getTime(), event: 'gtm.js'
@@ -615,7 +615,6 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                 <div class="plr-15px">
                                     <div class="l-title-width l-align-center l-theme-padding pb-45px exe-title">
                                         <h2 class="section-header">nQuirer Newsletter</h2>
-                                        <p class="pt-34px lh-30px pb-10px"></p>
                                     </div>
                                     <div class="tabs-box pb-95px management-tab">
                                         <div class="tab-links l-clearfix">
@@ -778,9 +777,6 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                     </div>
                                                     <!-- END: Repeat -->
                                                 </div><!-- END: div.mobile-carousel -->
-                                                <a href="#" class="btn btn-big bg-59277F show-more load-content">See More Issues</a>
-                                                <a href="#" class="btn btn-big bg-59277F show-more collapse">Collapse</a>
-
                                             </div>
                                             <div id="tab2" class="tab-detail to-load-more1 mob-carousel-wrapper ">
                                                 <ul class="l-list-three-col list-big l-clearfix pb-28px mob-carousel-content">
@@ -957,9 +953,6 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                     </div>
                                                     <!-- END: Repeat -->
                                                 </div><!-- END: div.mobile-carousel -->
-                                                <a href="#" class="btn btn-big bg-59277F show-more load-content">See More Issues</a>
-                                                <a href="#" class="btn btn-big bg-59277F show-more collapse">Collapse</a>
-
                                             </div>
                                             <div id="tab3" class="tab-detail to-load-more2 mob-carousel-wrapper ">
                                                 <ul class="l-list-three-col list-big l-clearfix pb-28px mob-carousel-content">
@@ -1038,9 +1031,6 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                     </div>
                                                     <!-- END: Repeat -->
                                                 </div><!-- END: div.mobile-carousel -->
-                                                <a href="#" class="btn btn-big bg-59277F show-more load-content">See More Issues</a>
-                                                <a href="#" class="btn btn-big bg-59277F show-more collapse">Collapse</a>
-
                                             </div>
                                         </div>
                                     </div>
