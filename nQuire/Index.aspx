@@ -635,7 +635,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                         <div class="l-table item">
                                                             <a href="/nquirer/2018/" class="info-links highlight-border ">
                                                                 <h4 class="text-374252 text-32px text-300 mb-25px">January</h4>
-                                                                <p class="text-374252 text-14px text-500">January 2018 nQuirer Newsletter</p>
+                                                                <p class="text-374252 text-14px text-500 mb-0">January 2018 nQuirer Newsletter</p>
                                                             </a>
                                                         </div>
                                                     </li>
@@ -643,7 +643,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                         <div class="l-table item">
                                                             <a href="/nquirer/2018/february/" class="info-links highlight-border ">
                                                                 <h4 class="text-374252 text-32px text-300 mb-25px">February</h4>
-                                                                <p class="text-374252 text-14px text-500">February 2018 nQuirer Newsletter</p>
+                                                                <p class="text-374252 text-14px text-500 mb-0">February 2018 nQuirer Newsletter</p>
                                                             </a>
                                                         </div>
                                                     </li>
@@ -651,7 +651,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                         <div class="l-table item">
                                                             <a href="/nquirer/2018/march/" class="info-links highlight-border ">
                                                                 <h4 class="text-374252 text-32px text-300 mb-25px">March</h4>
-                                                                <p class="text-374252 text-14px text-500">March 2018 nQuirer Newsletter</p>
+                                                                <p class="text-374252 text-14px text-500 mb-0">March 2018 nQuirer Newsletter</p>
                                                             </a>
                                                         </div>
                                                     </li>
@@ -659,7 +659,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                         <div class="l-table item">
                                                             <a href="/nquirer/2018/april/" class="info-links highlight-border ">
                                                                 <h4 class="text-374252 text-32px text-300 mb-25px">April</h4>
-                                                                <p class="text-374252 text-14px text-500">April 2018 nQuirer Newsletter</p>
+                                                                <p class="text-374252 text-14px text-500 mb-0">April 2018 nQuirer Newsletter</p>
                                                             </a>
                                                         </div>
                                                     </li>
@@ -667,7 +667,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                         <div class="l-table item">
                                                             <a href="/nquirer/2018/may/" class="info-links highlight-border ">
                                                                 <h4 class="text-374252 text-32px text-300 mb-25px">May</h4>
-                                                                <p class="text-374252 text-14px text-500">May 2018 nQuirer Newsletter</p>
+                                                                <p class="text-374252 text-14px text-500 mb-0">May 2018 nQuirer Newsletter</p>
                                                             </a>
                                                         </div>
                                                     </li>
@@ -675,7 +675,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                         <div class="l-table item">
                                                             <a href="/nquirer/2018/june/" class="info-links highlight-border ">
                                                                 <h4 class="text-374252 text-32px text-300 mb-25px">June</h4>
-                                                                <p class="text-374252 text-14px text-500">June 2018 nQuirer Newsletter</p>
+                                                                <p class="text-374252 text-14px text-500 mb-0">June 2018 nQuirer Newsletter</p>
                                                             </a>
                                                         </div>
                                                     </li>
@@ -683,7 +683,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                         <div class="l-table item">
                                                             <a href="/nquirer/2018/july/" class="info-links highlight-border ">
                                                                 <h4 class="text-374252 text-32px text-300 mb-25px">July</h4>
-                                                                <p class="text-374252 text-14px text-500">July 2018 nQuirer Newsletter</p>
+                                                                <p class="text-374252 text-14px text-500 mb-0">July 2018 nQuirer Newsletter</p>
                                                             </a>
                                                         </div>
                                                     </li>
@@ -691,7 +691,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                         <div class="l-table item">
                                                             <a href="/nquirer/2018/august/" class="info-links highlight-border ">
                                                                 <h4 class="text-374252 text-32px text-300 mb-25px">August</h4>
-                                                                <p class="text-374252 text-14px text-500">August 2018 nQuirer Newsletter</p>
+                                                                <p class="text-374252 text-14px text-500 mb-0">August 2018 nQuirer Newsletter</p>
                                                             </a>
                                                         </div>
                                                     </li>
@@ -699,7 +699,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                         <div class="l-table item">
                                                             <a href="/nquirer/2018/september/" class="info-links highlight-border ">
                                                                 <h4 class="text-374252 text-32px text-300 mb-25px">September</h4>
-                                                                <p class="text-374252 text-14px text-500">September 2018 nQuirer Newsletter</p>
+                                                                <p class="text-374252 text-14px text-500 mb-0">September 2018 nQuirer Newsletter</p>
                                                             </a>
                                                         </div>
                                                     </li>
@@ -707,7 +707,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                         <div class="l-table item">
                                                             <a href="/nquirer/2018/october/" class="info-links highlight-border ">
                                                                 <h4 class="text-374252 text-32px text-300 mb-25px">October</h4>
-                                                                <p class="text-374252 text-14px text-500">October 2018 nQuirer Newsletter</p>
+                                                                <p class="text-374252 text-14px text-500 mb-0">October 2018 nQuirer Newsletter</p>
                                                             </a>
                                                         </div>
                                                     </li>
@@ -717,61 +717,61 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                     <div class="l-table item">
                                                         <a href="/nquirer/2018/" class="info-links highlight-border">
                                                             <h4 class="text-374252 text-32px text-300 mb-25px">January</h4>
-                                                            <p class="text-374252 text-14px text-500">January 2018 nQuirer Newsletter</p>
+                                                            <p class="text-374252 text-14px text-500 mb-0">January 2018 nQuirer Newsletter</p>
                                                         </a>
                                                     </div>
                                                     <div class="l-table item">
                                                         <a href="/nquirer/2018/february/" class="info-links highlight-border">
                                                             <h4 class="text-374252 text-32px text-300 mb-25px">February</h4>
-                                                            <p class="text-374252 text-14px text-500">February 2018 nQuirer Newsletter</p>
+                                                            <p class="text-374252 text-14px text-500 mb-0">February 2018 nQuirer Newsletter</p>
                                                         </a>
                                                     </div>
                                                     <div class="l-table item">
                                                         <a href="/nquirer/2018/march/" class="info-links highlight-border">
                                                             <h4 class="text-374252 text-32px text-300 mb-25px">March</h4>
-                                                            <p class="text-374252 text-14px text-500">March 2018 nQuirer Newsletter</p>
+                                                            <p class="text-374252 text-14px text-500 mb-0">March 2018 nQuirer Newsletter</p>
                                                         </a>
                                                     </div>
                                                     <div class="l-table item">
                                                         <a href="/nquirer/2018/april/" class="info-links highlight-border">
                                                             <h4 class="text-374252 text-32px text-300 mb-25px">April</h4>
-                                                            <p class="text-374252 text-14px text-500">April 2018 nQuirer Newsletter</p>
+                                                            <p class="text-374252 text-14px text-500 mb-0">April 2018 nQuirer Newsletter</p>
                                                         </a>
                                                     </div>
                                                     <div class="l-table item">
                                                         <a href="/nquirer/2018/may/" class="info-links highlight-border">
                                                             <h4 class="text-374252 text-32px text-300 mb-25px">May</h4>
-                                                            <p class="text-374252 text-14px text-500">May 2018 nQuirer Newsletter</p>
+                                                            <p class="text-374252 text-14px text-500 mb-0">May 2018 nQuirer Newsletter</p>
                                                         </a>
                                                     </div>
                                                     <div class="l-table item">
                                                         <a href="/nquirer/2018/june/" class="info-links highlight-border">
                                                             <h4 class="text-374252 text-32px text-300 mb-25px">June</h4>
-                                                            <p class="text-374252 text-14px text-500">June 2018 nQuirer Newsletter</p>
+                                                            <p class="text-374252 text-14px text-500 mb-0">June 2018 nQuirer Newsletter</p>
                                                         </a>
                                                     </div>
                                                     <div class="l-table item">
                                                         <a href="/nquirer/2018/july/" class="info-links highlight-border">
                                                             <h4 class="text-374252 text-32px text-300 mb-25px">July</h4>
-                                                            <p class="text-374252 text-14px text-500">July 2018 nQuirer Newsletter</p>
+                                                            <p class="text-374252 text-14px text-500 mb-0">July 2018 nQuirer Newsletter</p>
                                                         </a>
                                                     </div>
                                                     <div class="l-table item">
                                                         <a href="/nquirer/2018/august/" class="info-links highlight-border">
                                                             <h4 class="text-374252 text-32px text-300 mb-25px">August</h4>
-                                                            <p class="text-374252 text-14px text-500">August 2018 nQuirer Newsletter</p>
+                                                            <p class="text-374252 text-14px text-500 mb-0">August 2018 nQuirer Newsletter</p>
                                                         </a>
                                                     </div>
                                                     <div class="l-table item">
                                                         <a href="/nquirer/2018/september/" class="info-links highlight-border">
                                                             <h4 class="text-374252 text-32px text-300 mb-25px">September</h4>
-                                                            <p class="text-374252 text-14px text-500">September 2018 nQuirer Newsletter</p>
+                                                            <p class="text-374252 text-14px text-500 mb-0">September 2018 nQuirer Newsletter</p>
                                                         </a>
                                                     </div>
                                                     <div class="l-table item">
                                                         <a href="/nquirer/2018/october/" class="info-links highlight-border">
                                                             <h4 class="text-374252 text-32px text-300 mb-25px">October</h4>
-                                                            <p class="text-374252 text-14px text-500">October 2018 nQuirer Newsletter</p>
+                                                            <p class="text-374252 text-14px text-500 mb-0">October 2018 nQuirer Newsletter</p>
                                                         </a>
                                                     </div>
                                                     <!-- END: Repeat -->
@@ -783,7 +783,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                         <div class="l-table item">
                                                             <a href="/nquirer/2017/january/" class="info-links highlight-border ">
                                                                 <h4 class="text-374252 text-32px text-300 mb-25px">January</h4>
-                                                                <p class="text-374252 text-14px text-500">January 2017 nQuirer Newsletter</p>
+                                                                <p class="text-374252 text-14px text-500 mb-0">January 2017 nQuirer Newsletter</p>
                                                             </a>
                                                         </div>
                                                     </li>
@@ -791,7 +791,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                         <div class="l-table item">
                                                             <a href="/nquirer/2017/february/" class="info-links highlight-border ">
                                                                 <h4 class="text-374252 text-32px text-300 mb-25px">February</h4>
-                                                                <p class="text-374252 text-14px text-500">February 2017 nQuirer Newsletter</p>
+                                                                <p class="text-374252 text-14px text-500 mb-0">February 2017 nQuirer Newsletter</p>
                                                             </a>
                                                         </div>
                                                     </li>
@@ -799,7 +799,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                         <div class="l-table item">
                                                             <a href="/nquirer/2017/march/" class="info-links highlight-border ">
                                                                 <h4 class="text-374252 text-32px text-300 mb-25px">March</h4>
-                                                                <p class="text-374252 text-14px text-500">March 2017 nQuirer Newsletter</p>
+                                                                <p class="text-374252 text-14px text-500 mb-0">March 2017 nQuirer Newsletter</p>
                                                             </a>
                                                         </div>
                                                     </li>
@@ -807,7 +807,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                         <div class="l-table item">
                                                             <a href="/nquirer/2017/april/" class="info-links highlight-border ">
                                                                 <h4 class="text-374252 text-32px text-300 mb-25px">April</h4>
-                                                                <p class="text-374252 text-14px text-500">April 2017 nQuirer Newsletter</p>
+                                                                <p class="text-374252 text-14px text-500 mb-0">April 2017 nQuirer Newsletter</p>
                                                             </a>
                                                         </div>
                                                     </li>
@@ -815,7 +815,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                         <div class="l-table item">
                                                             <a href="/nquirer/2017/may/" class="info-links highlight-border ">
                                                                 <h4 class="text-374252 text-32px text-300 mb-25px">May</h4>
-                                                                <p class="text-374252 text-14px text-500">May 2017 nQuirer Newsletter</p>
+                                                                <p class="text-374252 text-14px text-500 mb-0">May 2017 nQuirer Newsletter</p>
                                                             </a>
                                                         </div>
                                                     </li>
@@ -823,7 +823,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                         <div class="l-table item">
                                                             <a href="/nquirer/2017/june/" class="info-links highlight-border ">
                                                                 <h4 class="text-374252 text-32px text-300 mb-25px">June</h4>
-                                                                <p class="text-374252 text-14px text-500">June 2017 nQuirer Newsletter</p>
+                                                                <p class="text-374252 text-14px text-500 mb-0">June 2017 nQuirer Newsletter</p>
                                                             </a>
                                                         </div>
                                                     </li>
@@ -831,7 +831,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                         <div class="l-table item">
                                                             <a href="/nquirer/2017/july/" class="info-links highlight-border ">
                                                                 <h4 class="text-374252 text-32px text-300 mb-25px">July</h4>
-                                                                <p class="text-374252 text-14px text-500">July 2017 nQuirer Newsletter</p>
+                                                                <p class="text-374252 text-14px text-500 mb-0">July 2017 nQuirer Newsletter</p>
                                                             </a>
                                                         </div>
                                                     </li>
@@ -839,7 +839,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                         <div class="l-table item">
                                                             <a href="/nquirer/2017/august/" class="info-links highlight-border ">
                                                                 <h4 class="text-374252 text-32px text-300 mb-25px">August</h4>
-                                                                <p class="text-374252 text-14px text-500">August 2017 nQuirer Newsletter</p>
+                                                                <p class="text-374252 text-14px text-500 mb-0">August 2017 nQuirer Newsletter</p>
                                                             </a>
                                                         </div>
                                                     </li>
@@ -847,7 +847,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                         <div class="l-table item">
                                                             <a href="/nquirer/2017/september/" class="info-links highlight-border ">
                                                                 <h4 class="text-374252 text-32px text-300 mb-25px">September</h4>
-                                                                <p class="text-374252 text-14px text-500">September 2017 nQuirer Newsletter</p>
+                                                                <p class="text-374252 text-14px text-500 mb-0">September 2017 nQuirer Newsletter</p>
                                                             </a>
                                                         </div>
                                                     </li>
@@ -855,7 +855,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                         <div class="l-table item">
                                                             <a href="/nquirer/2017/october/" class="info-links highlight-border ">
                                                                 <h4 class="text-374252 text-32px text-300 mb-25px">October</h4>
-                                                                <p class="text-374252 text-14px text-500">October 2017 nQuirer Newsletter</p>
+                                                                <p class="text-374252 text-14px text-500 mb-0">October 2017 nQuirer Newsletter</p>
                                                             </a>
                                                         </div>
                                                     </li>
@@ -863,7 +863,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                         <div class="l-table item">
                                                             <a href="/nquirer/2017/november/" class="info-links highlight-border ">
                                                                 <h4 class="text-374252 text-32px text-300 mb-25px">November</h4>
-                                                                <p class="text-374252 text-14px text-500">November 2017 nQuirer Newsletter</p>
+                                                                <p class="text-374252 text-14px text-500 mb-0">November 2017 nQuirer Newsletter</p>
                                                             </a>
                                                         </div>
                                                     </li>
@@ -871,7 +871,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                         <div class="l-table item">
                                                             <a href="/nquirer/2017/december/" class="info-links highlight-border ">
                                                                 <h4 class="text-374252 text-32px text-300 mb-25px">December</h4>
-                                                                <p class="text-374252 text-14px text-500">December 2017 nQuirer Newsletter</p>
+                                                                <p class="text-374252 text-14px text-500 mb-0">December 2017 nQuirer Newsletter</p>
                                                             </a>
                                                         </div>
                                                     </li>
@@ -881,73 +881,73 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                     <div class="l-table item">
                                                         <a href="/nquirer/2017/january/" class="info-links highlight-border">
                                                             <h4 class="text-374252 text-32px text-300 mb-25px">January</h4>
-                                                            <p class="text-374252 text-14px text-500">January 2017 nQuirer Newsletter</p>
+                                                            <p class="text-374252 text-14px text-500 mb-0">January 2017 nQuirer Newsletter</p>
                                                         </a>
                                                     </div>
                                                     <div class="l-table item">
                                                         <a href="/nquirer/2017/february/" class="info-links highlight-border">
                                                             <h4 class="text-374252 text-32px text-300 mb-25px">February</h4>
-                                                            <p class="text-374252 text-14px text-500">February 2017 nQuirer Newsletter</p>
+                                                            <p class="text-374252 text-14px text-500 mb-0">February 2017 nQuirer Newsletter</p>
                                                         </a>
                                                     </div>
                                                     <div class="l-table item">
                                                         <a href="/nquirer/2017/march/" class="info-links highlight-border">
                                                             <h4 class="text-374252 text-32px text-300 mb-25px">March</h4>
-                                                            <p class="text-374252 text-14px text-500">March 2017 nQuirer Newsletter</p>
+                                                            <p class="text-374252 text-14px text-500 mb-0">March 2017 nQuirer Newsletter</p>
                                                         </a>
                                                     </div>
                                                     <div class="l-table item">
                                                         <a href="/nquirer/2017/april/" class="info-links highlight-border">
                                                             <h4 class="text-374252 text-32px text-300 mb-25px">April</h4>
-                                                            <p class="text-374252 text-14px text-500">April 2017 nQuirer Newsletter</p>
+                                                            <p class="text-374252 text-14px text-500 mb-0">April 2017 nQuirer Newsletter</p>
                                                         </a>
                                                     </div>
                                                     <div class="l-table item">
                                                         <a href="/nquirer/2017/may/" class="info-links highlight-border">
                                                             <h4 class="text-374252 text-32px text-300 mb-25px">May</h4>
-                                                            <p class="text-374252 text-14px text-500">May 2017 nQuirer Newsletter</p>
+                                                            <p class="text-374252 text-14px text-500 mb-0">May 2017 nQuirer Newsletter</p>
                                                         </a>
                                                     </div>
                                                     <div class="l-table item">
                                                         <a href="/nquirer/2017/june/" class="info-links highlight-border">
                                                             <h4 class="text-374252 text-32px text-300 mb-25px">June</h4>
-                                                            <p class="text-374252 text-14px text-500">June 2017 nQuirer Newsletter</p>
+                                                            <p class="text-374252 text-14px text-500 mb-0">June 2017 nQuirer Newsletter</p>
                                                         </a>
                                                     </div>
                                                     <div class="l-table item">
                                                         <a href="/nquirer/2017/july/" class="info-links highlight-border">
                                                             <h4 class="text-374252 text-32px text-300 mb-25px">July</h4>
-                                                            <p class="text-374252 text-14px text-500">July 2017 nQuirer Newsletter</p>
+                                                            <p class="text-374252 text-14px text-500 mb-0">July 2017 nQuirer Newsletter</p>
                                                         </a>
                                                     </div>
                                                     <div class="l-table item">
                                                         <a href="/nquirer/2017/august/" class="info-links highlight-border">
                                                             <h4 class="text-374252 text-32px text-300 mb-25px">August</h4>
-                                                            <p class="text-374252 text-14px text-500">August 2017 nQuirer Newsletter</p>
+                                                            <p class="text-374252 text-14px text-500 mb-0">August 2017 nQuirer Newsletter</p>
                                                         </a>
                                                     </div>
                                                     <div class="l-table item">
                                                         <a href="/nquirer/2017/september/" class="info-links highlight-border">
                                                             <h4 class="text-374252 text-32px text-300 mb-25px">September</h4>
-                                                            <p class="text-374252 text-14px text-500">September 2017 nQuirer Newsletter</p>
+                                                            <p class="text-374252 text-14px text-500 mb-0">September 2017 nQuirer Newsletter</p>
                                                         </a>
                                                     </div>
                                                     <div class="l-table item">
                                                         <a href="/nquirer/2017/october/" class="info-links highlight-border">
                                                             <h4 class="text-374252 text-32px text-300 mb-25px">October</h4>
-                                                            <p class="text-374252 text-14px text-500">October 2017 nQuirer Newsletter</p>
+                                                            <p class="text-374252 text-14px text-500 mb-0">October 2017 nQuirer Newsletter</p>
                                                         </a>
                                                     </div>
                                                     <div class="l-table item">
                                                         <a href="/nquirer/2017/november/" class="info-links highlight-border">
                                                             <h4 class="text-374252 text-32px text-300 mb-25px">November</h4>
-                                                            <p class="text-374252 text-14px text-500">November 2017 nQuirer Newsletter</p>
+                                                            <p class="text-374252 text-14px text-500 mb-0">November 2017 nQuirer Newsletter</p>
                                                         </a>
                                                     </div>
                                                     <div class="l-table item">
                                                         <a href="/nquirer/2017/december/" class="info-links highlight-border">
                                                             <h4 class="text-374252 text-32px text-300 mb-25px">December</h4>
-                                                            <p class="text-374252 text-14px text-500">December 2017 nQuirer Newsletter</p>
+                                                            <p class="text-374252 text-14px text-500 mb-0">December 2017 nQuirer Newsletter</p>
                                                         </a>
                                                     </div>
                                                     <!-- END: Repeat -->
@@ -959,7 +959,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                         <div class="l-table item">
                                                             <a href="/nquirer/2016/july/" class="info-links highlight-border ">
                                                                 <h4 class="text-374252 text-32px text-300 mb-25px">July</h4>
-                                                                <p class="text-374252 text-14px text-500">July 2016 nQuirer Newsletter</p>
+                                                                <p class="text-374252 text-14px text-500 mb-0">July 2016 nQuirer Newsletter</p>
                                                             </a>
                                                         </div>
                                                     </li>
@@ -967,7 +967,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                         <div class="l-table item">
                                                             <a href="/nquirer/2016/august/" class="info-links highlight-border ">
                                                                 <h4 class="text-374252 text-32px text-300 mb-25px">August</h4>
-                                                                <p class="text-374252 text-14px text-500">August 2016 nQuirer Newsletter</p>
+                                                                <p class="text-374252 text-14px text-500 mb-0">August 2016 nQuirer Newsletter</p>
                                                             </a>
                                                         </div>
                                                     </li>
@@ -975,7 +975,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                         <div class="l-table item">
                                                             <a href="/nquirer/2016/september/" class="info-links highlight-border ">
                                                                 <h4 class="text-374252 text-32px text-300 mb-25px">September</h4>
-                                                                <p class="text-374252 text-14px text-500">September 2016 nQuirer Newsletter</p>
+                                                                <p class="text-374252 text-14px text-500 mb-0">September 2016 nQuirer Newsletter</p>
                                                             </a>
                                                         </div>
                                                     </li>
@@ -983,7 +983,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                         <div class="l-table item">
                                                             <a href="/nquirer/2016/october/" class="info-links highlight-border ">
                                                                 <h4 class="text-374252 text-32px text-300 mb-25px">October</h4>
-                                                                <p class="text-374252 text-14px text-500">October 2016 nQuirer Newsletter</p>
+                                                                <p class="text-374252 text-14px text-500 mb-0">October 2016 nQuirer Newsletter</p>
                                                             </a>
                                                         </div>
                                                     </li>
@@ -991,7 +991,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                         <div class="l-table item">
                                                             <a href="/nquirer/2016/november-december/" class="info-links highlight-border ">
                                                                 <h4 class="text-374252 text-32px text-300 mb-25px">November - December</h4>
-                                                                <p class="text-374252 text-14px text-500">November - December 2016 nQuirer Newsletter</p>
+                                                                <p class="text-374252 text-14px text-500 mb-0">November - December 2016 nQuirer Newsletter</p>
                                                             </a>
                                                         </div>
                                                     </li>
@@ -1001,31 +1001,31 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                     <div class="l-table item">
                                                         <a href="/nquirer/2016/july/" class="info-links highlight-border">
                                                             <h4 class="text-374252 text-32px text-300 mb-25px">July</h4>
-                                                            <p class="text-374252 text-14px text-500">July 2016 nQuirer Newsletter</p>
+                                                            <p class="text-374252 text-14px text-500 mb-0">July 2016 nQuirer Newsletter</p>
                                                         </a>
                                                     </div>
                                                     <div class="l-table item">
                                                         <a href="/nquirer/2016/august/" class="info-links highlight-border">
                                                             <h4 class="text-374252 text-32px text-300 mb-25px">August</h4>
-                                                            <p class="text-374252 text-14px text-500">August 2016 nQuirer Newsletter</p>
+                                                            <p class="text-374252 text-14px text-500 mb-0">August 2016 nQuirer Newsletter</p>
                                                         </a>
                                                     </div>
                                                     <div class="l-table item">
                                                         <a href="/nquirer/2016/september/" class="info-links highlight-border">
                                                             <h4 class="text-374252 text-32px text-300 mb-25px">September</h4>
-                                                            <p class="text-374252 text-14px text-500">September 2016 nQuirer Newsletter</p>
+                                                            <p class="text-374252 text-14px text-500 mb-0">September 2016 nQuirer Newsletter</p>
                                                         </a>
                                                     </div>
                                                     <div class="l-table item">
                                                         <a href="/nquirer/2016/october/" class="info-links highlight-border">
                                                             <h4 class="text-374252 text-32px text-300 mb-25px">October</h4>
-                                                            <p class="text-374252 text-14px text-500">October 2016 nQuirer Newsletter</p>
+                                                            <p class="text-374252 text-14px text-500 mb-0">October 2016 nQuirer Newsletter</p>
                                                         </a>
                                                     </div>
                                                     <div class="l-table item">
                                                         <a href="/nquirer/2016/november-december/" class="info-links highlight-border">
                                                             <h4 class="text-374252 text-32px text-300 mb-25px">November - December</h4>
-                                                            <p class="text-374252 text-14px text-500">November - December 2016 nQuirer Newsletter</p>
+                                                            <p class="text-374252 text-14px text-500 mb-0">November - December 2016 nQuirer Newsletter</p>
                                                         </a>
                                                     </div>
                                                     <!-- END: Repeat -->
