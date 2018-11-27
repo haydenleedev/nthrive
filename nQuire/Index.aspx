@@ -612,7 +612,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                         <div class="bg-white">
                             <div class="l-site-width text-center">
                                 <div class="plr-15px">
-                                    <div class="l-title-width l-align-center l-theme-padding pb-45px exe-title newsletter">
+                                    <div class="l-title-width l-align-center l-theme-padding pb-45px exe-title m-pt-20px m-pb-30px">
                                         <h2 class="section-header">nQuirer Newsletter</h2>
                                     </div>
                                     <div class="tabs-box pb-95px management-tab">
@@ -628,7 +628,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                 <span class="drtext">Select</span><span class="arrow"></span>
                                             </div>
                                         </div>
-                                        <div class="tab-content nquirer">
+                                        <div class="tab-content m-pt-20px">
                                             <div id="tab1" class="tab-detail to-load-more0 mob-carousel-wrapper  show">
                                                 <ul class="l-list-three-col list-big l-clearfix pb-28px mob-carousel-content">
                                                     <li>

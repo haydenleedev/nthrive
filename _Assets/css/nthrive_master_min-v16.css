@@ -6816,6 +6816,17 @@ iframe[name="google_conversion_frame"] {
         padding-bottom: 45px;
     }
 
+    .m-pt-20px, 
+    .l-theme-padding.m-pt-20px,
+    .management-tab .tab-content.m-pt-20px {
+        padding-top: 20px;
+    }
+
+    .m-pb-30px,
+    .l-theme-padding.m-pb-30px {
+        padding-bottom: 30px;
+    }
+
     .right-text-box {
         padding-top: 30px;
         padding-bottom: 20px;
@@ -9082,14 +9093,6 @@ iframe[name="google_conversion_frame"] {
 
     .management-tab .tab-content {
         padding: 48px 2px 0;
-    }
-
-    .management-tab .tab-content.nquirer {
-        padding: 20px 2px 0;
-    }
-
-    .l-theme-padding.newsletter {
-        padding: 20px 30px 30px;
     }
 
     .np-wrapper1 .slider-title {
