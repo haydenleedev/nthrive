@@ -5569,6 +5569,7 @@ textarea.std-input3 {
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
     line-height: normal;
+    text-shadow: 0 0 10px rgba(0,0,0,1);
 }
 
 .tabview {
@@ -9602,6 +9603,7 @@ body.tab .menu:focus-visible {
     font-weight: 500;
     padding: 0 20px;
     color: #ffffff;
+    text-shadow: 0 0 10px rgba(0,0,0,1);
 }
 
 .nav-top-level {
