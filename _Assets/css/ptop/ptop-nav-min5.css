@@ -57,7 +57,7 @@ span.uparrow {
     text-decoration: none;
     line-height: 2.8 !important;
     position: initial !important;
-    padding: 0 20px;
+    padding: 0 5px;
 }
 
 a.menu-hover {
@@ -130,7 +130,7 @@ nav .first li {
 }
 
 body #primary-nav #main-nav > li > a {
-    padding: 0 20px;
+    padding: 0 18px;
     margin: 0;
 }
 
