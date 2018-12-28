@@ -3099,8 +3099,12 @@ span.arrow {
         color: #ffffff !important;
     }
 
-    .slider-title.text-white {
-        text-shadow: 0 0 10px rgba(0,0,0,1);
+    .slider-title .text-white {
+        text-shadow: 0 0 5px rgba(0,0,0,1);
+    }
+
+    .slider-title.text-white p {
+        text-shadow: 0 0 2px rgba(0,0,0,1);
     }
 
 .home-slider .backbgbox {
@@ -5573,7 +5577,7 @@ textarea.std-input3 {
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
     line-height: normal;
-    text-shadow: 0 0 10px rgba(0,0,0,1);
+    text-shadow: 0 0 5px rgba(0,0,0,1);
 }
 
 .tabview {
