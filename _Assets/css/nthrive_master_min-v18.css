@@ -3099,7 +3099,7 @@ span.arrow {
         color: #ffffff !important;
     }
 
-    .slider-title.text-white {
+    .slider-title .text-white {
         text-shadow: 0 0 10px rgba(0,0,0,1);
     }
 
