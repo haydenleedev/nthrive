@@ -752,6 +752,14 @@ body img.desktop-landscape {
     z-index: 9;
 }
 
+.banner-caption-v.text-white .banner-title {
+    text-shadow: 0 0 5px rgba(0,0,0,1);
+}
+
+.banner-caption-v.text-white .sub-banner-title {
+    text-shadow: 0 0 2px rgba(0,0,0,1);
+}
+
 .ie8 .banner-caption-v, .ie9 .banner-caption-v {
     margin-top: -9%;
 }
