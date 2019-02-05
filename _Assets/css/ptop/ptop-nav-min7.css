@@ -1399,6 +1399,11 @@ li.mb-first:overlay {
     float: left;
 }
 
+.narrow-col.menu-panel.l-col-1 {
+    width: 200px;
+    right: 200px;
+}
+
 .main-nav {
     float: left;
     padding-right: 10px;
@@ -1415,6 +1420,10 @@ li.mb-first:overlay {
 
 .open .menu-panel-wrap {
     min-height: 300px;
+}
+
+.narrow-col.open .menu-panel-wrap {
+    min-height: 10px;
 }
 
 .menu-panel-wrap {
