@@ -1116,11 +1116,11 @@ $(document).ready(function() {
         $("footer").after("<div class=\"popup popup-option popup-option-content l-clearfix\" data-popup-id=\"popup-product\" role=\"dialog\" aria-labelledby=\"popup4Title\" aria-describedby=\"popup4Desc\"> <img src=\"/_assets/images/icon/logo-gray.png\" alt=\"nThrive Logo\" class=\"popup-logo block\"> <button data-popup-action=\"close\" class=\"popup-close popup-option-btn-close l-align-right\" aria-label=\"Close\"></button><div class=\"popup-option-window-wrap\" role=\"dialog\" id=\"popup-option-window-wrap-2\"><div class=\"form-full\"><h2>Contact Client Support</h2><p class=\"text-00515B\">Communication channels</p><p><strong>Online portal</strong><br> <a href=\"http://communities.medassets.com\" class=\"text-7b214c\" target=\"_blank\" >https://communities.nThrive.com</a></p><p>Most efficient method for alerting nThrive to a non-critical issue or request.</p><p><strong>Telephone</strong><br> (800) 390-7459</p><p>Recommended method for alerting nThrive to critical or high severity issues that require rapid response and action.</p><p><strong>Working hours</strong><br> Standard support Monday to Friday, 6 a.m. - 6 p.m. CT</p><p><strong>Critical support</strong><br> Monday to Friday, 6 p.m. - 10 p.m. CT<br> Saturday, Sunday and holidays, 6 a.m. - 6 p.m. CT</p><p>These hours are applicable to clients located in the continental United States. For standard support hours outside the continental United States, please consult your maintenance or other support agreement with nThrive.</p></div></div></div>");
     } else {}
 });
-$('.popup-option-overlay').click(function() {
-    $('body').removeClass("no-scroll");
-});
-$(".comment-link").not(".social-strip .comment-link").click(function() {
+$(".ask-a-question[href=\"mailto:experts@answers-nthrive.com\"], .chat-us-now[href=\"mailto:experts@answers-nthrive.com\"], #open-video").click(function () {
     $("body").addClass("no-scroll");
+});
+$(".popup-option-overlay, .popup-close").click(function () {
+    $("body").removeClass("no-scroll");
 });
 (function(factory) {
     'use strict';

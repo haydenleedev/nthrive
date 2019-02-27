@@ -63,10 +63,11 @@ $("#location").on("change", function () {
             }
         })
     }), $("html").removeClass("no-js")
-}), $(".popup-option-overlay").click(function () {
-    $("body").removeClass("no-scroll")
-}), $(".comment-link").click(function () {
-    $("body").addClass("no-scroll")
+}), $(".box2.show").click(function () {
+    $("body").addClass("no-scroll");
+});
+$(".popup-option-overlay, .popup-close").click(function () {
+    $("body").removeClass("no-scroll");
 });
 var swfobject = function () {
     var v = "undefined",
