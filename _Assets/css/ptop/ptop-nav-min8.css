@@ -328,6 +328,16 @@ body #primary-nav #main-nav > li.rm0 > a {
         text-decoration: underline;
     }
 
+.footer-logo {
+    padding-top: 14px;
+    width: 160px;
+}
+
+.footer-logo img {
+    display: block;
+    width: 100%;
+}
+
 @media only screen and (max-width: 980px) {
     body #primary-nav #main-nav > li > a {
         padding: 0 5px;
@@ -1504,7 +1514,7 @@ li.mb-first:overlay {
 .header-Logo {
     height: 40px;
     width: 123px;
-    background: url('../../images/icon/logo-small.png') no-repeat center center;
+    background: url('../../images/icon/logo-small-registered.svg') no-repeat center center;
     background-repeat: no-repeat;
     background-size: cover;
     margin: 0;

@@ -208,6 +208,7 @@ body #large-view-nav > ul > li#toggleMenu > a:focus {
 .nth-main-nav-wrap img.logo-image {
     max-height: 42px;
     width: auto;
+    max-width: 255px;
 }
 
 body #large-view-nav #menu > li > a.menu-hover {
