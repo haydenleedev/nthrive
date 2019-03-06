@@ -9743,6 +9743,40 @@ input[type="text"], input[type="email"], input[type="search"], textarea, select 
     border: 0;
 }
 
+#ask-a-question ::placeholder,
+#chat-us-now ::placeholder {
+    color: #86939E;
+}
+
+#ask-a-question :-ms-input-placeholder, 
+#chat-us-now :-ms-input-placeholder {
+    color: #86939E;
+}
+
+#ask-a-question ::-ms-input-placeholder, 
+#chat-us-now ::-ms-input-placeholder {
+    color: #86939E;
+}
+
+#ask-a-question .std-input3, 
+#ask-a-question .std-input3.valid, 
+#chat-us-now .std-input3, 
+#chat-us-now .std-input3.valid {
+    padding: 0 18px;
+}
+
+#ask-a-question textarea.std-input3, 
+#ask-a-question textarea.std-input3.valid, 
+#chat-us-now textarea.std-input3, 
+#chat-us-now textarea.std-input3.valid {
+    padding: 15px 18px;
+}
+
+.popup[data-popup-id="chat-us-now"], 
+.popup[data-popup-id="ask-a-question"] {
+    height: auto;
+}
+
 @media only screen and (max-width: 945px) {
     .menu-panel.l-col-3 {
         width: 840px;
