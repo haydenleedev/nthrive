@@ -33,7 +33,7 @@ span.uparrow {
 .header-logo {
     height: 40px;
     width: 123px;
-    background: url(../../images/careers/icon/logo-small.png) no-repeat center center;
+    background: url('../../images/careers/icon/logo-small-registered.png') no-repeat center center;
     background-repeat: no-repeat;
     background-size: cover;
     padding: 0 !important;
@@ -326,6 +326,16 @@ body #primary-nav #main-nav > li.rm0 > a {
 
     .table-body a:hover {
         text-decoration: underline;
+    }
+
+.footer-logo {
+    padding-top: 14px;
+    width: 160px;
+}
+
+    .footer-logo img {
+        display: block;
+        width: 100%;
     }
 
 @media only screen and (max-width: 980px) {
@@ -1404,6 +1414,11 @@ li.mb-first:overlay {
     padding-right: 10px;
 }
 
+.narrow-col.menu-panel.l-col-1 {
+    width: 200px;
+    right: 200px;
+}
+
 .main-nav {
     position: relative;
 }
@@ -1415,6 +1430,10 @@ li.mb-first:overlay {
 
 .open .menu-panel-wrap {
     min-height: 300px;
+}
+
+.narrow-col.open .menu-panel-wrap {
+    min-height: 10px;
 }
 
 .menu-panel-wrap {
