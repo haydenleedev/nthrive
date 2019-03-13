@@ -5017,11 +5017,14 @@ a.open + .navarrow {
         background-size: 123px 40px;
     }
 
-    .header-logo {
+    .header-logo, .header-logo-lp {
         height: 40px;
         width: 123px;
         background: url(../../images/careers/icon/logo-small-registered@2x.png) no-repeat center center;
         background-size: 123px 40px;
+    }
+    .header-logo-lp {
+        background: url(../../images/careers/icon/logo-grey-registered@2x.png) no-repeat center center;
     }
 
     .accordion.no-cta-btn .panel-title a {
