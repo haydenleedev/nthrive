@@ -4577,7 +4577,7 @@ body.tab .menu:focus {
 #page-nav .header-logo {
     height: 40px;
     width: 123px;
-    background: url('../../images/careers/icon/logo-grey.png') no-repeat center center;
+    background: url('../../images/careers/icon/logo-grey-registered.png') no-repeat center center;
 }
 
 a.open + .navarrow {
@@ -5013,14 +5013,14 @@ a.open + .navarrow {
     #page-nav .header-logo {
         height: 40px;
         width: 123px;
-        background: url(../../images/careers/icon/logo-grey@2x.png) no-repeat center center;
+        background: url(../../images/careers/icon/logo-grey-registered@2x.png) no-repeat center center;
         background-size: 123px 40px;
     }
 
     .header-logo {
         height: 40px;
         width: 123px;
-        background: url(../../images/careers/icon/logo-small@2x.png) no-repeat center center;
+        background: url(../../images/careers/icon/logo-small-registered@2x.png) no-repeat center center;
         background-size: 123px 40px;
     }
 
