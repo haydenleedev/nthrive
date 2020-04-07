@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 15.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Eastern Standard Time
+BEGIN:STANDARD
+DTSTART:16011104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170417T141401Z
+DESCRIPTION:WALKING DIRECTIONS\nFROM THE MGM GRAND FRONT DESK\nWalk straigh
+	t through the Casino towards Avenue Café. Turn right and continue past Gr
+	and Wok and CRUSH will be on your left.\nFROM THE STRIP\nEnter the resort 
+	from Las Vegas Boulevard. Walk towards Centrifuge and stay to the left pas
+	sing The Buffet. Continue through the Casino\, passing Jabbawockeez Theate
+	r. Walk towards Avenue Café. Continue past Grand Wok and CRUSH will be on
+	 your left.\n\n
+DTEND;TZID="Eastern Standard Time":20170510T193000
+DTSTAMP:20170417T141401Z
+DTSTART;TZID="Eastern Standard Time":20170510T173000
+LAST-MODIFIED:20170417T141401Z
+LOCATION:CRUSH\, MGM\, Las Vegas\, NV 
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:2017 ACDIS Reception 
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000D06E3E3E63B7D201000000000000000
+	010000000CC1E8A77940DBB4C95EB18DF2B3340FD
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion rmj.rmm.rup.rpr">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted 
+	from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"><U><FONT SIZE=4 FACE="Calibri">WALKING DIRECTIONS</FONT></U></SP
+	AN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT S
+	IZE=4 FACE="Calibri">FROM THE MGM GRAND FRONT DESK</FONT></SPAN></P>\n\n<P
+	 DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT FACE="Calibri"
+	>Walk straight through the Casino towards Avenue Café. Turn right and con
+	tinue past Grand Wok and CRUSH will be on your left.</FONT></SPAN></P>\n\n
+	<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT SIZE=4 FACE=
+	"Calibri">FROM THE STRIP</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us
+	"></SPAN><SPAN LANG="en-us"><FONT FACE="Calibri">Enter the resort from Las
+	 Vegas Boulevard. Walk towards Centrifuge and stay to the left passing The
+	 Buffet. Continue through the Casino\, passing Jabbawockeez Theater. Walk 
+	towards Avenue Café. Continue past Grand Wok and CRUSH will be on your le
+	ft.</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN></P>\n\n</BO
+	DY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
