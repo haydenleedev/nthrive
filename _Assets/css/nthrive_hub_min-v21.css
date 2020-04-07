@@ -600,7 +600,7 @@ p.rev-p {
 .header-logo {
     height: 40px;
     width: 123px;
-    background: url(../images/careers/icon/logo-small.png) no-repeat center center;
+    background: url(../images/careers/icon/logo-small-registered.png) no-repeat center center;
     background-repeat: no-repeat;
     background-size: cover;
     padding: 0 !important;
@@ -1058,7 +1058,7 @@ html .sub-list.adv-list {
 
 .page-nav .panel-wrap {
     position: absolute;
-    top: 54px;
+    top: 52px;
     width: 310px;
     border: 1px solid #dedede;
 }
@@ -1173,7 +1173,7 @@ html .sub-list.adv-list {
         margin: 5px 0
     }
 
-.first.navanchor.l-align-right {
+.first.navanchor.l-align-right, #page-nav .second-nav > li:last-child {
     right: 0;
     -moz-transition: all 300ms ease-out;
     -webkit-transition: all 300ms ease-out;
@@ -1190,8 +1190,8 @@ html .sub-list.adv-list {
     backface-visibility: hidden;
 }
 
-.fixed .first.navanchor.l-align-right {
-    right: 140px;
+.fixed .first.navanchor.l-align-right, #page-nav.fixed .second-nav > li:last-child {
+    right: 140px
 }
 
 #secondary-nav {
@@ -1228,13 +1228,21 @@ html .sub-list.adv-list {
     border: 1px solid #da1c5c;
 }
 
-.navanchor.l-align-right > a {
+.navanchor.l-align-right > a, #page-nav .second-nav > li:last-child > a {
     padding: 6px 11px !important;
+}
+
+#page-nav .second-nav > li:last-child {
+    float: right
 }
 
 .page-nav .selected, .page-nav .selected a, .page-nav a:hover {
     color: #da1c5c
 }
+
+    .page-nav .selected span {
+        border: 1px solid #da1c5c
+    }
 
 .info-list {
     padding-top: 20px;
@@ -1348,8 +1356,9 @@ figure.l-content-width img {
 
 .elt-content figure img, #main-content figure img {
     max-width: 100%;
-    height: auto;
-    width: auto
+    height: 100%;
+    width: 100%;
+    object-fit: cover
 }
 
 .l-title-width {
@@ -1489,10 +1498,6 @@ figure.l-content-width img {
 .responsive-img, .responsive-img img {
     width: 100%;
     height: auto
-}
-
-.relative li {
-    position: relative
 }
 
 ul.bullets {
@@ -2819,13 +2824,8 @@ header {
     top: 0;
     width: 100%;
     z-index: 9999999;
-    height: 50px;
     transition: all 0.2s ease
 }
-
-    .sticky header, header.bg-purple {
-        position: fixed;
-    }
 
 .logo {
     float: left
@@ -4737,8 +4737,26 @@ footer .break-line {
     backface-visibility: hidden;
 }
 
+.full-link {
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    text-decoration: none
+}
+
 .news-content {
     padding: 20px 30px 25px
+}
+
+.news-body-wrap {
+    padding: 20px 30px 0
+}
+
+.l-one-third .news-content {
+    padding: 0 30px 25px
 }
 
 .data-box {
@@ -4872,7 +4890,12 @@ footer .break-line {
     font-weight: 400;
     text-decoration: none;
     padding: 3px 7px;
-    display: block
+    display: inline-block
+}
+
+.pagebtn a {
+    border: 1px solid #86939E;
+    padding: 4px 11px
 }
 
 .search-wrap .pagination span, .search-wrap .pagination a {
@@ -5671,14 +5694,9 @@ a.oldpost:hover {
 }
 
 .l-one-third img {
-    height: auto;
-    width: 120%;
+    height: 100%;
+    width: 100%;
     object-fit: cover
-}
-
-.l-two-third img {
-    height: auto;
-    width: 120%
 }
 
 .anchor-wrap a {
@@ -6069,14 +6087,6 @@ iframe[name="google_conversion_frame"] {
     left: -5000px
 }
 
-@font-face {
-    font-family: 'arrow-left-l';
-    src: url('../fonts/arrow-left-l.eot?v64gwq');
-    src: url('../fonts/arrow-left-l.eot?v64gwq#iefix') format('embedded-opentype'), url('../fonts/arrow-left-l.ttf?v64gwq') format('truetype'), url('../fonts/arrow-left-l.woff?v64gwq') format('woff'), url('../fonts/arrow-left-l.svg?v64gwq#arrow-left-l') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-
 .arrow-left-l {
     font-family: 'arrow-left-l' !important;
     speak: none;
@@ -6098,14 +6108,6 @@ iframe[name="google_conversion_frame"] {
         font-size: 8px;
         padding-right: 15px;
     }
-
-@font-face {
-    font-family: 'arrow-right-l';
-    src: url('../fonts/arrow-right-l.eot?jck1ok');
-    src: url('../fonts/arrow-right-l.eot?jck1ok#iefix') format('embedded-opentype'), url('../fonts/arrow-right-l.ttf?jck1ok') format('truetype'), url('../fonts/arrow-right-l.woff?jck1ok') format('woff'), url('../fonts/arrow-right-l.svg?jck1ok#arrow-right-l') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
 
 .arrow-right-l:after {
     font-family: 'arrow-right-l' !important;
@@ -6154,14 +6156,6 @@ iframe[name="google_conversion_frame"] {
     font-family: 'Roboto', sans-serif, Calibri;
 }
 
-@font-face {
-    font-family: 'sns';
-    src: url('../fonts/sns.eot?f4xt3o');
-    src: url('../fonts/sns.eot?f4xt3o#iefix') format('embedded-opentype'), url('../fonts/sns.ttf?f4xt3o') format('truetype'), url('../fonts/sns.woff?f4xt3o') format('woff'), url('../fonts/sns.svg?f4xt3o#sns') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-
 [class^="sns-"], [class*=" sns-"], [class^="sns-"]:visited, [class^="sns-"]:active {
     font-family: 'sns' !important;
     speak: none;
@@ -6174,6 +6168,10 @@ iframe[name="google_conversion_frame"] {
     -moz-osx-font-smoothing: grayscale;
     color: #999;
 }
+
+    [class^="sns-"]:hover {
+        color: #9e1f63
+    }
 
 .sns-facebook:before {
     content: "\ea90";
@@ -6194,6 +6192,10 @@ iframe[name="google_conversion_frame"] {
     border-top: 2px solid #dedede
 }
 
+.wrap-third .news-box {
+    height: 100%
+}
+
 @media print {
     body, #main, #content {
         color: #000
@@ -6212,17 +6214,53 @@ iframe[name="google_conversion_frame"] {
 }
 
 @media (max-width: 840px) {
+    .pagination > li {
+        display: none
+    }
+
+        .pagination > li.pagebtn, .pagination > li.current-page {
+            display: inline-block
+        }
+
     #secondary-nav {
         position: relative;
         margin-left: 2em;
     }
 
-    .first.navanchor > a {
+    #page-nav {
+        display: none
+    }
+
+    .first.navanchor > a.elt-pglink.text-441a63 {
+        display: block !important;
+    }
+
+    .first.navanchor > a.elt-pglink {
         display: none !important;
     }
 
     .first.navanchor a {
         margin-left: 0;
+    }
+
+    .first.navanchor > a.elt-pglink.text-441a63 {
+        font-size: 16px
+    }
+
+    .elt-pglink.text-441a63 ~ ul {
+        margin-left: 20px
+    }
+
+    .prev-page.arrow-left-l.l-align-left {
+        float: left !important
+    }
+
+    .next-page.arrow-right-l.l-align-right {
+        float: right !important
+    }
+
+    .nthrive-main-nav a {
+        line-height: 2
     }
 
     body #main-nav li.last-line ul ul a {
@@ -6238,18 +6276,18 @@ iframe[name="google_conversion_frame"] {
         border-top: 1px solid #321349;
     }
 
-        .first.navanchor.l-align-right a {
+        .first.navanchor.l-align-right a, #page-nav .second-nav > li:last-child > a {
             padding: 6px 0 !important;
             display: block !important;
         }
 
-        .first.navanchor.l-align-right > a {
+        .first.navanchor.l-align-right > a, #page-nav .second-nav > li:last-child > a {
             margin: 10px 0 0 0;
             padding: 0;
             font-size: 16px;
         }
 
-        .first.navanchor.l-align-right .ptb-10px {
+        .first.navanchor.l-align-right .ptb-10px, #page-nav .second-nav > li:last-child .ptb-10px {
             padding-top: 0;
         }
 
@@ -8114,7 +8152,7 @@ iframe[name="google_conversion_frame"] {
         padding: 24px 30px 42px
     }
 
-        .news-content h5 {
+        .news-content h5, .news-body-wrap h5 {
             font-size: 14px;
             line-height: 25px;
             padding-bottom: 12px
@@ -8643,7 +8681,7 @@ iframe[name="google_conversion_frame"] {
             min-height: 100px
         }
 
-            .newsletter-info .news-content h5 {
+            .newsletter-info .news-content h5, .news-body-wrap h5 {
                 font-weight: 500;
                 padding-bottom: 0
             }
@@ -9597,7 +9635,8 @@ body.tab .menu:focus-visible {
     text-decoration: none;
     font-weight: 500;
     padding: 0 20px;
-    color: #ffffff
+    color: #ffffff;
+    text-shadow: 0 0 2px rgba(0,0,0,1);
 }
 
 .nav-top-level {
@@ -9611,7 +9650,7 @@ body.tab .menu:focus-visible {
 }
 
 header #nav-wrap .nth-list {
-    margin: 5px;
+    margin: 5px 0;
 }
 
 .menu-panel > ul > li:nth-child(4), .menu-panel > ul > li:nth-child(7) {

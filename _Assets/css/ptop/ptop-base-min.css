@@ -1154,7 +1154,6 @@ span.arrow {
 }
 
 .backbgbox {
-    background-color: #555;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center top
@@ -2008,10 +2007,6 @@ footer, footer a, footer a:visited, footer a:active {
 
 .pb-28px {
     padding-bottom: 28px
-}
-
-.pb-45px {
-    padding-bottom: 45px
 }
 
 .pb-15px {

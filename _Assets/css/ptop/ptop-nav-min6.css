@@ -1506,7 +1506,8 @@ li.mb-first:overlay {
     text-decoration: none;
     font-weight: 500;
     padding: 0 20px;
-    color: #ffffff
+    color: #ffffff;
+    text-shadow: 0 0 2px rgba(0,0,0,1);
 }
 
 .nav-top-level {

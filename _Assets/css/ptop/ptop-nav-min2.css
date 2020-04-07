@@ -30,16 +30,6 @@ span.uparrow {
     z-index: 9999999
 }
 
-.header-logo {
-    height: 40px;
-    width: 123px;
-    background: url(../../images/careers/icon/logo-small.png) no-repeat center center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding: 0 !important;
-    margin: 5px 0 !important;
-}
-
 .nav-top-level > a {
     display: block;
     text-decoration: none;
@@ -289,13 +279,13 @@ body #primary-nav #main-nav > li.rm0 > a {
     align-items: center;
     justify-content: center;
     padding: 10px 0;
-    max-width: 1120px;
+    max-width: 1060px;
     margin: 0 auto;
     line-height: 2.2;
 }
 
-.settings {
-    line-height: 2.3 !important
+.notification-bar-content {
+    font-size: 14px;
 }
 
 .notification-bar-content-desc {
@@ -313,26 +303,6 @@ body #primary-nav #main-nav > li.rm0 > a {
 .skip-nav {
     position: relative;
     z-index: 99999999999;
-}
-
-.notification-bar a, .notification-bar a:visited, .notification-bar a:active {
-    color: #ffffff;
-}
-
-.table-body a, .table-body a:visited, .table-body a:active {
-    font-weight: 600;
-    color: #da1c5c !important
-}
-
-    .table-body a:hover {
-        text-decoration: underline
-    }
-
-@media only screen and (max-width: 980px) {
-    body #primary-nav #main-nav > li > a {
-        padding: 0 5px;
-        margin: 0
-    }
 }
 
 @media only screen and (max-width: 840px) {
@@ -1535,7 +1505,7 @@ body .panel-wrap li {
     bottom: .4em;
     text-align: center;
     position: relative;
-    z-index: 1000;
+    z-index: 999999;
     display: none;
     opacity: 0;
     visibility: hidden

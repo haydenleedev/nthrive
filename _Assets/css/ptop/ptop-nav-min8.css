@@ -1,21 +1,21 @@
 ﻿#logo-wrap {
-    float: left;
+    float: left
 }
 
 #main-nav {
-    float: right;
+    float: right
 }
 
 .nav-top-level .first, .nav-top-level .first.nth-hide-menu {
-    display: none;
+    display: none
 }
 
 body #primary-nav li.nav-dropdown:hover + a + ul.first.nth-hide-menu {
-    display: block;
+    display: block
 }
 
 .nthrive-main-nav {
-    max-width: 100%;
+    max-width: 100%
 }
 
 span.uparrow {
@@ -27,7 +27,7 @@ span.uparrow {
     margin: -9px 0 0 15px !important;
     display: block;
     position: relative;
-    z-index: 9999999;
+    z-index: 9999999
 }
 
 .header-logo {
@@ -47,7 +47,7 @@ span.uparrow {
     padding: 0 20px;
     color: #ffffff;
     line-height: 50px;
-    font-size: 13px;
+    font-size: 13px
 }
 
 .nav-top-level {
@@ -57,33 +57,33 @@ span.uparrow {
     text-decoration: none;
     line-height: 2.8 !important;
     position: initial !important;
-    padding: 0 5px;
+    padding: 0 5px
 }
 
 a.menu-hover {
     background-image: url(../../images/icon/down_arrow.png);
     background-repeat: no-repeat;
     background-position: center right;
-    padding-right: 12px !important;
+    padding-right: 12px !important
 }
 
 #primary-nav > ul > li {
     position: relative;
-    text-align: left;
+    text-align: left
 }
 
 #primary-nav > ul > li {
     float: left;
-    width: auto;
+    width: auto
 }
 
 .container {
     width: 90%;
-    margin: 10vh auto;
+    margin: 10vh auto
 }
 
 a {
-    color: inherit;
+    color: inherit
 }
 
 #primary-nav a:focus {
@@ -91,28 +91,28 @@ a {
 }
 
 #primary-nav li {
-    text-align: left;
+    text-align: left
 }
 
 a.menu-hover + ul {
-    position: absolute;
+    position: absolute
 }
 
     a.menu-hover + ul:not(.nth-show-menu) {
-        display: none;
+        display: none
     }
 
 #primary-nav .nth-show-menu, #primary-nav .first, #primary-nav .second {
-    background-color: #f2f2f2;
+    background-color: #f2f2f2
 }
 
 #primary-nav > ul > li {
     float: left;
-    width: auto;
+    width: auto
 }
 
 ul.first.nth-show-menu {
-    width: 250px;
+    width: 250px
 }
 
 ul.second.nth-show-menu {
@@ -121,134 +121,134 @@ ul.second.nth-show-menu {
     width: 250px;
     position: absolute;
     background-color: #f2f2f2;
-    z-index: 9;
+    z-index: 9
 }
 
 nav .first li {
     display: block;
-    float: none;
+    float: none
 }
 
 body #primary-nav #main-nav > li > a {
     padding: 0 18px;
-    margin: 0;
+    margin: 0
 }
 
     body #primary-nav #main-nav > li > a:hover {
-        color: #43f5d6;
+        color: #43f5d6
     }
 
 #primary-nav li {
-    position: initial;
+    position: initial
 }
 
 #primary-nav > ul {
     height: 100%;
-    line-height: 2.5em;
+    line-height: 2.5em
 }
 
     #primary-nav > ul > li {
         position: relative;
-        text-align: left;
+        text-align: left
     }
 
         #primary-nav > ul > li > ul {
-            background-color: #f2f2f2;
+            background-color: #f2f2f2
         }
 
             #primary-nav > ul > li > ul > li > ul > li > a:hover {
                 color: #ffffff !important;
-                background-color: #b0246f !important;
+                background-color: #b0246f !important
             }
 
             #primary-nav > ul > li > ul > li > ul > li > a:focus, #primary-nav > ul > li > ul > li > a:focus {
                 color: #ffffff !important;
                 background-color: #441a63;
-                border: 0;
+                border: 0
             }
 
 .noscript-content #primary-nav > ul > li > ul > li > ul > li > a:focus, .noscript-content #primary-nav > ul > li > ul > li > a:focus, .noscript-content #primary-nav a:focus {
     outline: 2px solid #a6ccdb;
     -webkit-border-radius: 3px 3px 3px 3px !important;
-    border-radius: 3px 3px 3px 3px !important;
+    border-radius: 3px 3px 3px 3px !important
 }
 
 #primary-nav > ul > li > ul > li > a {
     background-color: #f2f2f2;
-    font-weight: 400;
+    font-weight: 400
 }
 
 body #primary-nav #main-nav > li > a:focus {
-    border: 0;
+    border: 0
 }
 
 .noscript-content body #primary-nav #main-nav > li > a:focus, .noscript-content #primary-nav > ul > li > ul > li > a:focus, .noscript-content #primary-nav > ul > li > ul > li > ul > li > a:focus {
     outline: 2px solid #a6ccdb;
     -webkit-border-radius: 3px 3px 3px 3px !important;
-    border-radius: 3px 3px 3px 3px !important;
+    border-radius: 3px 3px 3px 3px !important
 }
 
 #primary-nav > ul > li > ul > li > a:hover, #primary-nav > ul > li > ul > li > a:focus {
     background-color: #441a63 !important;
-    color: #ffffff !important;
+    color: #ffffff !important
 }
 
 #primary-nav > ul > li > ul > li > ul > li > a {
     background-color: #f2f2f2;
-    font-weight: 400;
+    font-weight: 400
 }
 
     #primary-nav > ul > li > ul > li > ul > li > a:hover, #primary-nav > ul > li > ul > li > ul > li > a:focus {
-        background-color: #441a63;
+        background-color: #441a63
     }
 
 #primary-nav .first a:hover, #primary-nav .first a:focus {
     color: #ffffff;
-    background-color: #441a63;
+    background-color: #441a63
 }
 
 #primary-nav .first a.menu-hover {
     font-weight: 400 !important;
     padding: 5px 15px !important;
     display: block;
-    line-height: 2.5em !important;
+    line-height: 2.5em !important
 }
 
 .second a {
     padding: 5px 15px !important;
     display: block;
-    line-height: 2.5sem !important;
+    line-height: 2.5sem !important
 }
 
 #primary-nav .nth-hide-menu {
-    display: none;
+    display: none
 }
 
 #primary-nav .nth-show-menu {
-    display: block;
+    display: block
 }
 
 html.no-js li:hover > a + ul, html.no-js li:focus > a + ul {
-    display: block;
+    display: block
 }
 
 ##main-nav .panel-wrap {
     -webkit-box-shadow: 0 1px 2px 2px rgba(0, 0, 0, 0.1);
-    box-shadow: 0 1px 2px 2px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1px 2px 2px rgba(0, 0, 0, 0.1)
 }
 
 body #primary-nav #main-nav > li > a.menu-hover {
     padding-right: 12px !important;
-    margin-right: 20px;
+    margin-right: 20px
 }
 
 body #primary-nav #main-nav > li.rm0 > a {
     padding: 0 0 0 20px;
-    margin: 0;
+    margin: 0
 }
 
 #main-nav .panel-wrap {
-    border: 1px solid #ededed;
+    border: 1px solid #ededed
 }
 
 .skip-nav a {
@@ -261,7 +261,7 @@ body #primary-nav #main-nav > li.rm0 > a {
     background: #ffffff;
     display: inline-block;
     max-width: 200px;
-    border: 1px solid #ededed;
+    border: 1px solid #ededed
 }
 
 .ml-10px {
@@ -295,7 +295,7 @@ body #primary-nav #main-nav > li.rm0 > a {
 }
 
 .settings {
-    line-height: 2.3 !important;
+    line-height: 2.3 !important
 }
 
 .notification-bar-content-desc {
@@ -307,7 +307,7 @@ body #primary-nav #main-nav > li.rm0 > a {
 }
 
     .notification-bar-content-desc a {
-        color: #fff;
+        color: #fff
     }
 
 .skip-nav {
@@ -321,27 +321,17 @@ body #primary-nav #main-nav > li.rm0 > a {
 
 .table-body a, .table-body a:visited, .table-body a:active {
     font-weight: 600;
-    color: #da1c5c !important;
+    color: #da1c5c !important
 }
 
     .table-body a:hover {
-        text-decoration: underline;
+        text-decoration: underline
     }
-
-.footer-logo {
-    padding-top: 14px;
-    width: 160px;
-}
-
-.footer-logo img {
-    display: block;
-    width: 100%;
-}
 
 @media only screen and (max-width: 980px) {
     body #primary-nav #main-nav > li > a {
         padding: 0 5px;
-        margin: 0;
+        margin: 0
     }
 }
 
@@ -379,7 +369,7 @@ body #primary-nav #main-nav > li.rm0 > a {
         }
 
     #main-nav .panel-wrap {
-        border: 0;
+        border: 0
     }
 
     .panel-wrap .menu-panel-wrap:nth-child(2n) {
@@ -388,102 +378,102 @@ body #primary-nav #main-nav > li.rm0 > a {
     }
 
     .nav-top-level > a {
-        padding: 0 30px;
+        padding: 0 30px
     }
 
         .nav-top-level > a.selected {
-            border-left: 5px solid #752dab;
+            border-left: 5px solid #752dab
         }
 
     #primary-nav li.nav-top-level {
-        border-bottom: 1px solid #321349;
+        border-bottom: 1px solid #321349
     }
 
     #primary-nav .nth-show-menu, #primary-nav .first, #primary-nav .second {
-        background-color: transparent;
+        background-color: transparent
     }
 
     #primary-nav a {
-        color: #ffffff;
+        color: #ffffff
     }
 
     #main-nav ul {
-        border: 0;
+        border: 0
     }
 
     #primary-nav {
-        display: block;
+        display: block
     }
 
         #primary-nav li {
             text-align: left;
-            width: 100%;
+            width: 100%
         }
 
     a.menu-hover + ul {
-        position: relative;
+        position: relative
     }
 
         a.menu-hover + ul:not(.nth-hide-menu) {
-            display: block;
+            display: block
         }
 
     #primary-nav > ul > li {
         float: none;
         display: block;
-        width: 100%;
+        width: 100%
     }
 
     #main-nav ul {
-        width: auto;
+        width: auto
     }
 
     ul.second.nth-show-menu {
         position: relative;
         width: auto;
-        right: auto;
+        right: auto
     }
 
     #primary-nav > ul li {
         border-bottom: 1px solid #321349;
         -webkit-box-shadow: none !important;
-        box-shadow: none !important;
+        box-shadow: none !important
     }
 
     #primary-nav ul {
         -webkit-box-shadow: none !important;
-        box-shadow: none !important;
+        box-shadow: none !important
     }
 
         #primary-nav ul.first, #primary-nav ul.second {
-            margin-left: 0;
+            margin-left: 0
         }
 
             #primary-nav ul.first a {
-                margin-left: 30px;
+                margin-left: 30px
             }
 
             #primary-nav ul.second a {
-                margin-left: 46px;
+                margin-left: 46px
             }
 
     #primary-nav > ul > li > ul {
         width: 100%;
-        position: relative;
+        position: relative
     }
 
         #primary-nav > ul > li > ul > li > a {
             color: #ffffff !important;
-            padding-left: 65px;
+            padding-left: 65px
         }
 
     body #primary-nav #main-nav > li > a:focus {
-        background: transparent;
+        background: transparent
     }
 
     body #primary-nav > ul > li > ul > li > ul a {
         padding-left: 90px !important;
-        color: #ffffff !important;
+        color: #ffffff !important
     }
 
     body #main-nav li.nav-top-level ul ul a {
@@ -492,84 +482,84 @@ body #primary-nav #main-nav > li.rm0 > a {
     }
 
     #primary-nav > ul > li > ul > li > ul > li > a {
-        padding: 15px 60px;
+        padding: 15px 60px
     }
 
     body #main-nav li.nav-top-level:hover ul ul {
         color: #ffffff;
-        left: 0 !important;
+        left: 0 !important
     }
 
     body #primary-nav #main-nav > li:hover > a {
-        color: #2d848f;
+        color: #2d848f
     }
 
     body #primary-nav #main-nav li.nav-top-level > ul > li > ul > li > a:hover, body #primary-nav #main-nav li.nav-top-level > ul > li > ul > li > a:focus {
-        color: #2d848f !important;
+        color: #2d848f !important
     }
 
     body #primary-nav > ul > li > ul {
         left: 0 !important;
-        padding: 0;
+        padding: 0
     }
 
     #primary-nav > ul > li > ul:not(.nth-show-menu) {
-        display: none;
+        display: none
     }
 
     #primary-nav > ul > li > ul > li > ul {
         width: 100%;
-        position: relative;
+        position: relative
     }
 
         #primary-nav > ul > li > ul > li > ul:not(.nth-show-menu) {
-            display: none;
+            display: none
         }
 
     .nthrive-main-nav {
-        max-height: 550px;
+        max-height: 550px
     }
 
     header {
         height: 50px;
         background: #441a63;
-        position: fixed;
+        position: fixed
     }
 
     html.no-js #primary-nav:hover li:hover > a + ul, html.no-js #primary-nav:hover li:focus > a + ul, html.no-js #primary-nav:focus li:hover > a + ul, html.no-js #primary-nav:focus li:focus > a + ul {
-        display: block;
+        display: block
     }
 
     #primary-nav a:hover {
-        color: #2da48f;
+        color: #2da48f
     }
 
     #primary-nav > ul > li > ul > li > ul {
-        right: 0;
+        right: 0
     }
 
     body #primary-nav #main-nav > li > a.menu-hover {
-        padding-right: 0;
+        padding-right: 0
     }
 
     .nav-top-level {
-        padding: 0;
+        padding: 0
     }
 
     .uparrow {
-        display: none !important;
+        display: none !important
     }
 
     .first a:hover, .first a:focus {
-        background-color: transparent !important;
+        background-color: transparent !important
     }
 
     .first a.menu-hover {
-        padding: 5px 0 !important;
+        padding: 5px 0 !important
     }
 
     .nav-top-level, .nav-top-level > a {
-        line-height: 3;
+        line-height: 3
     }
 }
 
@@ -577,17 +567,17 @@ body #primary-nav #main-nav > li.rm0 > a {
     font-weight: normal;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
-    text-size-adjust: 100%;
+    text-size-adjust: 100%
 }
 
     #nav-wrap, #nav-wrap:before, #nav-wrap:after, #nav-wrap *, #nav-wrap *:before, #nav-wrap *:after, #nth-segmentbar, #nth-segmentbar:before, #nth-segmentbar:after, #nth-segmentbar *, #nth-segmentbar *:before, #nth-segmentbar *:after {
         box-sizing: content-box;
         pointer-events: auto;
-        letter-spacing: normal;
+        letter-spacing: normal
     }
 
         #nav-wrap ul, #nth-segmentbar ul {
-            list-style: none;
+            list-style: none
         }
 
         #nav-wrap, #nav-wrap input, #nav-wrap textarea, #nav-wrap select, #nav-wrap button, #nth-segmentbar, #nth-segmentbar input, #nth-segmentbar textarea, #nth-segmentbar select, #nth-segmentbar button {
@@ -597,7 +587,7 @@ body #primary-nav #main-nav > li.rm0 > a {
             -webkit-font-smoothing: antialiased;
             -moz-osx-font-smoothing: grayscale;
             direction: ltr;
-            text-align: left;
+            text-align: left
         }
 
 #nav-wrap {
@@ -615,56 +605,56 @@ body #primary-nav #main-nav > li.rm0 > a {
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
-    user-select: none;
+    user-select: none
 }
 
 .header-Logo {
-    margin: 5px 15px !important;
+    margin: 5px 15px !important
 }
 
 @media only screen and (max-width: 1044px) {
     #nav-wrap {
-        min-width: 320px;
+        min-width: 320px
     }
 }
 
 @media only screen and (max-width: 840px) {
     html #nav-wrap {
         position: fixed;
-        background: #441a63;
+        background: #441a63
     }
 
     #nav-wrap {
         max-height: none;
         -webkit-transition: background 0.35s linear, height 0.35s ease-in;
-        transition: background 0.35s linear, height 0.35s ease-in;
+        transition: background 0.35s linear, height 0.35s ease-in
     }
 
     #nth-menu-switch:checked ~ #nav-wrap, #nth-menu-switch:target ~ #nav-wrap {
         height: 100%;
         background: #441a63;
         -webkit-transition: background 0.35s linear, height 0.35s ease-in 200ms;
-        transition: background 0.35s linear, height 0.35s ease-in 200ms;
+        transition: background 0.35s linear, height 0.35s ease-in 200ms
     }
 
     #primary-nav .nth-hide-menu {
-        display: block;
+        display: block
     }
 
     body header .first a.menu-hover {
-        font-size: 13px !important;
+        font-size: 13px !important
     }
 }
 
 #nth-menu-switch {
-    display: none;
+    display: none
 }
 
 #nav-wrap .nth-content {
     margin: 0 auto;
     max-width: 1040px;
     position: relative;
-    z-index: 2;
+    z-index: 2
 }
 
 @media only screen and (max-width: 840px) {
@@ -673,7 +663,7 @@ body #primary-nav #main-nav > li.rm0 > a {
         position: absolute;
         top: 0;
         width: 100%;
-        height: 100%;
+        height: 100%
     }
 }
 
@@ -688,7 +678,7 @@ body #primary-nav #main-nav > li.rm0 > a {
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
-    user-select: none;
+    user-select: none
 }
 
     #nav-wrap .nth-list:after {
@@ -696,24 +686,24 @@ body #primary-nav #main-nav > li.rm0 > a {
         width: 100%;
         display: inline-block;
         font-size: 0;
-        line-height: 0;
+        line-height: 0
     }
 
 @media only screen and (max-width: 840px) {
     #primary-nav #logo-wrap li {
-        border-bottom: 0 !important;
+        border-bottom: 0 !important
     }
 
     #main-nav {
-        border-top: 1px solid #321349;
+        border-top: 1px solid #321349
     }
 
     #primary-nav .second li:last-child, #primary-nav .first li:last-child, #secondary-nav li:last-child {
-        border-bottom: 0 !important;
+        border-bottom: 0 !important
     }
 
     #secondary-nav a {
-        padding: 0 20px;
+        padding: 0 20px
     }
 
     #nav-wrap .nth-list {
@@ -732,15 +722,15 @@ body #primary-nav #main-nav > li.rm0 > a {
         -webkit-overflow-scrolling: touch;
         visibility: hidden;
         -webkit-transition: visibility 0s linear 1s;
-        transition: visibility 0s linear 1s;
+        transition: visibility 0s linear 1s
     }
 
         #nav-wrap .nth-list:nth-child(2) {
-            margin-top: 5px;
+            margin-top: 5px
         }
 
         #nav-wrap .nth-list:nth-child(9) {
-            margin-bottom: 44px;
+            margin-bottom: 44px
         }
 
     #nth-menu-switch:checked ~ #nav-wrap .nth-list, #nth-menu-switch:target ~ #nav-wrap .nth-list {
@@ -750,7 +740,7 @@ body #primary-nav #main-nav > li.rm0 > a {
     }
 
     #nav-wrap .nth-list:after {
-        display: none;
+        display: none
     }
 }
 
@@ -759,13 +749,13 @@ body #primary-nav #main-nav > li.rm0 > a {
     position: relative;
     height: 44px;
     z-index: 1;
-    vertical-align: top;
+    vertical-align: top
 }
 
 @media only screen and (max-width: 840px) {
     #nav-wrap .nth-item {
         width: 100%;
-        height: 44px;
+        height: 44px
     }
 }
 
@@ -784,11 +774,11 @@ body #primary-nav #main-nav > li.rm0 > a {
     }
 
     .nav-dropdown .first, .nav-dropdown .first.nth-hide-menu, a + ul:not(.nth-show-menu) {
-        display: block;
+        display: block
     }
 
     .uparrow {
-        display: none;
+        display: none
     }
 
     #nav-wrap .nav-top-level, #nav-wrap #secondary-nav > li {
@@ -802,52 +792,52 @@ body #primary-nav #main-nav > li.rm0 > a {
         -webkit-transition: opacity 0.35s ease-out, -webkit-transform 0.35s ease-out;
         transition: opacity 0.35s ease-out, -webkit-transform 0.35s ease-out;
         transition: opacity 0.35s ease-out, transform 0.35s ease-out;
-        transition: opacity 0.35s ease-out, transform 0.35s ease-out, -webkit-transform 0.35s ease-out;
+        transition: opacity 0.35s ease-out, transform 0.35s ease-out, -webkit-transform 0.35s ease-out
     }
 
         #nav-wrap .nav-top-level:nth-child(1) {
             -webkit-transition-delay: 450ms, 450ms;
-            transition-delay: 450ms, 450ms;
+            transition-delay: 450ms, 450ms
         }
 
         #nav-wrap .nav-top-level:nth-child(2) {
             -webkit-transition-delay: 400ms, 400ms;
-            transition-delay: 400ms, 400ms;
+            transition-delay: 400ms, 400ms
         }
 
         #nav-wrap .nav-top-level:nth-child(3) {
             -webkit-transition-delay: 350ms, 350ms;
-            transition-delay: 350ms, 350ms;
+            transition-delay: 350ms, 350ms
         }
 
         #nav-wrap .nav-top-level:nth-child(4) {
             -webkit-transition-delay: 300ms, 300ms;
-            transition-delay: 300ms, 300ms;
+            transition-delay: 300ms, 300ms
         }
 
         #nav-wrap .nav-top-level:nth-child(5) {
             -webkit-transition-delay: 250ms, 250ms;
-            transition-delay: 250ms, 250ms;
+            transition-delay: 250ms, 250ms
         }
 
         #nav-wrap .nav-top-level:nth-child(6) {
             -webkit-transition-delay: 200ms, 200ms;
-            transition-delay: 200ms, 200ms;
+            transition-delay: 200ms, 200ms
         }
 
         #nav-wrap .nav-top-level:nth-child(7) {
             -webkit-transition-delay: 150ms, 150ms;
-            transition-delay: 150ms, 150ms;
+            transition-delay: 150ms, 150ms
         }
 
         #nav-wrap .nav-top-level:nth-child(8) {
             -webkit-transition-delay: 100ms, 100ms;
-            transition-delay: 100ms, 100ms;
+            transition-delay: 100ms, 100ms
         }
 
         #nav-wrap .nav-top-level:nth-child(9) {
             -webkit-transition-delay: 50ms, 50ms;
-            transition-delay: 50ms, 50ms;
+            transition-delay: 50ms, 50ms
         }
 
     #nth-menu-switch:checked ~ #nav-wrap .nav-top-level, #nth-menu-switch:target ~ #nav-wrap .nav-top-level {
@@ -861,96 +851,96 @@ body #primary-nav #main-nav > li.rm0 > a {
 
         #nth-menu-switch:checked ~ #nav-wrap .nav-top-level:nth-child(1), #nth-menu-switch:target ~ #nav-wrap .nav-top-level:nth-child(1) {
             -webkit-transition-delay: 250ms, 250ms;
-            transition-delay: 250ms, 250ms;
+            transition-delay: 250ms, 250ms
         }
 
         #nth-menu-switch:checked ~ #nav-wrap .nav-top-level:nth-child(2), #nth-menu-switch:target ~ #nav-wrap .nav-top-level:nth-child(2) {
             -webkit-transition-delay: 300ms, 300ms;
-            transition-delay: 300ms, 300ms;
+            transition-delay: 300ms, 300ms
         }
 
         #nth-menu-switch:checked ~ #nav-wrap .nav-top-level:nth-child(3), #nth-menu-switch:target ~ #nav-wrap .nav-top-level:nth-child(3) {
             -webkit-transition-delay: 350ms, 350ms;
-            transition-delay: 350ms, 350ms-;
+            transition-delay: 350ms, 350ms-
         }
 
         #nth-menu-switch:checked ~ #nav-wrap .nav-top-level:nth-child(4), #nth-menu-switch:target ~ #nav-wrap .nav-top-level:nth-child(4) {
             -webkit-transition-delay: 400ms, 400ms;
-            transition-delay: 400ms, 400ms;
+            transition-delay: 400ms, 400ms
         }
 
         #nth-menu-switch:checked ~ #nav-wrap .nav-top-level:nth-child(5), #nth-menu-switch:target ~ #nav-wrap .nav-top-level:nth-child(5) {
             -webkit-transition-delay: 450ms, 450ms;
-            transition-delay: 450ms, 450ms;
+            transition-delay: 450ms, 450ms
         }
 
         #nth-menu-switch:checked ~ #nav-wrap .nav-top-level:nth-child(6), #nth-menu-switch:target ~ #nav-wrap .nav-top-level:nth-child(6) {
             -webkit-transition-delay: 500ms, 500ms;
-            transition-delay: 500ms, 500ms;
+            transition-delay: 500ms, 500ms
         }
 
         #nth-menu-switch:checked ~ #nav-wrap .nav-top-level:nth-child(7), #nth-menu-switch:target ~ #nav-wrap .nav-top-level:nth-child(7) {
             -webkit-transition-delay: 550ms, 550ms;
-            transition-delay: 550ms, 550ms;
+            transition-delay: 550ms, 550ms
         }
 
         #nth-menu-switch:checked ~ #nav-wrap .nav-top-level:nth-child(8), #nth-menu-switch:target ~ #nav-wrap .nav-top-level:nth-child(8) {
             -webkit-transition-delay: 600ms, 600ms;
-            transition-delay: 600ms, 600ms;
+            transition-delay: 600ms, 600ms
         }
 
         #nth-menu-switch:checked ~ #nav-wrap .nav-top-level:nth-child(9), #nth-menu-switch:target ~ #nav-wrap .nav-top-level:nth-child(9) {
             -webkit-transition-delay: 650ms, 650ms;
-            transition-delay: 650ms, 650ms;
+            transition-delay: 650ms, 650ms
         }
 
     #secondary-nav a {
-        color: #ffffff;
+        color: #ffffff
     }
 
     #nav-wrap #secondary-nav li:nth-child(1) {
         -webkit-transition-delay: 450ms, 450ms;
-        transition-delay: 450ms, 450ms;
+        transition-delay: 450ms, 450ms
     }
 
     #nav-wrap #secondary-nav li:nth-child(2) {
         -webkit-transition-delay: 400ms, 400ms;
-        transition-delay: 400ms, 400ms;
+        transition-delay: 400ms, 400ms
     }
 
     #nav-wrap #secondary-nav li:nth-child(3) {
         -webkit-transition-delay: 350ms, 350ms;
-        transition-delay: 350ms, 350ms;
+        transition-delay: 350ms, 350ms
     }
 
     #nav-wrap #secondary-nav li:nth-child(4) {
         -webkit-transition-delay: 300ms, 300ms;
-        transition-delay: 300ms, 300ms;
+        transition-delay: 300ms, 300ms
     }
 
     #nav-wrap #secondary-nav li:nth-child(5) {
         -webkit-transition-delay: 250ms, 250ms;
-        transition-delay: 250ms, 250ms;
+        transition-delay: 250ms, 250ms
     }
 
     #nav-wrap #secondary-nav li:nth-child(6) {
         -webkit-transition-delay: 200ms, 200ms;
-        transition-delay: 200ms, 200ms;
+        transition-delay: 200ms, 200ms
     }
 
     #nav-wrap #secondary-nav li:nth-child(7) {
         -webkit-transition-delay: 150ms, 150ms;
-        transition-delay: 150ms, 150ms;
+        transition-delay: 150ms, 150ms
     }
 
     #nav-wrap #secondary-nav li:nth-child(8) {
         -webkit-transition-delay: 100ms, 100ms;
-        transition-delay: 100ms, 100ms;
+        transition-delay: 100ms, 100ms
     }
 
     #nav-wrap #secondary-nav li:nth-child(9) {
         -webkit-transition-delay: 50ms, 50ms;
-        transition-delay: 50ms, 50ms;
+        transition-delay: 50ms, 50ms
     }
 
     #nth-menu-switch:checked ~ #nav-wrap #secondary-nav li, #nth-menu-switch:target ~ #nav-wrap #secondary-nav li {
@@ -958,62 +948,62 @@ body #primary-nav #main-nav > li.rm0 > a {
         pointer-events: auto;
         -webkit-transform: none;
         -ms-transform: none;
-        transform: none;
+        transform: none
     }
 
         #nth-menu-switch:checked ~ #nav-wrap #secondary-nav li:nth-child(1), #nth-menu-switch:target ~ #nav-wrap #secondary-nav li:nth-child(1) {
             -webkit-transition-delay: 250ms, 250ms;
-            transition-delay: 250ms, 250ms;
+            transition-delay: 250ms, 250ms
         }
 
         #nth-menu-switch:checked ~ #nav-wrap #secondary-nav li:nth-child(2), #nth-menu-switch:target ~ #nav-wrap #secondary-nav li:nth-child(2) {
             -webkit-transition-delay: 300ms, 300ms;
-            transition-delay: 300ms, 300ms;
+            transition-delay: 300ms, 300ms
         }
 
         #nth-menu-switch:checked ~ #nav-wrap #secondary-nav li:nth-child(3), #nth-menu-switch:target ~ #nav-wrap #secondary-nav li:nth-child(3) {
             -webkit-transition-delay: 350ms, 350ms;
-            transition-delay: 350ms, 350ms-;
+            transition-delay: 350ms, 350ms-
         }
 
         #nth-menu-switch:checked ~ #nav-wrap #secondary-nav li:nth-child(4), #nth-menu-switch:target ~ #nav-wrap #secondary-nav li:nth-child(4) {
             -webkit-transition-delay: 400ms, 400ms;
-            transition-delay: 400ms, 400ms;
+            transition-delay: 400ms, 400ms
         }
 
         #nth-menu-switch:checked ~ #nav-wrap #secondary-nav li:nth-child(5), #nth-menu-switch:target ~ #nav-wrap #secondary-nav li:nth-child(5) {
             -webkit-transition-delay: 450ms, 450ms;
-            transition-delay: 450ms, 450ms;
+            transition-delay: 450ms, 450ms
         }
 
         #nth-menu-switch:checked ~ #nav-wrap #secondary-nav li:nth-child(6), #nth-menu-switch:target ~ #nav-wrap #secondary-nav li:nth-child(6) {
             -webkit-transition-delay: 500ms, 500ms;
-            transition-delay: 500ms, 500ms;
+            transition-delay: 500ms, 500ms
         }
 
         #nth-menu-switch:checked ~ #nav-wrap #secondary-nav li:nth-child(7), #nth-menu-switch:target ~ #nav-wrap #secondary-nav li:nth-child(7) {
             -webkit-transition-delay: 550ms, 550ms;
-            transition-delay: 550ms, 550ms;
+            transition-delay: 550ms, 550ms
         }
 
         #nth-menu-switch:checked ~ #nav-wrap #secondary-nav li:nth-child(8), #nth-menu-switch:target ~ #nav-wrap #secondary-nav li:nth-child(8) {
             -webkit-transition-delay: 600ms, 600ms;
-            transition-delay: 600ms, 600ms;
+            transition-delay: 600ms, 600ms
         }
 
         #nth-menu-switch:checked ~ #nav-wrap #secondary-nav li:nth-child(9), #nth-menu-switch:target ~ #nav-wrap #secondary-nav li:nth-child(9) {
             -webkit-transition-delay: 650ms, 650ms;
-            transition-delay: 650ms, 650ms;
+            transition-delay: 650ms, 650ms
         }
 }
 
 @media only screen and (max-width: 840px) {
     #nav-wrap li {
-        display: block;
+        display: block
     }
 
     #page-nav {
-        background: transparent;
+        background: transparent
     }
 }
 
@@ -1021,7 +1011,7 @@ body #primary-nav #main-nav > li.rm0 > a {
 }
 
 #nav-wrap .nth-link.current {
-    opacity: .65;
+    opacity: .65
 }
 
 #nav-wrap .nth-menuicon {
@@ -1031,7 +1021,7 @@ body #primary-nav #main-nav > li.rm0 > a {
     z-index: 2;
     top: 0;
     width: 48px;
-    border-bottom: none;
+    border-bottom: none
 }
 
 @media only screen and (max-width: 840px) {
@@ -1097,7 +1087,7 @@ body #primary-nav #main-nav > li.rm0 > a {
     }
 
     #primary-nav .nth-item.nth-menuicon {
-        display: block !important;
+        display: block !important
     }
 }
 
@@ -1113,11 +1103,11 @@ body #primary-nav #main-nav > li.rm0 > a {
     transition: opacity 0.2s cubic-bezier(0.645, 0.045, 0.355, 1), -webkit-transform 0.4s cubic-bezier(0.4, 0.01, 0.165, 0.99);
     transition: opacity 0.2s cubic-bezier(0.645, 0.045, 0.355, 1), transform 0.4s cubic-bezier(0.4, 0.01, 0.165, 0.99);
     transition: opacity 0.2s cubic-bezier(0.645, 0.045, 0.355, 1), transform 0.4s cubic-bezier(0.4, 0.01, 0.165, 0.99), -webkit-transform 0.4s cubic-bezier(0.4, 0.01, 0.165, 0.99);
-    -webkit-tap-highlight-color: transparent;
+    -webkit-tap-highlight-color: transparent
 }
 
     #nav-wrap .nth-menuicon-label:hover, #nav-wrap .nth-menuicon-label:focus, #nav-wrap .nth-menuicon-label:active {
-        opacity: .65;
+        opacity: .65
     }
 
 #nav-wrap.touch .nth-menuicon-label {
@@ -1125,13 +1115,13 @@ body #primary-nav #main-nav > li.rm0 > a {
     -webkit-transition: -webkit-transform 0.4s cubic-bezier(0.4, 0.01, 0.165, 0.99);
     transition: -webkit-transform 0.4s cubic-bezier(0.4, 0.01, 0.165, 0.99);
     transition: transform 0.4s cubic-bezier(0.4, 0.01, 0.165, 0.99);
-    transition: transform 0.4s cubic-bezier(0.4, 0.01, 0.165, 0.99), -webkit-transform 0.4s cubic-bezier(0.4, 0.01, 0.165, 0.99);
+    transition: transform 0.4s cubic-bezier(0.4, 0.01, 0.165, 0.99), -webkit-transform 0.4s cubic-bezier(0.4, 0.01, 0.165, 0.99)
 }
 
 #nth-menu-switch:checked ~ #nav-wrap .nth-menuicon-label, #nth-menu-switch:target ~ #nav-wrap .nth-menuicon-label {
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
-    transform: rotate(90deg);
+    transform: rotate(90deg)
 }
 
 #nav-wrap .nth-menuicon-bread {
@@ -1142,7 +1132,7 @@ body #primary-nav #main-nav > li.rm0 > a {
     width: 48px;
     height: 48px;
     -webkit-transition: opacity 0.2s cubic-bezier(0.645, 0.045, 0.355, 1);
-    transition: opacity 0.2s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: opacity 0.2s cubic-bezier(0.645, 0.045, 0.355, 1)
 }
 
 #nav-wrap .nth-menuicon-top {
@@ -1153,7 +1143,7 @@ body #primary-nav #main-nav > li.rm0 > a {
     -webkit-transform: rotate(0);
     -ms-transform: rotate(0);
     transform: rotate(0);
-    z-index: 4;
+    z-index: 4
 }
 
 #nth-menu-switch:checked ~ #nav-wrap .nth-menuicon-top, #nth-menu-switch:target ~ #nav-wrap .nth-menuicon-top {
@@ -1163,7 +1153,7 @@ body #primary-nav #main-nav > li.rm0 > a {
     transition: transform 0.25s 0.2s cubic-bezier(0.4, 0.01, 0.165, 0.99), -webkit-transform 0.25s 0.2s cubic-bezier(0.4, 0.01, 0.165, 0.99);
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
-    transform: rotate(45deg);
+    transform: rotate(45deg)
 }
 
 #nav-wrap .nth-menuicon-bottom {
@@ -1173,7 +1163,7 @@ body #primary-nav #main-nav > li.rm0 > a {
     transition: transform 0.25s cubic-bezier(0.4, 0.01, 0.165, 0.99), -webkit-transform 0.25s cubic-bezier(0.4, 0.01, 0.165, 0.99);
     -webkit-transform: rotate(0);
     -ms-transform: rotate(0);
-    transform: rotate(0);
+    transform: rotate(0)
 }
 
 #nth-menu-switch:checked ~ #nav-wrap .nth-menuicon-bottom, #nth-menu-switch:target ~ #nav-wrap .nth-menuicon-bottom {
@@ -1183,7 +1173,7 @@ body #primary-nav #main-nav > li.rm0 > a {
     transition: transform 0.25s 0.2s cubic-bezier(0.4, 0.01, 0.165, 0.99), -webkit-transform 0.25s 0.2s cubic-bezier(0.4, 0.01, 0.165, 0.99);
     -webkit-transform: rotate(-45deg);
     -ms-transform: rotate(-45deg);
-    transform: rotate(-45deg);
+    transform: rotate(-45deg)
 }
 
 #nav-wrap .nth-menuicon-middle-line {
@@ -1194,17 +1184,17 @@ body #primary-nav #main-nav > li.rm0 > a {
     transition: transform 0.2s 0.2s, -webkit-transform 0.2s 0.2s;
     -webkit-transform: translateY(-3px);
     -ms-transform: translateY(-3px);
-    transform: translateY(-3px);
+    transform: translateY(-3px)
 }
 
 #nav-wrap .nth-menuicon-middle {
     opacity: 1;
-    transition: .2s all ease-in-out;
+    transition: .2s all ease-in-out
 }
 
 #nth-menu-switch:checked ~ #nav-wrap .nth-menuicon-middle, #nth-menu-switch:target ~ #nav-wrap .nth-menuicon-middle {
     opacity: 0;
-    transition: .2s all ease-in-out;
+    transition: .2s all ease-in-out
 }
 
 #nav-wrap .nth-menuicon-bread-crust {
@@ -1218,7 +1208,7 @@ body #primary-nav #main-nav > li.rm0 > a {
     -webkit-transition: -webkit-transform 0.2s;
     transition: -webkit-transform 0.2s;
     transition: transform 0.2s;
-    transition: transform 0.2s, -webkit-transform 0.2s;
+    transition: transform 0.2s, -webkit-transform 0.2s
 }
 
 #nav-wrap .nth-menuicon-top-line {
@@ -1229,7 +1219,7 @@ body #primary-nav #main-nav > li.rm0 > a {
     transition: transform 0.2s 0.2s, -webkit-transform 0.2s 0.2s;
     -webkit-transform: translateY(-3px);
     -ms-transform: translateY(-3px);
-    transform: translateY(-3px);
+    transform: translateY(-3px)
 }
 
 #nth-menu-switch:checked ~ #nav-wrap .nth-menuicon-top-line, #nth-menu-switch:target ~ #nav-wrap .nth-menuicon-top-line {
@@ -1237,14 +1227,14 @@ body #primary-nav #main-nav > li.rm0 > a {
     -ms-transform: translateY(3px);
     transform: translateY(3px);
     -webkit-transition-delay: 0;
-    transition-delay: 0;
+    transition-delay: 0
 }
 
 #nav-wrap .nth-menuicon-bottom-line {
     bottom: 19px;
     -webkit-transform: translateY(3px);
     -ms-transform: translateY(3px);
-    transform: translateY(3px);
+    transform: translateY(3px)
 }
 
 #nth-menu-switch:checked ~ #nav-wrap .nth-menuicon-bottom-line, #nth-menu-switch:target ~ #nav-wrap .nth-menuicon-bottom-line {
@@ -1254,7 +1244,7 @@ body #primary-nav #main-nav > li.rm0 > a {
     transition: transform 0.2s, -webkit-transform 0.2s;
     -webkit-transform: translateY(-3px);
     -ms-transform: translateY(-3px);
-    transform: translateY(-3px);
+    transform: translateY(-3px)
 }
 
 #nav-wrap .nth-menuanchor {
@@ -1264,17 +1254,17 @@ body #primary-nav #main-nav > li.rm0 > a {
     top: 0;
     width: 1px;
     height: 1px;
-    z-index: 10;
+    z-index: 10
 }
 
     #nav-wrap .nth-menuanchor:focus {
         outline-offset: -8px;
         width: 48px;
-        height: 48px;
+        height: 48px
     }
 
 #nav-wrap .nth-menuanchor-close {
-    display: none;
+    display: none
 }
 
 #nav-wrap .nth-menuanchor-label {
@@ -1287,15 +1277,15 @@ body #primary-nav #main-nav > li.rm0 > a {
     height: 1px;
     width: 1px;
     padding: 0;
-    border: 0;
+    border: 0
 }
 
 #nth-menu-switch:checked ~ #nav-wrap .nth-menuanchor-open, #nth-menu-switch:target ~ #nav-wrap .nth-menuanchor-open {
-    display: none;
+    display: none
 }
 
 #nth-menu-switch:checked ~ #nav-wrap .nth-menuanchor-close, #nth-menu-switch:target ~ #nav-wrap .nth-menuanchor-close {
-    display: block;
+    display: block
 }
 
 @media only screen and (max-width: 840px) {
@@ -1318,67 +1308,67 @@ body #primary-nav #main-nav > li.rm0 > a {
 
 .nav-outer-wrap {
     position: absolute;
-    z-index: 9999;
+    z-index: 9999
 }
 
 .nthrive-main-nav {
     padding: 0;
-    margin-top: 0;
+    margin-top: 0
 }
 
     .nthrive-main-nav a {
         display: block;
-        line-height: 3;
+        line-height: 3
     }
 
 .main-nav ul, .main-nav {
-    z-index: 9999999;
+    z-index: 9999999
 }
 
 .main-nav {
-    position: relative;
+    position: relative
 }
 
     .main-nav ul, .main-nav {
-        z-index: 9999999;
+        z-index: 9999999
     }
 
         .main-nav ul, .main-nav {
-            z-index: 9999999;
+            z-index: 9999999
         }
 
 li.mb-first:overlay {
     background: #000;
-    opacity: 0.2;
+    opacity: 0.2
 }
 
 .nthrive-main-menu {
-    width: 100%;
+    width: 100%
 }
 
 .nav-bg-menu {
     position: absolute;
     bottom: 0;
     right: 0;
-    z-index: 99999;
+    z-index: 99999
 }
 
     .nav-bg-menu.br-30px {
-        right: -30px !important;
+        right: -30px !important
     }
 
 .nthrive-main-menu ul {
     margin: 0;
     padding: 0;
-    list-style-type: none;
+    list-style-type: none
 }
 
 .nthrive-main-menu > ul > li {
-    display: inline-block;
+    display: inline-block
 }
 
     .nthrive-main-menu > ul > li > a {
-        display: inline-block;
+        display: inline-block
     }
 
 .menu-panel.l-col-1 {
@@ -1411,7 +1401,7 @@ li.mb-first:overlay {
 
 .main-nav {
     float: left;
-    padding-right: 10px;
+    padding-right: 10px
 }
 
 .narrow-col.menu-panel.l-col-1 {
@@ -1420,7 +1410,7 @@ li.mb-first:overlay {
 }
 
 .main-nav {
-    position: relative;
+    position: relative
 }
 
 .menu-panel.l-col-3 div.menu-panel-wrap {
@@ -1457,38 +1447,38 @@ li.mb-first:overlay {
     position: absolute;
     top: -9999em;
     display: block;
-    visibility: hidden;
+    visibility: hidden
 }
 
 .menu-panel-group ul p {
     font-size: 13px;
     margin-left: 42px;
     margin-top: -15px;
-    color: #86939E;
+    color: #86939E
 }
 
 .menu-panel-wrap {
     height: 100%;
-    padding: 0 10px;
+    padding: 0 10px
 }
 
     .menu-panel-wrap > ul {
-        padding: 0;
+        padding: 0
     }
 
 .panel-wrap .menu-panel-wrap:last-child {
-    border-right: 0 !important;
+    border-right: 0 !important
 }
 
 .panel-wrap .menu-panel-wrap:nth-child(2n) {
     border-right: 1px solid #cdcdcd;
-    border-left: 1px solid #cdcdcd;
+    border-left: 1px solid #cdcdcd
 }
 
 .menu-panel-group ul {
     -webkit-flex-direction: column;
     -ms-flex-direction: column;
-    flex-direction: column;
+    flex-direction: column
 }
 
 .menu-panel-group li > a {
@@ -1499,25 +1489,25 @@ li.mb-first:overlay {
     margin-left: 35px;
     list-style-position: outside;
     list-style-type: disc;
-    display: list-item !important;
+    display: list-item !important
 }
 
 .menu-panel-group li:last-child {
-    margin-bottom: 15px;
+    margin-bottom: 15px
 }
 
 .l-inline-list li.menu-panel-group {
     float: none;
-    display: block;
+    display: block
 }
 
 .header-Logo {
     height: 40px;
     width: 123px;
-    background: url('../../images/careers/icon/logo-small-registered.png') no-repeat center center;
+    background: url('../../images/icon/logo-small.png') no-repeat center center;
     background-repeat: no-repeat;
     background-size: cover;
-    margin: 0;
+    margin: 0
 }
 
 .nav-top-level > a {
@@ -1536,13 +1526,13 @@ li.mb-first:overlay {
     font-style: normal;
     text-decoration: none;
     line-height: 4.5;
-    position: initial !important;
+    position: initial !important
 }
 
 body .panel-wrap li {
     line-height: 3 !important;
     display: block;
-    float: none;
+    float: none
 }
 
 .navarrow {
@@ -1558,7 +1548,7 @@ body .panel-wrap li {
     z-index: 1000;
     display: none;
     opacity: 0;
-    visibility: hidden;
+    visibility: hidden
 }
 
 a.open + .navarrow {
@@ -1568,11 +1558,11 @@ a.open + .navarrow {
 }
 
 .nthrive-main-menu {
-    width: auto !important;
+    width: auto !important
 }
 
 .logo-wrap.ptb-20px {
-    padding: 12px 0;
+    padding: 12px 0
 }
 
 .menu-panel.open {

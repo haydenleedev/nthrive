@@ -1,0 +1,199 @@
+﻿.text-plum-color {
+    color: #441a63;
+}
+
+.text-berry-color {
+    color: #8e2b5a;
+}
+
+.text-teal-color {
+    color: #003247;
+}
+
+.text-dark-gray-color {
+    color: #374252;
+}
+
+.text-light-gray-color {
+    color: #86939E;
+}
+
+.text-white-color {
+    color: #ffffff;
+}
+
+.font-weight-light {
+    font-weight: 300;
+}
+
+.font-weight-normal {
+    font-weight: 400;
+}
+
+.font-weight-thick {
+    font-weight: 500;
+}
+
+.font-weight-extra-thick {
+    font-weight: 600;
+}
+
+.text-underline {
+    text-decoration: underline;
+}
+
+.superscript {
+    position: relative;
+    bottom: 0.5em;
+    font-size: 0.8em;
+}
+
+.subscript {
+    position: relative;
+    top: 0.3em;
+    font-size: 0.8em;
+}
+
+.font-size-14px {
+    font-size: 14px;
+}
+
+.font-size-16px {
+    font-size: 16px;
+}
+
+.font-size-18px {
+    font-size: 18px;
+}
+
+.font-size-20px {
+    font-size: 20px;
+}
+
+.font-size-22px {
+    font-size: 22px;
+}
+
+.font-size-24px {
+    font-size: 24px;
+}
+
+.font-size-26px {
+    font-size: 26px;
+}
+
+.font-size-28px {
+    font-size: 28px;
+}
+
+.font-size-30px {
+    font-size: 30px;
+}
+
+.font-size-32px {
+    font-size: 32px;
+}
+
+.font-size-34px {
+    font-size: 34px;
+}
+
+.bg-plum-color {
+    background: #441a63;
+}
+
+.bg-berry-color {
+    background: #8e2b5a;
+}
+
+.bg-teal-color {
+    background: #003247;
+}
+
+.bg-light-gray {
+    background: #f7f7f7;
+}
+
+.bg-white {
+    background: #ffffff;
+}
+
+.mb-10px {
+    margin-bottom: 10px;
+}
+
+.mb-15px {
+    margin-bottom: 15px;
+}
+
+.mb-20px {
+    margin-bottom: 20px;
+}
+
+.mb-25px {
+    margin-bottom: 25px;
+}
+
+.mb-30px {
+    margin-bottom: 30px;
+}
+
+.pb-10px {
+    margin-bottom: 10px;
+}
+
+.pb-15px {
+    margin-bottom: 15px;
+}
+
+.pb-20px {
+    margin-bottom: 20px;
+}
+
+.pb-25px {
+    margin-bottom: 25px;
+}
+
+.pb-30px {
+    margin-bottom: 30px;
+}
+
+.mt-10px {
+    margin-top: 10px;
+}
+
+.mt-15px {
+    margin-top: 15px;
+}
+
+.mt-20px {
+    margin-top: 20px;
+}
+
+.mt-25px {
+    margin-top: 25px;
+}
+
+.mt-30px {
+    margin-top: 30px;
+}
+
+.pt-10px {
+    margin-top: 10px;
+}
+
+.pt-15px {
+    margin-top: 15px;
+}
+
+.pt-20px {
+    margin-top: 20px;
+}
+
+.pt-25px {
+    margin-top: 25px;
+}
+
+.pt-30px {
+    margin-top: 30px;
+}

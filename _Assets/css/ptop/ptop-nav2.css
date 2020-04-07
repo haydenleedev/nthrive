@@ -30,16 +30,6 @@ span.uparrow {
     z-index: 9999999
 }
 
-.header-logo {
-    height: 40px;
-    width: 123px;
-    background: url(../../images/careers/icon/logo-small.png) no-repeat center center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding: 0 !important;
-    margin: 5px 0 !important;
-}
-
 .nav-top-level > a {
     display: block;
     text-decoration: none;
@@ -135,7 +125,7 @@ body #primary-nav #main-nav > li > a {
 }
 
     body #primary-nav #main-nav > li > a:hover {
-        color: #43f5d6
+        color: #441a63
     }
 
 #primary-nav li {
@@ -202,12 +192,12 @@ body #primary-nav #main-nav > li > a:focus {
         background-color: #441a63
     }
 
-#primary-nav .first a:hover, #primary-nav .first a:focus {
+.first a:hover, .first a:focus {
     color: #ffffff;
     background-color: #441a63
 }
 
-#primary-nav .first a.menu-hover {
+.first a.menu-hover {
     font-weight: 400 !important;
     padding: 5px 15px !important;
     display: block;
@@ -276,7 +266,7 @@ body #primary-nav #main-nav > li.rm0 > a {
     visibility: visible;
 }
 
-    .notification-bar.close, .notification-close .notification-bar {
+    .notification-bar.close {
         display: none;
         opacity: 0;
         visibility: hidden;
@@ -289,13 +279,13 @@ body #primary-nav #main-nav > li.rm0 > a {
     align-items: center;
     justify-content: center;
     padding: 10px 0;
-    max-width: 1120px;
+    max-width: 1060px;
     margin: 0 auto;
     line-height: 2.2;
 }
 
-.settings {
-    line-height: 2.3 !important
+.notification-bar-content {
+    font-size: 14px;
 }
 
 .notification-bar-content-desc {
@@ -303,36 +293,7 @@ body #primary-nav #main-nav > li.rm0 > a {
     margin: 0 20px 0 0;
     padding: 0;
     float: left;
-    line-height: 2.2 !important;
-}
-
-    .notification-bar-content-desc a {
-        color: #fff
-    }
-
-.skip-nav {
-    position: relative;
-    z-index: 99999999999;
-}
-
-.notification-bar a, .notification-bar a:visited, .notification-bar a:active {
-    color: #ffffff;
-}
-
-.table-body a, .table-body a:visited, .table-body a:active {
-    font-weight: 600;
-    color: #da1c5c !important
-}
-
-    .table-body a:hover {
-        text-decoration: underline
-    }
-
-@media only screen and (max-width: 980px) {
-    body #primary-nav #main-nav > li > a {
-        padding: 0 5px;
-        margin: 0
-    }
+    line-height: 2.2;
 }
 
 @media only screen and (max-width: 840px) {
@@ -344,7 +305,8 @@ body #primary-nav #main-nav > li.rm0 > a {
         padding: 10px;
     }
 
-    .notification-bar-content-desc, .notification-bar-content {
+    .notification-bar-content-desc,
+    .notification-bar-content {
         line-height: 1.6;
         display: block;
     }
@@ -760,19 +722,6 @@ body #primary-nav #main-nav > li.rm0 > a {
 }
 
 @media only screen and (max-width: 840px) {
-    .menu-panel.open {
-        top: 0;
-        max-height: none;
-    }
-
-    .panel-wrap {
-        max-height: none;
-    }
-
-    .menu-panel-wrap {
-        height: auto;
-    }
-
     .nav-dropdown .first, .nav-dropdown .first.nth-hide-menu, a + ul:not(.nth-show-menu) {
         display: block
     }
@@ -783,7 +732,7 @@ body #primary-nav #main-nav > li.rm0 > a {
 
     #nav-wrap .nav-top-level, #nav-wrap #secondary-nav > li {
         height: auto;
-        max-height: none;
+        max-height: unset;
         opacity: 0;
         pointer-events: none;
         -webkit-transform: scale(1.1) translateY(-24px);
@@ -1041,7 +990,8 @@ body #primary-nav #main-nav > li.rm0 > a {
         height: 50px;
     }
 
-    #nth-menu-switch:checked ~ #nav-wrap .nth-searchview, #nth-menu-switch:target ~ #nav-wrap .nth-searchview {
+    #nth-menu-switch:checked ~ #nav-wrap .nth-searchview,
+    #nth-menu-switch:target ~ #nav-wrap .nth-searchview {
         opacity: 1;
         pointer-events: auto;
         -webkit-transform: none;
@@ -1062,7 +1012,8 @@ body #primary-nav #main-nav > li.rm0 > a {
         overflow: hidden;
     }
 
-    #nth-menu-switch:checked ~ #nav-wrap .nth-searchview, #nth-menu-switch:target ~ #nav-wrap .nth-searchview {
+    #nth-menu-switch:checked ~ #nav-wrap .nth-searchview,
+    #nth-menu-switch:target ~ #nav-wrap .nth-searchview {
         top: 44px;
         position: absolute;
         width: 100%;
@@ -1321,7 +1272,8 @@ body #primary-nav #main-nav > li.rm0 > a {
         line-height: 3
     }
 
-.main-nav ul, .main-nav {
+.main-nav ul,
+.main-nav {
     z-index: 9999999
 }
 
@@ -1329,11 +1281,13 @@ body #primary-nav #main-nav > li.rm0 > a {
     position: relative
 }
 
-    .main-nav ul, .main-nav {
+    .main-nav ul,
+    .main-nav {
         z-index: 9999999
     }
 
-        .main-nav ul, .main-nav {
+        .main-nav ul,
+        .main-nav {
             z-index: 9999999
         }
 
@@ -1535,7 +1489,7 @@ body .panel-wrap li {
     bottom: .4em;
     text-align: center;
     position: relative;
-    z-index: 1000;
+    z-index: 999999;
     display: none;
     opacity: 0;
     visibility: hidden
