@@ -207,7 +207,8 @@ body #large-view-nav > ul > li#toggleMenu > a:focus {
 
 .nth-main-nav-wrap img.logo-image {
     max-height: 42px;
-    width: auto
+    width: auto;
+    max-width: 255px;
 }
 
 body #large-view-nav #menu > li > a.menu-hover {
@@ -400,8 +401,19 @@ body #large-view-nav #menu > li.rm0 > a {
     }
 
         .sticky header .logo-image.responsive-image, header.bg-purple .logo-image.responsive-image, .nth-main-nav-wrap .logo-image.responsive-image {
-            padding: 6px 0
+            padding: 6px 0;
+            position: fixed;
+            top: 0
         }
+
+        header .uparrow {
+            display: none !important
+        }
+
+    .notification-close .nthrive-main-nav {
+        top: 50px;
+        position: relative
+    }
 
     .nth-main-nav-wrap img.logo-image {
         max-height: 36px !important

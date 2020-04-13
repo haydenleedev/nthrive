@@ -1307,7 +1307,7 @@ input.error[type="checkbox"] {
     outline: 0
 }
 
-#checkboxes.checkbox-error fieldset, #checkboxes fieldset.checkbox-error {
+#checkboxes.checkbox-error fieldset {
     border: 1px solid red;
 }
 
@@ -1320,7 +1320,7 @@ form #checkboxes.checkbox-error div.error {
     padding-top: 0;
 }
 
-.valid fieldset, fieldset.valid {
+.valid fieldset {
     border: 2px solid green;
 }
 
@@ -3331,38 +3331,13 @@ select.error {
     cursor: pointer
 }
 
-    .btn.bg-da1c5c {
-        background-color: #da1c5c !important
-    }
-
 .mb-button .btn {
     height: auto;
-    padding: 0.2em 1.8em;
+    padding: 0.2em 20px;
     font-weight: 500;
-    font-size: 17px;
-    line-height: 2.9;
-    box-shadow: 0 0 3px rgba(0,0,0,1);
+    font-size: 16px;
+    line-height: 2.7
 }
-
-.btn.bg-da1c5c:hover {
-    background-color: #ea1c5c;
-}
-
-.mb-button .pdf-icon-left.btn {
-    padding: 0.2em 4.5em 0.2em 1.8em;
-}
-
-.pdf-icon-left.btn, .pdf-icon-left.btn:hover {
-    background-image: url(../images/icon/pdf-download-btn-icon.png);
-    background-image: url(../images/icon/pdf-download-btn-icon.svg);
-    background-repeat: no-repeat;
-    background-position: 95% 50%;
-    background-size: 36px;
-}
-
-    .pdf-icon-left.btn:hover {
-        background-color: #ea1c5c !important
-    }
 
 .sub-list .btn.btn-big {
     margin-top: 20px
@@ -3574,7 +3549,7 @@ select.error {
     width: 28.8%;
     float: left;
     margin-right: 6.8%;
-    margin-bottom: 25px
+    margin-bottom: 16px
 }
 
     .l-list-three-col li:nth-child(3n) {
@@ -6402,22 +6377,6 @@ iframe[name="google_conversion_frame"] {
 }
 
 @media (max-width: 840px) {
-    .mb-button .btn {
-        font-size: 14px;
-        padding: 0.2em 1.3em
-    }
-
-    .mb-button .pdf-icon-left.btn {
-        font-size: 13px;
-        padding: 1.2em 4em 1.2em 1em;
-        line-height: 1.2;
-    }
-
-    .pdf-icon-left.btn, .pdf-icon-left.btn:hover {
-        background-position: 97% 50%;
-        background-size: 32px;
-    }
-
     .three-col.claims-table li:last-child p {
         font-size: 14px
     }
@@ -6426,7 +6385,7 @@ iframe[name="google_conversion_frame"] {
         padding: 10px 20px 5px
     }
 
-    .notification-close article > section.content-block {
+    .notification-close article > section {
         padding-top: 80px;
     }
 
@@ -10660,7 +10619,6 @@ img.glen {
         .hfm-widget h2 img {
             float: left;
             display: inline-block;
-            width: 90px
         }
 
     .hfm-widget p {
@@ -10811,15 +10769,3 @@ ul.bullets.text-16px li {
         width: 100%
     }
 }
-
-.mt-5px {
-    margin-top: 5px;
-}
-
-.covid.pdf-icon-left {
-    padding: 0.2em 4.5em 0.2em 1.8em;
-}
-
-    .covid.pdf-icon-left:hover {
-        background-color: #5c2b81 !important;
-    }

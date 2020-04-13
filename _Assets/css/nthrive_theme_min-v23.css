@@ -1,8 +1,8 @@
-﻿a:hover, .elt-content ul a:hover, .elt-content ol a:hover {
+﻿.elt-content ul a:hover, .elt-content ol a:hover {
     color: #e8172d !important
 }
 
-.elt-content ul.l-#main-content p {
+#main-content p {
     margin-bottom: 25px
 }
 
@@ -944,6 +944,10 @@ a.button-box.text-white.bg-eaaa00:hover, a.button-box.text-white.bg-eaaa00:focus
     padding-right: 10px
 }
 
+.pr-15px {
+    padding-right: 15px
+}
+
 .pr-20px {
     padding-right: 20px
 }
@@ -1255,7 +1259,7 @@ form .relative li {
     text-align: left
 }
 
-label.label-blur, .l-focus label.label-focus, .l-focus label.label-focus, .l-blur label.label-focus, .l-blur label.label-blur {
+label.label-blur, .l-focus label.label-focus, .l-focus label.label-focus, .l-blur label.label-focus, .l-blur label.label-blur, label.label-focus.blur {
     top: -8px !important;
     background: #fff;
     display: block;
@@ -1328,7 +1332,7 @@ form > div.input-holder:first-of-type {
     padding-top: 15px
 }
 
-.input-holder label[for="Phone"], .support-issue label[for="Phone"] {
+.input-holder label[for="Phone"], .support-issue label[for="Phone"], .input-holder label[for="phone"] {
     left: 50px
 }
 
@@ -2017,13 +2021,6 @@ ul.light-border.content-list li {
         color: #86939E
     }
 
-#State-error {
-    position: absolute;
-    top: 5px;
-    right: 90px;
-    left: auto
-}
-
 .no-script-helper {
     display: none
 }
@@ -2544,8 +2541,7 @@ span.sm {
     .std-input3 {
         box-sizing: border-box;
         height: 40px;
-        line-height: 40px;
-        padding: 0 3px
+        line-height: 40px
     }
 
     h3.desc {

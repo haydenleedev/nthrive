@@ -2,7 +2,7 @@
     color: #e8172d !important
 }
 
-.elt-content ul.l-#main-content p {
+#main-content p {
     margin-bottom: 25px
 }
 
@@ -1328,7 +1328,7 @@ form > div.input-holder:first-of-type {
     padding-top: 15px
 }
 
-.input-holder label[for="Phone"], .support-issue label[for="Phone"] {
+.input-holder label[for="Phone"], .support-issue label[for="Phone"], .input-holder label[for="phone"] {
     left: 50px
 }
 

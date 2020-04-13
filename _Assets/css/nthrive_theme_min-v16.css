@@ -1,8 +1,4 @@
-﻿a:hover, .elt-content ul a:hover, .elt-content ol a:hover {
-    color: #e8172d !important
-}
-
-.elt-content ul.l-#main-content p {
+﻿#main-content p {
     margin-bottom: 25px
 }
 
@@ -562,6 +558,10 @@ a.button-box:hover {
 .text-200px {
     font-size: 200px;
     line-height: 201px
+}
+
+.robotoblack {
+    font-family: "robotoblack", "roboto", sans-serif
 }
 
 .op-30 {
@@ -1202,7 +1202,7 @@ ul.bullets li span, ul.bullets li p {
     font-size: 13px
 }
 
-form .error {
+form label.error {
     color: #FF0000;
     padding-top: 5px;
     display: block !important;
@@ -1220,14 +1220,14 @@ input.valid + label, textarea.valid + label {
 }
 
 .std-input3.valid {
-    padding: 5px 18px 0;
+    padding: 15px 18px 0;
 }
 
-.error + label#terms-conditions2, .error + label.terms-conditions {
+label.error + label#terms-conditions2, label.error + label.terms-conditions {
     display: block !important
 }
 
-.error {
+label.error {
     display: none;
     margin-left: 0;
     font-size: 15px;
@@ -1340,18 +1340,18 @@ form > div.input-holder:first-of-type {
     top: 8px
 }
 
-.input-holder .error {
+.input-holder label.error {
     position: relative;
     left: 0;
     top: 0
 }
 
-.banner-form .input-holder .error {
+.banner-form .input-holder label.error {
     margin-bottom: 20px;
     margin-top: -10px
 }
 
-.error + label#terms-conditions {
+label.error + label#terms-conditions {
     display: inline-block !important
 }
 
@@ -1370,11 +1370,11 @@ form > div.input-holder:first-of-type {
     font-size: 14px
 }
 
-.input-holder textarea + .error, .support-issue textarea + .error {
+.input-holder textarea + label.error, .support-issue textarea + label.error {
     top: 65px
 }
 
-.agree-terms .error + label {
+.agree-terms label.error + label {
     display: block !important
 }
 
@@ -1430,26 +1430,8 @@ input.mb-25px[type="checkbox"] {
     text-decoration: none
 }
 
-    .elt-content ul.l-clearfix a.text-4a1c6b {
-        color: #4a1c6b
-    }
-
 .support-issue {
     position: relative
-}
-
-.region-icon:hover {
-    color: #e8172d !important
-}
-
-.elt-content .event-link:hover {
-    color: #86939E !important
-}
-
-.feature.box-container:hover {
-    transform: translateY(-8px);
-    -webkit-box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.3);
-    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.3)
 }
 
 .indent-67px {
@@ -2214,18 +2196,7 @@ ul.light-border.content-list li {
 }
 
 .box-container {
-    border: 1px solid #f2f2f2;
-    border-radius: 4px;
-    -webkit-border-radius: 4px;
-    box-shadow: 0 0 1px rgba(0, 0, 0, 0.1);
-    -moz-transition: all 300ms ease-out;
-    -webkit-transition: all 300ms ease-out;
-    -o-transition: all 300ms ease-out;
-    transition: all 300ms ease-out;
-    -webkit-backface-visibility: hidden;
-    -moz-backface-visibility: hidden;
-    -o-backface-visibility: hidden;
-    backface-visibility: hidden
+    border: 1px solid #f2f2f2
 }
 
     .box-container.no-border {
@@ -2400,16 +2371,6 @@ span.sm {
 
 .no-underline, a.no-underline {
     text-decoration: none !important
-}
-
-.region-icon {
-    background-image: url(../images/events/globe.svg);
-    background-position: left center;
-    background-repeat: no-repeat;
-    padding-left: 27px;
-    background-size: contain;
-    width: 35px;
-    height: 35px
 }
 
 @media (max-width: 840px) {

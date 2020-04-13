@@ -1,8 +1,10 @@
-﻿a:hover, .elt-content ul a:hover, .elt-content ol a:hover {
-    color: #e8172d !important
+﻿@font-face {
+    margin-bottom: 10px;
+    padding-left: 15px;
+    margin-left: 20px
 }
 
-.elt-content ul.l-#main-content p {
+#main-content p {
     margin-bottom: 25px
 }
 
@@ -98,15 +100,6 @@ footer, footer a, footer a:visited, footer a:active {
     footer a:hover {
         color: #2DA48F
     }
-
-.news-content a:hover {
-    color: #da1c5c
-}
-
-.news-box > a:focus-visible {
-    outline: 2px solid #43f5d6;
-    margin: 2px
-}
 
 .button-box {
     border: 0;
@@ -244,19 +237,15 @@ footer, footer a, footer a:visited, footer a:active {
     color: #ffffff
 }
 
-.text-da1c5c, a.text-da1c5c {
-    color: #da1c5c
-}
-
-#sticky-nav a:hover {
-    color: #2DA48F
-}
+    #sticky-nav a:hover {
+        color: #2DA48F
+    }
 
 .nav-top-level > a {
     color: #ffffff
 }
 
-.bg-white, .bg-ffffff {
+.bg-white {
     background-color: #ffffff
 }
 
@@ -564,6 +553,10 @@ a.button-box:hover {
     line-height: 201px
 }
 
+.robotoblack {
+    font-family: "robotoblack", "roboto", sans-serif
+}
+
 .op-30 {
     opacity: 0.3
 }
@@ -642,7 +635,7 @@ a.button-box:hover {
     padding: 0 14px
 }
 
-#menu .dropdown-menu a:hover {
+.#menu dropdown-menu a:hover {
     color: #7B214C !important
 }
 
@@ -1055,10 +1048,6 @@ a.button-box.text-white.bg-eaaa00:hover, a.button-box.text-white.bg-eaaa00:focus
     margin-top: 40px
 }
 
-.mt-50px {
-    margin-top: 50px
-}
-
 .mt-1_5em {
     margin-top: 1.5em
 }
@@ -1202,7 +1191,7 @@ ul.bullets li span, ul.bullets li p {
     font-size: 13px
 }
 
-form .error {
+form label.error {
     color: #FF0000;
     padding-top: 5px;
     display: block !important;
@@ -1214,20 +1203,18 @@ form .error {
 }
 
 input.valid + label, textarea.valid + label {
-    top: 5px;
-    font-size: 12px;
-    color: #374252;
+    display: none !important
 }
 
-.std-input3.valid {
-    padding: 5px 18px 0;
+label.error + label {
+    display: none !important
 }
 
-.error + label#terms-conditions2, .error + label.terms-conditions {
-    display: block !important
-}
+    label.error + label#terms-conditions2, label.error + label.terms-conditions {
+        display: block !important
+    }
 
-.error {
+label.error {
     display: none;
     margin-left: 0;
     font-size: 15px;
@@ -1255,21 +1242,12 @@ form .relative li {
     text-align: left
 }
 
-label.label-blur, .l-focus label.label-focus, .l-focus label.label-focus, .l-blur label.label-focus, .l-blur label.label-blur {
-    top: -8px !important;
-    background: #fff;
-    display: block;
-    font-weight: 500;
-    padding: 2px 7px;
-    left: 15px;
-    font-size: 12px !important;
-    color: #374252 !important;
+label.label-blur {
+    display: none !important
 }
 
-input.valid ~ label.label-focus, .l-focus input.valid ~ label {
-    top: 5px;
-    font-size: 12px;
-    color: #374252;
+input.valid ~ label.label-focus {
+    display: none !important
 }
 
 .valid-group input ~ label.label-focus {
@@ -1292,44 +1270,12 @@ input.valid ~ label.label-focus, .l-focus input.valid ~ label {
     text-align: left
 }
 
-.lp-form form {
-    padding: 0 20px
-}
-
-.l-form-left {
-    width: 39%;
-    margin: 0 3% 0 0;
-    float: left;
-    border: 1px solid #dedede;
-}
-
-.lp-form .btn {
-    background: #7b214c;
-    margin-bottom: 20px;
-    font-size: 18px;
-}
-
-.l-form-cont-right {
-    width: 53%;
-    margin: 0 0 0 4%;
-    float: right;
-}
-
 .input-holder label, .support-issue label {
     position: absolute;
     top: 15px;
     left: 15px;
     font-size: 14px;
-    color: #86939E;
-    z-index: 9
-}
-
-form > div.input-holder:first-of-type {
-    padding-top: 15px
-}
-
-.input-holder label[for="Phone"], .support-issue label[for="Phone"] {
-    left: 50px
+    color: #86939E
 }
 
 .bg-width img {
@@ -1340,18 +1286,18 @@ form > div.input-holder:first-of-type {
     top: 8px
 }
 
-.input-holder .error {
+.input-holder label.error {
     position: relative;
     left: 0;
     top: 0
 }
 
-.banner-form .input-holder .error {
+.banner-form .input-holder label.error {
     margin-bottom: 20px;
     margin-top: -10px
 }
 
-.error + label#terms-conditions {
+label.error + label#terms-conditions {
     display: inline-block !important
 }
 
@@ -1370,11 +1316,11 @@ form > div.input-holder:first-of-type {
     font-size: 14px
 }
 
-.input-holder textarea + .error, .support-issue textarea + .error {
+.input-holder textarea + label.error, .support-issue textarea + label.error {
     top: 65px
 }
 
-.agree-terms .error + label {
+.agree-terms label.error + label {
     display: block !important
 }
 
@@ -1398,20 +1344,6 @@ input.mb-25px[type="checkbox"] {
     margin-bottom: 0
 }
 
-.lp-form .std-input3 {
-    height: 38px;
-    width: 65%;
-    float: right
-}
-
-.lp-form .label-lp {
-    display: inline-block
-}
-
-.lp-form .std-input3.valid {
-    padding: 5px 18px 5px
-}
-
 .elt-content p a, .elt-content ul a, .elt-content ol a {
     color: #9e1f63;
     text-decoration: underline
@@ -1430,26 +1362,8 @@ input.mb-25px[type="checkbox"] {
     text-decoration: none
 }
 
-    .elt-content ul.l-clearfix a.text-4a1c6b {
-        color: #4a1c6b
-    }
-
 .support-issue {
     position: relative
-}
-
-.region-icon:hover {
-    color: #e8172d !important
-}
-
-.elt-content .event-link:hover {
-    color: #86939E !important
-}
-
-.feature.box-container:hover {
-    transform: translateY(-8px);
-    -webkit-box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.3);
-    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.3)
 }
 
 .indent-67px {
@@ -1699,7 +1613,7 @@ figure.image-text-left.mr-20px {
     z-index: 999
 }
 
-.responsive-bg {
+img.responsive-bg {
     position: absolute;
     top: 0;
     width: 100%;
@@ -1804,10 +1718,10 @@ ul.light-border.content-list li {
         margin-top: 0
     }
 
-    .subscribe-content .form-full.button-wrap {
-        width: 32%;
-        float: right
-    }
+.subscribe-content div.form-full.button-wrap {
+    width: 32%;
+    float: right
+}
 
 .subscribe-content .pardot-submit.btn {
     width: 100%
@@ -1931,13 +1845,6 @@ ul.light-border.content-list li {
     border-radius: 3px 3px 3px 3px
 }
 
-.tab .news-box > a:focus-visible {
-    outline: 2px solid #43f5d6;
-    -webkit-border-radius: 3px 3px 3px 3px;
-    border-radius: 3px 3px 3px 3px;
-    margin: 2px
-}
-
 .visually-hidden {
     position: absolute !important;
     overflow: hidden !important;
@@ -2024,16 +1931,6 @@ ul.light-border.content-list li {
     left: auto
 }
 
-.no-script-helper {
-    display: none
-}
-
-.noscript .no-script-helper {
-    display: block;
-    margin-top: 5px;
-    color: #FF0000
-}
-
 .noscript .contact-tabs {
     display: none
 }
@@ -2116,24 +2013,10 @@ ul.light-border.content-list li {
     display: block
 }
 
-.pt-95px {
-    padding-top: 95px
-}
-
 .ptb-5px {
     padding-top: 5px;
     padding-bottom: 5px
 }
-
-.checks {
-    margin-bottom: 40px
-}
-
-    .checks > li {
-        padding-left: 40px;
-        background: url(https://www.nthrive.com/_assets/images/icon/check.svg) no-repeat left 12px;
-        line-height: 36px
-    }
 
 .avatar {
     margin-right: 20px;
@@ -2214,18 +2097,7 @@ ul.light-border.content-list li {
 }
 
 .box-container {
-    border: 1px solid #f2f2f2;
-    border-radius: 4px;
-    -webkit-border-radius: 4px;
-    box-shadow: 0 0 1px rgba(0, 0, 0, 0.1);
-    -moz-transition: all 300ms ease-out;
-    -webkit-transition: all 300ms ease-out;
-    -o-transition: all 300ms ease-out;
-    transition: all 300ms ease-out;
-    -webkit-backface-visibility: hidden;
-    -moz-backface-visibility: hidden;
-    -o-backface-visibility: hidden;
-    backface-visibility: hidden
+    border: 1px solid #f2f2f2
 }
 
     .box-container.no-border {
@@ -2390,28 +2262,6 @@ span.sm {
     border-bottom: 1px solid #86939E
 }
 
-.ad-container {
-    border-top: 1px solid #cdcdcd
-}
-
-.elt-sidebar {
-    overflow: hidden
-}
-
-.no-underline, a.no-underline {
-    text-decoration: none !important
-}
-
-.region-icon {
-    background-image: url(../images/events/globe.svg);
-    background-position: left center;
-    background-repeat: no-repeat;
-    padding-left: 27px;
-    background-size: contain;
-    width: 35px;
-    height: 35px
-}
-
 @media (max-width: 840px) {
     .claims-table img {
         padding-top: 20px;
@@ -2543,8 +2393,8 @@ span.sm {
 
     .std-input3 {
         box-sizing: border-box;
-        height: 40px;
-        line-height: 40px;
+        height: 30px;
+        line-height: 34px;
         padding: 0 3px
     }
 
@@ -2559,7 +2409,7 @@ span.sm {
     }
 
     .input-holder label, .support-issue label {
-        top: 10px
+        top: 7px
     }
 
     .bcplayer {
@@ -2649,11 +2499,11 @@ span.sm {
 }
 
 @media (max-width: 435px) {
-    body .mobile-portrait {
+    body img.mobile-portrait {
         display: block
     }
 
-    body .desktop-landscape {
+    body img.desktop-landscape {
         display: none
     }
 }
