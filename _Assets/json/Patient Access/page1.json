@@ -1,0 +1,1386 @@
+[
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:85e5168344f742c3939eebe0769fdad1",
+      "url": "http://info.nthrive.com/naham-ebook"
+    },
+    "author": {},
+    "title": "Visit nThrive at NAHAM, May 3-6, 2018 in Denver, Colorado!",
+    "description": "Is your health care organization feeling the margin squeeze? Download our Patient Access eBook and learn five ways to take your Patient Access operation to the next level.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/NAHAM_ebook.png",
+      "width": 1024,
+      "height": 512,
+      "format": "png"
+    },
+    "tags": [ "patientaccess", "ebook", "naham", "naham18" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 22189887,
+    "hash": "1797101a64816e64023478052f068b5c",
+    "seq": 152468715735131,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 3013,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 26,
+    "share_count": 0,
+    "created_at": "2018-04-25T20:12:37Z",
+    "updated_at": null,
+    "published_at": "2018-04-25T20:12:37Z",
+    "children": null,
+    "slug": "visit-nthrive-at-naham-may-3-6-2018-in-denver-colorado-22189887",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 3013,
+      "name": "Patient Access",
+      "tags": [],
+      "slug": "patient-access"
+    },
+    "id_base62": "1v6Bp",
+    "short_url": "https://pres.ly/1v6Bp",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/visit-nthrive-at-naham-may-3-6-2018-in-denver-colorado-22189887",
+    "views": 26
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:db8b603f2928cfaca100dfca7953a2c4",
+      "url": "https://www.nthrive.com/solutions/front/"
+    },
+    "author": { "name": "nThrive" },
+    "title": "Patient Access Solutions",
+    "description": "nThrive's Patient Access Solutions help health care providers improve their POS collections as well as create a better patient experience.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/careers.png",
+      "width": 1024,
+      "height": 512,
+      "format": "png",
+      "etc": {
+        "box": [ 0.002857142857142836, 0, 0.8485714285714285, 1 ],
+        "edited": true
+      }
+    },
+    "tags": [ "patientaccess", "accessweek18" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 20590711,
+    "hash": "a2631c595585732d9d687d46987d4dfb",
+    "seq": 152277096858449,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 3013,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 48,
+    "share_count": 0,
+    "created_at": "2018-04-03T15:56:08Z",
+    "updated_at": null,
+    "published_at": "2018-04-03T15:56:08Z",
+    "children": null,
+    "slug": "patient-access-solutions-20590711",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 3013,
+      "name": "Patient Access",
+      "tags": [],
+      "slug": "patient-access"
+    },
+    "id_base62": "1ooAf",
+    "short_url": "https://pres.ly/1ooAf",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/patient-access-solutions-20590711",
+    "views": 48
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:fb8981462273007bd1b470e6aed53194",
+      "url": "http://info.nthrive.com/2018_Jan_Patient_Access_eBook_LP"
+    },
+    "author": {},
+    "title": "Read our eBook: Five ways to turn Patient Access into a revenue-generator",
+    "description": "Is your health care organization feeling the margin squeeze? Download our Patient Access eBook and learn five ways to take your Patient Access operation to the next level.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/PA-5.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": [ "patientaccess", "ebook", "revenue", "healthcare" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17875747,
+    "hash": "e0abf9ca4cf37d79f82aff749c8e30ca",
+    "seq": 152045369942611,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 3013,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 26,
+    "share_count": 0,
+    "created_at": "2018-03-07T20:14:59Z",
+    "updated_at": null,
+    "published_at": "2018-03-07T20:14:59Z",
+    "children": null,
+    "slug": "read-our-ebook-five-ways-to-turn-patient-access-into-a-revenue-generator-17875747",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 3013,
+      "name": "Patient Access",
+      "tags": [],
+      "slug": "patient-access"
+    },
+    "id_base62": "1d0iv",
+    "short_url": "https://pres.ly/1d0iv",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/read-our-ebook-five-ways-to-turn-patient-access-into-a-revenue-generator-17875747",
+    "views": 26
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:fb8981462273007bd1b470e6aed53194",
+      "url": "http://info.nthrive.com/2018_Jan_Patient_Access_eBook_LP"
+    },
+    "author": {},
+    "title": "Read our eBook: Five ways to turn Patient Access into a revenue-generator",
+    "description": "Is your health care organization feeling the margin squeeze? Download our Patient Access eBook and learn five ways to take your Patient Access operation to the next level.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/PA-4.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": [ "patientaccess", "ebook", "revenue" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17761243,
+    "hash": "59bcb3b31cb08c5c39f936d2adf5d6a2",
+    "seq": 152026493411628,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 3013,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 31,
+    "share_count": 0,
+    "created_at": "2018-03-05T15:48:54Z",
+    "updated_at": null,
+    "published_at": "2018-03-05T15:48:54Z",
+    "children": null,
+    "slug": "read-our-ebook-five-ways-to-turn-patient-access-into-a-revenue-generator-17761243",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 3013,
+      "name": "Patient Access",
+      "tags": [],
+      "slug": "patient-access"
+    },
+    "id_base62": "1cwvF",
+    "short_url": "https://pres.ly/1cwvF",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/read-our-ebook-five-ways-to-turn-patient-access-into-a-revenue-generator-17761243",
+    "views": 31
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:fb8981462273007bd1b470e6aed53194",
+      "url": "http://info.nthrive.com/2018_Jan_Patient_Access_eBook_LP"
+    },
+    "author": {},
+    "title": "Read our eBook: Five ways to turn Patient Access into a revenue-generator",
+    "description": "Download our Patient Access eBook and learn five ways to take your Patient Access operation to the next level.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/Patient-Access-Social-Media-Cards3.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": [ "patientaccess", "ebook" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17548751,
+    "hash": "24de191643ea3183ee563eb02ce73904",
+    "seq": 151965524592099,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 3013,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 30,
+    "share_count": 0,
+    "created_at": "2018-02-26T14:27:25Z",
+    "updated_at": "2018-02-26T14:29:12Z",
+    "published_at": "2018-02-26T14:27:25Z",
+    "children": null,
+    "slug": "read-our-ebook-five-ways-to-turn-patient-access-into-a-revenue-generator-17548751",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 3013,
+      "name": "Patient Access",
+      "tags": [],
+      "slug": "patient-access"
+    },
+    "id_base62": "1bDen",
+    "short_url": "https://pres.ly/1bDen",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/read-our-ebook-five-ways-to-turn-patient-access-into-a-revenue-generator-17548751",
+    "views": 30
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:02d14f5b2e6f22f6ea7c4c0178ca7092",
+      "url": "https://www.nthrive.com/webinars/patient-access/"
+    },
+    "author": { "name": "nThrive" },
+    "title": "Join us at ACHE Central PA!",
+    "description": "Kevin Smith, VP Product Management at nThrive, to speak on \"Patient-Centered Care: What It Means And How To Get There.\" Don't miss out!",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/physician.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17461009,
+    "hash": "56a083c6b916f80ec49589a214ab610d",
+    "seq": 151924721707561,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 3013,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 40,
+    "share_count": 0,
+    "created_at": "2018-02-21T21:06:57Z",
+    "updated_at": null,
+    "published_at": "2018-02-21T21:06:57Z",
+    "children": null,
+    "slug": "join-us-at-ache-central-pa-17461009",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 3013,
+      "name": "Patient Access",
+      "tags": [],
+      "slug": "patient-access"
+    },
+    "id_base62": "1bgpb",
+    "short_url": "https://pres.ly/1bgpb",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/join-us-at-ache-central-pa-17461009",
+    "views": 40
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:1f4e741506d8b9a6ea95b0e71b009224",
+      "url": "http://info.nthrive.com/2018_Jan_Patient_Access_eBook_LP?_ga=2.148588787.510579838.1519136048-1842623581.1488228879"
+    },
+    "author": {},
+    "title": "Check out our eBook: Five ways to turn Patient Access into a revenue-generator",
+    "description": "Is your health care organization feeling the margin squeeze? Download our Patient Access eBook and learn five ways to take your Patient Access operation to the next level.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/PA-2.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg"
+    },
+    "tags": [ "patientaccess", "ebook" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17425811,
+    "hash": "f1b398e7a57a0fa313c006a6c58dcc08",
+    "seq": 151913622674992,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 3013,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 18,
+    "share_count": 0,
+    "created_at": "2018-02-20T14:17:06Z",
+    "updated_at": "2018-02-26T14:25:37Z",
+    "published_at": "2018-02-20T14:17:06Z",
+    "children": null,
+    "slug": "check-out-our-ebook-five-ways-to-turn-patient-access-into-a-revenue-generator-17425811",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 3013,
+      "name": "Patient Access",
+      "tags": [],
+      "slug": "patient-access"
+    },
+    "id_base62": "1b7ft",
+    "short_url": "https://pres.ly/1b7ft",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/check-out-our-ebook-five-ways-to-turn-patient-access-into-a-revenue-generator-17425811",
+    "views": 18
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:fb8981462273007bd1b470e6aed53194",
+      "url": "http://info.nthrive.com/2018_Jan_Patient_Access_eBook_LP"
+    },
+    "author": {},
+    "title": "Check out our eBook: Five ways to turn Patient Access into a revenue-generator",
+    "description": "Is your health care organization feeling the margin squeeze? Download our Patient Access eBook and learn five ways to take your Patient Access operation to the next level.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/PA-1.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.7806156405990018 ],
+        "edited": true
+      }
+    },
+    "tags": [ "patientaccess", "ebook" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17228741,
+    "hash": "375f35a42825b9dbacd6ca02b467e0df",
+    "seq": 151844824339055,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 3013,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 21,
+    "share_count": 0,
+    "created_at": "2018-02-12T15:10:43Z",
+    "updated_at": null,
+    "published_at": "2018-02-12T15:10:43Z",
+    "children": null,
+    "slug": "check-out-our-ebook-five-ways-to-turn-patient-access-into-a-revenue-generator-17228741",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 3013,
+      "name": "Patient Access",
+      "tags": [],
+      "slug": "patient-access"
+    },
+    "id_base62": "1ahYV",
+    "short_url": "https://pres.ly/1ahYV",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/check-out-our-ebook-five-ways-to-turn-patient-access-into-a-revenue-generator-17228741",
+    "views": 21
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:f3884a3d7999133af00db350d1f22550",
+      "url": "https://www.nthrive.com/blog/defining-the-evolving-role-of-patient-access"
+    },
+    "author": { "name": "nThrive" },
+    "title": "Defining the evolving role of Patient Access",
+    "description": "Patient Access is the first point of contact in the health care delivery continuum. Learn more here.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/mom-and-daughter.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0.024534109816971517, 0.9933333333333333, 0.8619217970049917 ],
+        "edited": true
+      }
+    },
+    "tags": [ "patientaccess" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 16749255,
+    "hash": "202c59ebdb7bdc9f3e35bfa1032b087a",
+    "seq": 151680050436158,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 3013,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 29,
+    "share_count": 0,
+    "created_at": "2018-01-24T13:28:24Z",
+    "updated_at": null,
+    "published_at": "2018-01-24T13:28:24Z",
+    "children": null,
+    "slug": "defining-the-evolving-role-of-patient-access-16749255",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 3013,
+      "name": "Patient Access",
+      "tags": [],
+      "slug": "patient-access"
+    },
+    "id_base62": "18hfh",
+    "short_url": "https://pres.ly/18hfh",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/defining-the-evolving-role-of-patient-access-16749255",
+    "views": 29
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:ec1bf8e9a5440cfec5901bc55759e718",
+      "url": "https://www.nthrive.com/blog/how-patient-segmentation-can-take-patient-access-to-the-next-level"
+    },
+    "author": { "name": "nThrive" },
+    "title": "Learn How Patient Segmentation Can Take Patient Access to the Next Level",
+    "description": "Don&apos;t miss this nThrive webinar exploring how health care organizations can utilize segmentation to go beyond propensity-to-pay, creating tailored solutions to better meet patient needs.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/doctor-on-phone.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": [ "patientaccess", "patientsegmentation" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 16709429,
+    "hash": "6f336421d6520183cce0bc4c96f519e8",
+    "seq": 151671580303226,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 3013,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 13,
+    "share_count": 0,
+    "created_at": "2018-01-23T13:56:43Z",
+    "updated_at": "2018-01-23T13:57:51Z",
+    "published_at": "2018-01-23T13:56:43Z",
+    "children": null,
+    "slug": "learn-how-patient-segmentation-can-take-patient-access-to-the-next-level-16709429",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 3013,
+      "name": "Patient Access",
+      "tags": [],
+      "slug": "patient-access"
+    },
+    "id_base62": "186SV",
+    "short_url": "https://pres.ly/186SV",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/learn-how-patient-segmentation-can-take-patient-access-to-the-next-level-16709429",
+    "views": 13
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:acaa83c089fce18a5474f1565522466f",
+      "url": "http://info.nthrive.com/2018_Jan_Patient_Access_Webinar_Registration_LP1"
+    },
+    "author": {},
+    "title": "How segmentation can take Patient Access to the next level - Webinar",
+    "description": "Curious how segmentation can take Patient Access to the next level? Register for nThrive's Patient Access webinar on January 24th! Click here!",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/patient-in-hospital(1).jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg"
+    },
+    "tags": [ "patientaccess" ],
+    "media": null,
+    "oembed": null,
+    "etc": {
+      "twitter_share_text": "How segmentation can take Patient Access to the next level - Webinar",
+      "linkedin_share_text": "How segmentation can take Patient Access to the next level - Webinar",
+      "facebook_share_text": "How segmentation can take Patient Access to the next level - Webinar",
+      "email_share_text": "How segmentation can take Patient Access to the next level - Webinar"
+    },
+    "id": 16288910,
+    "hash": "5dbf24c82b77c91642b306ffe68167aa",
+    "seq": 151550977647634,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 3013,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 52,
+    "share_count": 0,
+    "created_at": "2018-01-09T14:56:16Z",
+    "updated_at": "2018-03-15T16:09:38Z",
+    "published_at": "2018-01-09T14:56:16Z",
+    "children": null,
+    "slug": "how-segmentation-can-take-patient-access-to-the-next-level-webinar-16288910",
+    "meta_title": "How segmentation can take Patient Access to the next level - Webinar",
+    "meta_description": "Curious how segmentation can take Patient Access to the next level? Register for nThrive's Patient Access webinar on January 24th! Click here!",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 3013,
+      "name": "Patient Access",
+      "tags": [],
+      "slug": "patient-access"
+    },
+    "id_base62": "16lum",
+    "short_url": "https://pres.ly/16lum",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/how-segmentation-can-take-patient-access-to-the-next-level-webinar-16288910",
+    "views": 52
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:4221393874f74a1aecdb82dbaf27a03d",
+      "url": "https://www.nthrive.com/blog/navigating-patient-access-in-the-new-age-of-health-care"
+    },
+    "author": { "name": "nThrive" },
+    "title": "Patient Access Overview",
+    "description": "Learn about Patient Access in health care, as well as the Patient Access department's goals and responsibilities.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/guy-and-doctor.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {
+      "twitter_share_text": "Patient Access in Health Care: Navigating in a New Age",
+      "linkedin_share_text": "Patient Access in Health Care: Navigating in a New Age",
+      "facebook_share_text": "Patient Access in Health Care: Navigating in a New Age",
+      "email_share_text": "Patient Access in Health Care: Navigating in a New Age"
+    },
+    "id": 14692200,
+    "hash": "dd17bd6fb010946b6c452824202836b2",
+    "seq": 151120134581145,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 3013,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 56,
+    "share_count": 0,
+    "created_at": "2017-11-20T18:09:05Z",
+    "updated_at": "2017-12-02T05:51:38Z",
+    "published_at": "2017-11-20T18:09:05Z",
+    "children": null,
+    "slug": "patient-access-in-health-care-navigating-in-a-new-age-14692200",
+    "meta_title": "Patient Access Overview",
+    "meta_description": "Learn about Patient Access in health care, as well as the Patient Access department's goals and responsibilities.",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 3013,
+      "name": "Patient Access",
+      "tags": [],
+      "slug": "patient-access"
+    },
+    "id_base62": "ZE6Y",
+    "short_url": "https://pres.ly/ZE6Y",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/patient-access-in-health-care-navigating-in-a-new-age-14692200",
+    "views": 56
+  },
+  {
+    "type": "post",
+    "content_hints": [ "text", "link" ],
+    "source": {
+      "network": "Nthrive",
+      "uid": "url:e0e2f088ca5e188ccdac33db68203b24",
+      "url": "http://info.nthrive.com/2017_Apr_CarePricer_LP_1"
+    },
+    "author": {},
+    "title": "OSUMC improves performance, cash flow with nThrive Patient Access Solutions",
+    "description": "OSUMC struggled with accuracy of estimates, point-of-service collections, compliance and more. They automated contract management but still needed to update patient access, charge integrity, and recovery and collections. These improvements enabled them to reorganize their preregistration and billing processes, automate patient bill estimates and eligibility verification, and train staff to ask for copays.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/dc8ef3546fbfec43ad4589f22b8e59e5.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": null,
+        "edited": true
+      }
+    },
+    "tags": [ "osu", "patientaccess", "patientsatisfaction", "cashflow" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 4818882,
+    "hash": "c0d8955007e9d68415ce997a2b2a57eb",
+    "seq": 149426949745617,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 3013,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 73,
+    "share_count": 10,
+    "created_at": "2017-05-08T18:51:37Z",
+    "updated_at": null,
+    "published_at": "2017-05-08T18:51:37Z",
+    "children": null,
+    "slug": "osumc-improves-performance-cash-flow-with-nthrive-patient-access-solutions-4818882",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 3013,
+      "name": "Patient Access",
+      "tags": [],
+      "slug": "patient-access"
+    },
+    "id_base62": "kdBU",
+    "short_url": "https://pres.ly/kdBU",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/osumc-improves-performance-cash-flow-with-nthrive-patient-access-solutions-4818882",
+    "views": 73
+  },
+  {
+    "type": "post",
+    "content_hints": [ "text", "link" ],
+    "source": {
+      "network": "Nthrive",
+      "uid": "url:fd8516c54c46c989b980f558c9ce11ab",
+      "url": "http://info.nthrive.com/2017_Apr_CarePricer_LP_3"
+    },
+    "author": {},
+    "title": "nThrive CarePricer improves accuracy",
+    "description": "Because patients are taking on more of their cost of care, they want - and need - accurate estimates upfront to make informed decisions. nThrive's CarePricer estimating solution helps organizations meet this demand for higher transparency, while also increasing the likelihood of payment for co-pays and deductibles on the front end, when it is proven to be easier to collect.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/7a438b4f462568ce9929ecfd20469ab8.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": null,
+        "edited": true
+      }
+    },
+    "tags": [ "carepricer", "patientaccess", "patientsatisfaction" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 4818553,
+    "hash": "5bf71fa7b7700be0b814e73620893a4d",
+    "seq": 149426731465657,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 3013,
+    "status": "published",
+    "like_count": 1,
+    "comment_count": 0,
+    "view_count": 66,
+    "share_count": 10,
+    "created_at": "2017-05-08T18:15:14Z",
+    "updated_at": null,
+    "published_at": "2017-05-08T18:15:14Z",
+    "children": null,
+    "slug": "nthrive-carepricer-improves-accuracy-4818553",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 3013,
+      "name": "Patient Access",
+      "tags": [],
+      "slug": "patient-access"
+    },
+    "id_base62": "kdwB",
+    "short_url": "https://pres.ly/kdwB",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/nthrive-carepricer-improves-accuracy-4818553",
+    "views": 66
+  },
+  {
+    "type": "post",
+    "content_hints": [ "photo", "text" ],
+    "source": {},
+    "author": {},
+    "title": "Delivering a Positive Patient Experience and Setting Expectations",
+    "description": "By Magan Butler-Coleman,&nbsp;Vice President, Revenue Cycle Solutions,&nbsp;MedAssets-Precyse",
+    "body": "<p>By Magan Butler-Coleman<span>,&nbsp;</span><span>Vice President, <a href=\"https://www.nthrive.com/solutions/\" target=\"_blank\">Revenue Cycle Solutions</a>,&nbsp;</span><span>MedAssets&apos;Precyse</span></p><p>Pressures on the bottom line for healthcare organizations have never been greater. A variety of factors including reduced reimbursement, the mandate for pricing transparency and the shift to <a href=\"https://www.nthrive.com/solutions/value-based-care/\" target=\"_blank\"  >value based care</a> models have CFOs scrambling to create strategies that will protect and enhance the organization&apos;s financial viability while delivering a positive patient experience. Walking this fine line requires keen insight into the opportunities for financial improvement that integrate with and support an organization&apos;s commitment to provide an unparalleled experience for the patient and his or her family.</p><p>Recently, I had the honor of teaming with a <a href=\"https://www.nthrive.com/\" target=\"_blank\" >MedAssets</a>&nbsp;partner to present a story that demonstrates how her organization approached this challenge and succeeded. My fellow presenter, Jana R. Mixon, is executive director, Access &amp; Scheduling Services, for the not-for-profit <a href=\"http://ketteringhealth.org/\" target=\"_blank\"  >Kettering</a> Health Network in Dayton, Ohio.&nbsp;<br></p><p>I began with an overview of the trends in pricing transparency developing across the country and discussed specific examples, walking attendees through the components of our solution that help members promote transparency across all phases of the access journey. </p><p>In 2011, Kettering saw a huge shift toward patients being responsible for a greater portion of the cost of their health care. An internal work team identified two areas of opportunity to improve revenue performance: collect underpaid accounts receivable from government payors and increase point-of-service collections through better patient estimates to mitigate bad debt. </p><p>About 55 percent of Kettering&apos;s revenue was from Medicare and Medicaid patients. But, its legacy contract management system focused on commercial payors, preventing the organization from gaining insight into government payor reimbursement rates. Bad debt was growing as the number of unemployed residents increased. Those with health insurance had higher deductibles and co-pays. Sixty percent of patients paid their accounts in full while 40 percent paid only one percent of their bill. Traditional approaches to collecting outstanding balances were becoming more costly and proving ineffective.</p><p>Jana explained how <a href=\"https://www.nthrive.com/\" target=\"_blank\" >MedAssets-Precyse</a> CarePricer<b> </b>patient liability estimation solution helped Kettering obtain accurate, patient-friendly estimates at the point of access. The organization combined this solution with MedAssets-Precyse <a href=\"https://www.nthrive.com/solutions/back/contract-management\" target=\"_blank\"  >Contract Management Solutions</a><b>&nbsp;</b>to add definition and clarity to the estimates being provided to its patients.&nbsp;<br></p> <p>Kettering recognized that patient billing was an area fraught with opportunities for patient dissatisfaction. It found that, thanks to these MedAssets-Precyse solutions, quoting correct out-of-pocket estimates and billing accurately according to the individual patient&apos;s ability to pay actually improved patient satisfaction. The solutions coupled with extensive communications and training increased awareness among-employees that most patients appreciate the opportunity to discuss financial responsibility before care is provided. </p><p>Kettering was convinced that patient financial priority shifts when set the right expectations through education, estimation and communication. All Kettering Access Services personnel completed eight hours of classroom training and additional hands-on training on the new technology and communication techniques. Metrics were developed to gauge improvement and a dedicated manager and support -employees were hired to focus solely on revenue cycle strategies. More than 69 tip sheets focused on components of the technology and communications training were produced for front line employees. At-the-elbow support was provided to employees in the workplace. </p><p> </p><p>As Kettering rolled out these initiatives, it found a direct correlation between the number of patient liability estimates provided and the number of successful point-of-service collections completed. Analysis showed that Kettering was achieving its goal of collecting more per patient encounter. In fact, from the time the initiatives were launched in 2011 until 2016, point of service dollars collected increased from $4.7 million to more than $27 million.</p><p>For more information on how our revenue cycle management solutions can help, contact a MedAssets-Precyse specialist at <a href=\"mailto:solutions@medassets-precyse.com\" target=\"_blank\" >solutions@nthrive.com</a> or call 678.323.2500.&nbsp;</p><p>&nbsp;</p><p>CarePricer is a registered trademark of MedAssets-Precyse.&nbsp;</p>",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/2f5eac624e214353304cc95e771ce631.jpg",
+      "width": 960,
+      "height": 720,
+      "format": "jpg",
+      "etc": {
+        "alt": "",
+        "box": [ 0.06, 0.1894, 0.9449, 0.9076 ],
+        "edited": true,
+        "focal_point": {}
+      }
+    },
+    "tags": [],
+    "media": null,
+    "oembed": {},
+    "etc": {
+      "twitter_share_text": "Blog: &apos;Setting the right expectations while delivering a positive patient experience&apos;",
+      "linkedin_share_text": "Blog: &apos;Setting the right expectations while delivering a positive patient experience&apos;",
+      "facebook_share_text": "Blog: &apos;Setting the right expectations while delivering a positive patient experience&apos;",
+      "email_share_text": "Blog: &apos;Setting the right expectations while delivering a positive patient experience&apos;"
+    },
+    "id": 480876,
+    "hash": "3565719ab0285507ecf9dd1ddafdeaf0",
+    "seq": 146608674528086,
+    "hub_id": 1101,
+    "user_id": 1376,
+    "collection_id": 3013,
+    "status": "published",
+    "like_count": 3,
+    "comment_count": 0,
+    "view_count": 422,
+    "share_count": 0,
+    "created_at": "2016-06-09T19:51:10Z",
+    "updated_at": "2018-04-03T15:31:20Z",
+    "published_at": "2016-06-09T19:51:10Z",
+    "children": null,
+    "slug": "blog-setting-the-right-expectations-while-delivering-a-positive-patient-experien-480876",
+    "meta_title": "Delivering a Positive Patient Experience and Setting Expectations",
+    "meta_description": "By Magan Butler-Coleman,&nbsp;Vice President, Revenue Cycle Solutions,&nbsp;MedAssets-Precyse",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 1376,
+      "username": "nthrivehub",
+      "name": "nThrive Hub",
+      "avatar_url": "https://cdn.pressly.com/clients/Pressly/static/default-user-avatar.png"
+    },
+    "collection": {
+      "id": 3013,
+      "name": "Patient Access",
+      "tags": [],
+      "slug": "patient-access"
+    },
+    "id_base62": "2164",
+    "short_url": "https://pres.ly/2164",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/blog-setting-the-right-expectations-while-delivering-a-positive-patient-experien-480876",
+    "views": 422
+  },
+  {
+    "type": "post",
+    "content_hints": [ "text", "link" ],
+    "source": {
+      "hash": "8b812d28ecc087e61bf9215f1b00130a",
+      "network": "Nthrive",
+      "uid": "url:8444068751176f69a295e3a71f83fc73",
+      "url": "http://go.nthrive.com/E-CO-3-2-1-LP.html"
+    },
+    "author": {},
+    "title": "Here is a previously recorded MedAssets-Precyse Webinar, which features Kettering's strategy to achieve performance improvement with Patient Access services and technology.",
+    "description": "",
+    "body": "Changing reimbursement models place more payment liability with the patient. At the same time, national healthcare reform ties patient satisfaction to Medicare reimbursement. For both of these reasons, health systems need to improve the accuracy and efficiency of point of service <a href=\"https://www.nthrive.com/solutions/front/\" target=\"_blank\">(POS) collections</a> to improve cash flow and decrease bad debt.",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/E-CO-3-2-1-video.jpg",
+      "width": 274,
+      "height": 154,
+      "format": "jpg"
+    },
+    "tags": [ "revenuecycle", "patientaccess" ],
+    "media": null,
+    "oembed": {},
+    "etc": {},
+    "id": 458762,
+    "hash": "d95db02261f1bb7b7a4d7afbd44001cb",
+    "seq": 146429231435050,
+    "hub_id": 1101,
+    "user_id": 1376,
+    "collection_id": 3013,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 117,
+    "share_count": 0,
+    "created_at": "2016-05-23T17:53:36Z",
+    "updated_at": "2017-10-26T18:51:54Z",
+    "published_at": "2016-05-23T17:53:36Z",
+    "children": null,
+    "slug": "hear-how-kettering-improved-pos-to-increase-cash-flow-reduce-bad-debt-458762",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 1376,
+      "username": "nthrivehub",
+      "name": "nThrive Hub",
+      "avatar_url": "https://cdn.pressly.com/clients/Pressly/static/default-user-avatar.png"
+    },
+    "collection": {
+      "id": 3013,
+      "name": "Patient Access",
+      "tags": [],
+      "slug": "patient-access"
+    },
+    "id_base62": "1Vlo",
+    "short_url": "https://pres.ly/1Vlo",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/hear-how-kettering-improved-pos-to-increase-cash-flow-reduce-bad-debt-458762",
+    "views": 117
+  },
+  {
+    "type": "post",
+    "content_hints": [ "photo", "text" ],
+    "source": {},
+    "author": {},
+    "title": "Kettering Health draws high turnout for presentation on Setting Patient Expectations at #NAHAM16",
+    "description": "Jana Mixon, executive director of Access and Scheduling Services at Kettering Health Network, spoke to a near full house at the NAHAM Breakfast Symposia.",
+    "body": "<p> Jana Mixon, executive director of Access and Scheduling Services at Kettering Health Network, spoke to a near full house at the NAHAM Breakfast Symposia.</p> <p>Mixon and co-presenter Magan Butler-Coleman, vice president, <a href=\"https://www.nthrive.com/solutions/\" target=\"_blank\" >Revenue Cycle Management Solutions</a> at <a href=\"https://www.nthrive.com/\" target=\"_blank\"  >MedAssets-Precyse</a>. discussed \"Setting the Right Expectations while Delivering a Positive and Memorable Experience.\" To follow is <span>a summary of their presentation:</span></p><p> </p><p>State price transparency provisions differ nationally, and there are limited solutions and approaches in the market to address the transparency provisions. As a leading non-profit health system in the Dayton, OH area, Kettering Health Network continues to drive record annual point-of-service cash collections. This session will highlight why deploying innovative strategies in <a href=\"https://www.nthrive.com/solutions/front/patient-access-solutions\" target=\"_blank\" >patient access solutions</a> can help other organizations address emerging state transparency provisions while supporting our patients as they assume greater financial responsibility, with an ultimate goal of creating an optimal patient experience.</p><p>&nbsp;Learning objectives for the session included:<span>&nbsp;</span></p> <ul><li>Highlight technology best practices that improve cash flow and collections.</li><li>Identify process improvement strategies to significantly impact upfront patient collections.</li><li>Provide successful training approaches that enhance staff effectiveness in point of service collections.</li><li>Define financial advocacy techniques to improve patient collections and satisfaction.</li></ul><p>Stay tuned for more on this compelling discussion!</p><p><br></p> <p><br></p>",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/395f746a87aa2e9cf3fbfd36da589af6.jpg",
+      "width": 640,
+      "height": 260,
+      "format": "jpg",
+      "etc": {
+        "alt": "",
+        "box": [],
+        "focal_point": {}
+      }
+    },
+    "tags": [],
+    "media": null,
+    "oembed": {},
+    "etc": {},
+    "id": 467328,
+    "hash": "c2cd45f5d5169dd2f12944c7ee41ef04",
+    "seq": 146419776644350,
+    "hub_id": 1101,
+    "user_id": 1376,
+    "collection_id": 3013,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 156,
+    "share_count": 0,
+    "created_at": "2016-05-25T17:36:06Z",
+    "updated_at": "2018-04-23T22:35:38Z",
+    "published_at": "2016-05-25T17:36:06Z",
+    "children": null,
+    "slug": "kettering-health-draws-high-turnout-for-presentation-on-setting-patient-expectat-467328",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 1376,
+      "username": "nthrivehub",
+      "name": "nThrive Hub",
+      "avatar_url": "https://cdn.pressly.com/clients/Pressly/static/default-user-avatar.png"
+    },
+    "collection": {
+      "id": 3013,
+      "name": "Patient Access",
+      "tags": [],
+      "slug": "patient-access"
+    },
+    "id_base62": "1Xzy",
+    "short_url": "https://pres.ly/1Xzy",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/kettering-health-draws-high-turnout-for-presentation-on-setting-patient-expectat-467328",
+    "views": 156
+  },
+  {
+    "type": "post",
+    "content_hints": [ "photo", "text" ],
+    "source": {},
+    "author": {},
+    "title": "Visit MedAssets-Precyse booth #205 #NAHAM16. Don't Miss the Breakfast Symposia featuring Kettering Health Network",
+    "description": "Don't miss our breakfast symposia featuring Kettering Health Network, May 26, 7:30-8:45 a.m., #NAHAM16. Jana Mixon, executive director, Access &amp; Scheduling Services at Kettering, and, Magan Butler-Coleman, vice president, Revenue Cycle Solutions at MedAssets-Precyse, will speak about \"Setting the right expectations while delivering a positive and memorable patient financial experience.\" In this session you'll learn how Kettering used innovative approaches to drive record point of service collections and support a leading-edge patient experience for their health system. ",
+    "body": "<p><img src=\"https://s3.amazonaws.com/pressly-imgrydb/images/uploads/336566a223260f4d6a77b1a3aaa58561.jpg\">Don't miss our breakfast symposia featuring Kettering Health Network, May 26, 7:30-8:45 a.m., #NAHAM16. Jana Mixon, executive director, Access &amp; Scheduling Services at Kettering, and, Magan Butler-Coleman, vice president, <a href=\"https://www.nthrive.com/solutions/\" target=\"_blank\">Revenue Cycle Solutions</a> at <a href=\"https://www.nthrive.com/\" target=\"_blank\" >MedAssets-Precyse</a>, will speak about \"Setting the right expectations while delivering a positive and memorable patient financial experience.\" In this session you'll learn how Kettering used innovative approaches to drive record point of service collections and support a leading-edge patient experience for their health system.&nbsp;<br></p> <p><br></p>",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/fb5989d3bcc1758c3e653fef1131b31e.jpg",
+      "width": 1200,
+      "height": 300,
+      "format": "jpg",
+      "etc": {
+        "alt": "",
+        "box": [ 0.0283, 0.0283, 0.4158, 0.9717 ],
+        "focal_point": {}
+      }
+    },
+    "tags": [],
+    "media": null,
+    "oembed": {},
+    "etc": {},
+    "id": 428354,
+    "hash": "675323cd001f23856d46908e7d434a09",
+    "seq": 146402601659865,
+    "hub_id": 1101,
+    "user_id": 1376,
+    "collection_id": 3013,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 69,
+    "share_count": 0,
+    "created_at": "2016-05-19T21:19:55Z",
+    "updated_at": "2017-03-10T17:56:02Z",
+    "published_at": "2016-05-19T21:19:55Z",
+    "children": null,
+    "slug": "visit-medassets-precyse-booth-205-naham16-dont-miss-the-breakfast-symposia-featu-428354",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 1376,
+      "username": "nthrivehub",
+      "name": "nThrive Hub",
+      "avatar_url": "https://cdn.pressly.com/clients/Pressly/static/default-user-avatar.png"
+    },
+    "collection": {
+      "id": 3013,
+      "name": "Patient Access",
+      "tags": [],
+      "slug": "patient-access"
+    },
+    "id_base62": "1NqW",
+    "short_url": "https://pres.ly/1NqW",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/visit-medassets-precyse-booth-205-naham16-dont-miss-the-breakfast-symposia-featu-428354",
+    "views": 69
+  }
+]

@@ -1,0 +1,2319 @@
+[
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:db8b603f2928cfaca100dfca7953a2c4",
+      "url": "https://www.nthrive.com/solutions/front/"
+    },
+    "author": { "name": "nThrive" },
+    "title": "Patient Access Solutions",
+    "description": "nThrive's Patient Access Solutions help health care providers improve their POS collections as well as create a better patient experience.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/careers.png",
+      "width": 1024,
+      "height": 512,
+      "format": "png",
+      "etc": {
+        "box": [ 0.002857142857142836, 0, 0.8485714285714285, 1 ],
+        "edited": true
+      }
+    },
+    "tags": [ "patientaccess", "accessweek18" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 20590711,
+    "hash": "a2631c595585732d9d687d46987d4dfb",
+    "seq": 152277096858449,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 3013,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 48,
+    "share_count": 0,
+    "created_at": "2018-04-03T15:56:08Z",
+    "updated_at": null,
+    "published_at": "2018-04-03T15:56:08Z",
+    "children": null,
+    "slug": "patient-access-solutions-20590711",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 3013,
+      "name": "Patient Access",
+      "tags": [],
+      "slug": "patient-access"
+    },
+    "id_base62": "1ooAf",
+    "short_url": "https://pres.ly/1ooAf",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/patient-access-solutions-20590711",
+    "views": 48
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:430fecf15f272de9a407fffb36b39515",
+      "url": "https://www.nthrive.com/solutions/?_ga=2.237391176.990840444.1522672582-1842623581.1488228879"
+    },
+    "author": { "name": "nThrive" },
+    "title": "Patient-to-Payment Solutions",
+    "description": "nThrive Solutions help hospitals and health care providers with a combination of revenue cycle services, technology, education, analytics and advisory services. Let us transform your revenue cycle with a holistic approach and boost your organization's financial and operational efficiency from Patient-to-Payment&#8480;.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/Blonde-Girl.png",
+      "width": 1024,
+      "height": 512,
+      "format": "png",
+      "etc": {
+        "box": null,
+        "edited": true
+      }
+    },
+    "tags": [ "patienttopayment", "endtoend", "rcm", "revenue", "revenuecycle" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 20462298,
+    "hash": "2200e2d53118b3cc91c6d5deecb3f5ab",
+    "seq": 152267767884344,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 41,
+    "share_count": 0,
+    "created_at": "2018-04-02T14:01:18Z",
+    "updated_at": null,
+    "published_at": "2018-04-02T14:01:18Z",
+    "children": null,
+    "slug": "patient-to-payment-solutions-20462298",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1nRb4",
+    "short_url": "https://pres.ly/1nRb4",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/patient-to-payment-solutions-20462298",
+    "views": 41
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:d773289a9fc218f8f37166b142e4f143",
+      "url": "https://www.nthrive.com/blog/artificial-intelligence-in-health-care-a-cure-for-data-pains"
+    },
+    "author": { "name": "nThrive" },
+    "title": "Artificial Intelligence in Health Care: A Cure for Data Pains",
+    "description": "Learn how artificial intelligence can help your organization achieve success.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/4_6.png",
+      "width": 1024,
+      "height": 512,
+      "format": "png",
+      "etc": {
+        "box": null,
+        "edited": true
+      }
+    },
+    "tags": [ "ai", "artificalintelligence", "healthcare" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 20460020,
+    "hash": "665cadd03480d5519cf3101fe53d3ad0",
+    "seq": 152267603548543,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 57,
+    "share_count": 0,
+    "created_at": "2018-04-02T13:33:55Z",
+    "updated_at": null,
+    "published_at": "2018-04-02T13:33:55Z",
+    "children": null,
+    "slug": "artificial-intelligence-in-health-care-a-cure-for-data-pains-20460020",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1nQAk",
+    "short_url": "https://pres.ly/1nQAk",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/artificial-intelligence-in-health-care-a-cure-for-data-pains-20460020",
+    "views": 57
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:6091a95b373675142c3509a474f3481a",
+      "url": "https://qpp.cms.gov/"
+    },
+    "author": {},
+    "title": "CMS Extends the MIPS 2017 Data Submission Deadline from March 31 to April 3 at 8 PM EDT",
+    "description": "If you’re an eligible clinician participating in the Quality Payment Program, you now have until Tuesday,&nbsp;April 3, 2018 at 8 PM EDT&nbsp;to submit your 2017 MIPS performance data.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/4_2.png",
+      "width": 1024,
+      "height": 512,
+      "format": "png",
+      "etc": {
+        "box": [ 0, 0, 0.8514285714285714, 1 ],
+        "edited": true
+      }
+    },
+    "tags": [ "cms", "mips", "qualitypayment", "qpp" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 20456134,
+    "hash": "44878d840ac14bfd123c18a45d752f47",
+    "seq": 152267361271787,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 17,
+    "share_count": 0,
+    "created_at": "2018-04-02T12:53:32Z",
+    "updated_at": null,
+    "published_at": "2018-04-02T12:53:32Z",
+    "children": null,
+    "slug": "cms-extends-the-mips-2017-data-submission-deadline-from-march-31-to-april-3-at-8-20456134",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1nPzE",
+    "short_url": "https://pres.ly/1nPzE",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/cms-extends-the-mips-2017-data-submission-deadline-from-march-31-to-april-3-at-8-20456134",
+    "views": 17
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "RevCycleIntelligence",
+      "uid": "url:7b3257dac489862a97d807c01eeeb0fc",
+      "url": "https://revcycleintelligence.com/news/price-transparency-crucial-to-healthcare-consumerism-success"
+    },
+    "author": {},
+    "title": "Price Transparency Crucial to Healthcare Consumerism Success",
+    "description": "A new brief from Rice University’s Baker Institute for Public Policy explained that providers and stakeholders need price transparency to drive effective healthcare consumerism.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/4_4.png",
+      "width": 1024,
+      "height": 512,
+      "format": "png",
+      "etc": {
+        "box": [ 0.14285714285714285, 0, 1, 1 ],
+        "edited": true
+      }
+    },
+    "tags": [ "healthcare", "consumerism" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 20098073,
+    "hash": "020159be6817a7bf06daeb7efde286f2",
+    "seq": 152234328475892,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 6,
+    "share_count": 0,
+    "created_at": "2018-03-29T17:08:04Z",
+    "updated_at": null,
+    "published_at": "2018-03-29T17:08:04Z",
+    "children": null,
+    "slug": "price-transparency-crucial-to-healthcare-consumerism-success-20098073",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1mkqt",
+    "short_url": "https://pres.ly/1mkqt",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/price-transparency-crucial-to-healthcare-consumerism-success-20098073",
+    "views": 6
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "RevCycleIntelligence",
+      "uid": "url:88b2087a3766c40d33e9adced2a9e7db",
+      "url": "https://revcycleintelligence.com/news/hospital-care-at-home-cuts-healthcare-costs-in-half-at-ma-hospital"
+    },
+    "author": {},
+    "title": "Hospital Care at Home Cuts Healthcare Costs in Half",
+    "description": "Healthcare costs dropped by 52 percent for acutely ill patients who received hospital care in their own homes as part of a small trial at Brigham and Women's Hospital.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/3_31.png",
+      "width": 1024,
+      "height": 512,
+      "format": "png",
+      "etc": {
+        "box": [ 0.1428571428571429, 0, 1, 1 ],
+        "edited": true
+      }
+    },
+    "tags": [ "healthcare", "hospital", "acutecare" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 20098068,
+    "hash": "9e2cd8e0dd66ab274fd2394d085052d7",
+    "seq": 152234321793575,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 4,
+    "share_count": 0,
+    "created_at": "2018-03-29T17:06:57Z",
+    "updated_at": null,
+    "published_at": "2018-03-29T17:06:57Z",
+    "children": null,
+    "slug": "hospital-care-at-home-cuts-healthcare-costs-in-half-20098068",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1mkqo",
+    "short_url": "https://pres.ly/1mkqo",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/hospital-care-at-home-cuts-healthcare-costs-in-half-20098068",
+    "views": 4
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Healthcare Dive",
+      "uid": "url:f8970324c55e504eacf6119b9f11506e",
+      "url": "https://www.healthcaredive.com/news/urgent-care-center-market-on-track-to-hit-26b-by-2023/520000/"
+    },
+    "author": {},
+    "title": "Urgent care center market on track to hit $26B by 2023",
+    "description": "This year's severe flu season is driving growth in the acute care segment of the market, according to a new report.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/4_3(1).png",
+      "width": 1024,
+      "height": 512,
+      "format": "png",
+      "etc": {
+        "box": null,
+        "edited": true
+      }
+    },
+    "tags": [ "acutecare" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 20097937,
+    "hash": "3b4eed8646c1beedfa083560186ab66a",
+    "seq": 152234313953954,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 3,
+    "share_count": 0,
+    "created_at": "2018-03-29T17:05:39Z",
+    "updated_at": null,
+    "published_at": "2018-03-29T17:05:39Z",
+    "children": null,
+    "slug": "urgent-care-center-market-on-track-to-hit-26b-by-2023-20097937",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1mkoh",
+    "short_url": "https://pres.ly/1mkoh",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/urgent-care-center-market-on-track-to-hit-26b-by-2023-20097937",
+    "views": 3
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:29443222ab1434185b3838feb72d6983",
+      "url": "https://www.healthmgttech.com/technology-will-drive-future-population-health-management"
+    },
+    "author": {},
+    "title": "How technology will drive the future of population health management",
+    "description": "Organizations responsible for the care of large groups of people—health plans, hospitals and health systems, large employers, and physicians’ groups—currently have more breakthrough technology at their fingertips designed specifically to improve health outcomes than at any point in history.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/4_1.png",
+      "width": 1024,
+      "height": 512,
+      "format": "png"
+    },
+    "tags": [ "technology", "populationhealth" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 20097842,
+    "hash": "4530316f62e75cf682cf626e8ed6d132",
+    "seq": 152234304209950,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 22,
+    "share_count": 0,
+    "created_at": "2018-03-29T17:04:02Z",
+    "updated_at": null,
+    "published_at": "2018-03-29T17:04:02Z",
+    "children": null,
+    "slug": "how-technology-will-drive-the-future-of-population-health-management-20097842",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1mkmK",
+    "short_url": "https://pres.ly/1mkmK",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/how-technology-will-drive-the-future-of-population-health-management-20097842",
+    "views": 22
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:e0623d457951faf7711f4bd88aa92769",
+      "url": "http://www.physicianspractice.com/patients/7-ways-minimize-patient-safety-risks"
+    },
+    "author": {},
+    "title": "7 Ways to Minimize Patient Safety Risks",
+    "description": "Providing for the health of patients is obviously job number one in every medical practice. But what some may find surprising is that without proper attention, the same environment can pose threats to patients and visitors. Learn more here!",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/3_30.png",
+      "width": 1024,
+      "height": 512,
+      "format": "png",
+      "etc": {
+        "box": [ 0.1428571428571429, 0, 1, 1 ],
+        "edited": true
+      }
+    },
+    "tags": [ "patientsafety" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 20097822,
+    "hash": "9b0294b092174ea628a91c9babbf19eb",
+    "seq": 152234295156881,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 12,
+    "share_count": 0,
+    "created_at": "2018-03-29T17:02:31Z",
+    "updated_at": null,
+    "published_at": "2018-03-29T17:02:31Z",
+    "children": null,
+    "slug": "7-ways-to-minimize-patient-safety-risks-20097822",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1mkmq",
+    "short_url": "https://pres.ly/1mkmq",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/7-ways-to-minimize-patient-safety-risks-20097822",
+    "views": 12
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Healthcare Dive",
+      "uid": "url:2c25fc5d60b3cdd07797fd4bea268271",
+      "url": "https://www.healthcaredive.com/news/face-time-compassion-key-in-online-doctor-reviews-analysis-finds/520115/"
+    },
+    "author": {},
+    "title": "An analysis finds Face time and compassion are key in online doctor reviews",
+    "description": "Consumers are looking for a positive interaction with providers, just as much as a medical experience, a new analysis of nearly 7 million online patient reviews shows.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/pablo-(5).png",
+      "width": 1024,
+      "height": 512,
+      "format": "png",
+      "etc": {
+        "box": null,
+        "edited": true
+      }
+    },
+    "tags": [ "physician", "patient" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 20097696,
+    "hash": "782a24ba6228b2ae48b3e7857e868260",
+    "seq": 152234286283435,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 9,
+    "share_count": 0,
+    "created_at": "2018-03-29T17:01:02Z",
+    "updated_at": null,
+    "published_at": "2018-03-29T17:01:02Z",
+    "children": null,
+    "slug": "an-analysis-finds-face-time-and-compassion-are-key-in-online-doctor-reviews-20097696",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1mkko",
+    "short_url": "https://pres.ly/1mkko",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/an-analysis-finds-face-time-and-compassion-are-key-in-online-doctor-reviews-20097696",
+    "views": 9
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:3ece63bd258f674c3fad6e1ebefb6c53",
+      "url": "https://www.nthrive.com/blog/revenue-cycle-management-in-hospitals-redefined-from-patient-to-payment"
+    },
+    "author": { "name": "nThrive" },
+    "title": "Revenue Cycle Management in Hospitals Redefined from Patient-to-Payment&#8480;",
+    "description": "nThrive believes that every one in every community deserves to know that their health, and their lives, are in capable, caring hands. Learn how nThrive can empower your organization's mission, from Patient-to-Payment.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/People.png",
+      "width": 1024,
+      "height": 512,
+      "format": "png",
+      "etc": {
+        "box": null,
+        "edited": true
+      }
+    },
+    "tags": [ "revenuecyclemanagement", "patienttopayment", "hospital" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 20047084,
+    "hash": "cf84fb86ee3a1aebc2670c408cba09da",
+    "seq": 152226121932548,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 21,
+    "share_count": 0,
+    "created_at": "2018-03-28T18:20:19Z",
+    "updated_at": null,
+    "published_at": "2018-03-28T18:20:19Z",
+    "children": null,
+    "slug": "revenue-cycle-management-in-hospitals-redefined-from-patient-to-payment-20047084",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1m7a4",
+    "short_url": "https://pres.ly/1m7a4",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/revenue-cycle-management-in-hospitals-redefined-from-patient-to-payment-20047084",
+    "views": 21
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:a09306e6debfc3b138f5bd01bb455688",
+      "url": "https://www.nthrive.com/solutions/"
+    },
+    "author": { "name": "nThrive" },
+    "title": "Join nThrive at Becker's Hospital Review 9th Annual Meeting!",
+    "description": "Visit nThrive booth #400 April 11-14, in Chicago, IL and enter to win a Bose Bluetooth speaker and an nThrive Patient-to-Payment&#8480; needs assessment. See you there!",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/Girl-with-chalk.png",
+      "width": 1024,
+      "height": 512,
+      "format": "png",
+      "etc": {
+        "box": [ 0.1428571428571429, 0, 1, 1 ],
+        "edited": true
+      }
+    },
+    "tags": [ "patienttopayment", "beckershr" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 20042516,
+    "hash": "baac322243558da4a1ece721ad496431",
+    "seq": 152225756175738,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 18,
+    "share_count": 0,
+    "created_at": "2018-03-28T17:19:21Z",
+    "updated_at": null,
+    "published_at": "2018-03-28T17:19:21Z",
+    "children": null,
+    "slug": "join-nthrive-at-beckers-hospital-review-9th-annual-meeting-20042516",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1m5Yo",
+    "short_url": "https://pres.ly/1m5Yo",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/join-nthrive-at-beckers-hospital-review-9th-annual-meeting-20042516",
+    "views": 18
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "HIT Leaders and News",
+      "uid": "url:beeb38a33bdaa73dfea7e2ee23d2bd06",
+      "url": "https://us.hitleaders.news/from-patient-to-paymentsm-why-providers-must-reinvent-rcm/"
+    },
+    "author": {
+      "name": "Joel Hackney",
+      "profile_url": "https://us.hitleaders.news/author/jason-free/"
+    },
+    "title": "From patient-to-payment: Why providers must reinvent RCM",
+    "description": "Joel Hackney, Chief Executive Officer at nThrive discusses how half of the nation's 5,000+ hospitals are losing money for every patient they see and many are at risk of closing their doors in the next 18 months. Learn why providers must reinvent revenue cycle management in order to prevent this in this next article.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/Blonde-Girl(1).png",
+      "width": 1024,
+      "height": 512,
+      "format": "png",
+      "etc": {
+        "box": null,
+        "edited": true
+      }
+    },
+    "tags": [ "patienttopayment", "rcm", "revenue", "revenuecycle", "revenuecyclemanagement" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 19915511,
+    "hash": "c695a04dfb90827a7a1e31f97d1f9bfa",
+    "seq": 152218010203495,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 54,
+    "share_count": 0,
+    "created_at": "2018-03-27T19:48:22Z",
+    "updated_at": null,
+    "published_at": "2018-03-27T19:48:22Z",
+    "children": null,
+    "slug": "from-patient-to-payment-why-providers-must-reinvent-rcm-19915511",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1lyVV",
+    "short_url": "https://pres.ly/1lyVV",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/from-patient-to-payment-why-providers-must-reinvent-rcm-19915511",
+    "views": 54
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:8a94ecdbaf5ed7c271ad2ca5ead197d9",
+      "url": "https://www.nthrive.com/blog/three-new-perspectives-on-the-revenue-cycle"
+    },
+    "author": { "name": "nThrive" },
+    "title": "Three New Perspectives on the Revenue Cycle",
+    "description": "Learn how a Patient-to-Payment solution can improve every stage of your revenue cycle and generate positive ROI.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/pablo-(3).png",
+      "width": 1024,
+      "height": 512,
+      "format": "png",
+      "etc": {
+        "box": null,
+        "edited": true
+      }
+    },
+    "tags": [ "revenue", "revenuecycle", "patienttopayment", "roi" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 19768687,
+    "hash": "9f70023621990ad1e1a48eab6eb2474e",
+    "seq": 152208503323495,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 53,
+    "share_count": 0,
+    "created_at": "2018-03-26T17:23:53Z",
+    "updated_at": null,
+    "published_at": "2018-03-26T17:23:53Z",
+    "children": null,
+    "slug": "three-new-perspectives-on-the-revenue-cycle-19768687",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1kWJN",
+    "short_url": "https://pres.ly/1kWJN",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/three-new-perspectives-on-the-revenue-cycle-19768687",
+    "views": 53
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:66f6fd584f70fd9f012c69c40b8b2e51",
+      "url": "https://www.beckershospitalreview.com/finance/rcm-tip-of-the-day-approach-ambulatory-and-outpatient-visits-with-a-different-cdi-lens.html"
+    },
+    "author": { "name": "Kelly Gooch" },
+    "title": "RCM tip of the day: Approach ambulatory and outpatient visits with a different CDI lens",
+    "description": "Healthcare organizations should look at outpatient and ambulatory clinical documentation improvement with specific attention on achieving proper reimbursement, according to Mark Hendricks, vice president of product management at nThrive.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/pablo-(4).png",
+      "width": 1024,
+      "height": 512,
+      "format": "png",
+      "etc": {
+        "box": null,
+        "edited": true
+      }
+    },
+    "tags": [ "ambulatory", "outpatient", "clinical", "clinicaldocumentationimprovement" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 19336083,
+    "hash": "0e4ad02a0d1415f82fd60680071ec2ed",
+    "seq": 152173164265021,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 17,
+    "share_count": 0,
+    "created_at": "2018-03-22T15:14:02Z",
+    "updated_at": "2018-03-26T17:05:53Z",
+    "published_at": "2018-03-22T15:14:02Z",
+    "children": null,
+    "slug": "rcm-tip-of-the-day-approach-ambulatory-and-outpatient-visits-with-a-different-cd-19336083",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1j8cj",
+    "short_url": "https://pres.ly/1j8cj",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/rcm-tip-of-the-day-approach-ambulatory-and-outpatient-visits-with-a-different-cd-19336083",
+    "views": 17
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "RevCycleIntelligence",
+      "uid": "url:3096989a46a21aea1ec404fb81dc160f",
+      "url": "https://revcycleintelligence.com/news/hospitals-acquired-5k-independent-practices-from-2015-to-2016"
+    },
+    "author": {},
+    "title": "Hospitals Acquired 5K Independent Practices from 2015 to 2016",
+    "description": "A new study shows that hospital acquisitions of independent practices and hospital employment of physicians is continuing to accelerate.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/3_29.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 0.9933333333333333, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": [ "hospital" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 19334977,
+    "hash": "c8eb374e23d2ab5f21e420d24383a80f",
+    "seq": 152173047103695,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 20,
+    "share_count": 0,
+    "created_at": "2018-03-22T14:54:31Z",
+    "updated_at": null,
+    "published_at": "2018-03-22T14:54:31Z",
+    "children": null,
+    "slug": "hospitals-acquired-5k-independent-practices-from-2015-to-2016-19334977",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1j7Ut",
+    "short_url": "https://pres.ly/1j7Ut",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/hospitals-acquired-5k-independent-practices-from-2015-to-2016-19334977",
+    "views": 20
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Healthcare Dive",
+      "uid": "url:e173ca2dcdd4c62c76b37a9669ebbf29",
+      "url": "https://www.healthcaredive.com/news/cms-next-generation-sequencing-coverage/519420/"
+    },
+    "author": {},
+    "title": "CMS finalizes coverage of DNA sequencing for cancer patients",
+    "description": "CMS has finalized Medicare coverage of diagnostic laboratory tests using next generation sequencing (NGS) for patients with advanced cancer.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/3_28.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0.14666112035496404, 0.9933333333333333, 0.9462007764836385 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 19334972,
+    "hash": "47da52ea7794fd24f6104ebc6f93d410",
+    "seq": 152173042869472,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 25,
+    "share_count": 0,
+    "created_at": "2018-03-22T14:53:48Z",
+    "updated_at": null,
+    "published_at": "2018-03-22T14:53:48Z",
+    "children": null,
+    "slug": "cms-finalizes-coverage-of-dna-sequencing-for-cancer-patients-19334972",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1j7Uo",
+    "short_url": "https://pres.ly/1j7Uo",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/cms-finalizes-coverage-of-dna-sequencing-for-cancer-patients-19334972",
+    "views": 25
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Healthcare Dive",
+      "uid": "url:ebd83c5c8caab1cc98876a756e7fddf4",
+      "url": "https://www.healthcaredive.com/news/hospital-prices-see-biggest-gain-in-years-hiring-on-upswing/519365/"
+    },
+    "author": {},
+    "title": "Hospital prices see biggest gain in years",
+    "description": "Hospital prices grew at their highest rate since 2009. Overall healthcare costs saw the highest increase since 2012.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/3_27.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": [ "hospital" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 19334960,
+    "hash": "cd6ad091f7d3c19dc5992a64c12b25e4",
+    "seq": 152173036643580,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 17,
+    "share_count": 0,
+    "created_at": "2018-03-22T14:52:46Z",
+    "updated_at": null,
+    "published_at": "2018-03-22T14:52:46Z",
+    "children": null,
+    "slug": "hospital-prices-see-biggest-gain-in-years-19334960",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1j7Uc",
+    "short_url": "https://pres.ly/1j7Uc",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/hospital-prices-see-biggest-gain-in-years-19334960",
+    "views": 17
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Healthcare Dive",
+      "uid": "url:91d1a571b5c76097d6064d412dd0b410",
+      "url": "https://www.healthcaredive.com/news/marylands-all-payer-model-saved-medicare-millions-in-first-3-years/519458/"
+    },
+    "author": {},
+    "title": "Maryland's all-payer model saved Medicare millions in first 3 years",
+    "description": "A review of the state program found that it's on track to meet CMS-imposed targets for savings and patient safety.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/3_25.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": [ "payers", "medicare", "cms" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 19334836,
+    "hash": "68655ebf96b638699571c8557a0307ff",
+    "seq": 152173030253182,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 5,
+    "share_count": 0,
+    "created_at": "2018-03-22T14:51:42Z",
+    "updated_at": null,
+    "published_at": "2018-03-22T14:51:42Z",
+    "children": null,
+    "slug": "marylands-all-payer-model-saved-medicare-millions-in-first-3-years-19334836",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1j7Sc",
+    "short_url": "https://pres.ly/1j7Sc",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/marylands-all-payer-model-saved-medicare-millions-in-first-3-years-19334836",
+    "views": 5
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:65c283663b133af45890ba081040634d",
+      "url": "https://www.nthrive.com/blog/what-are-bundled-payments"
+    },
+    "author": { "name": "nThrive" },
+    "title": "What are bundled payments?",
+    "description": "Learn about bundled payments in health care and discover how to create a win-win scenario for both patients and providers. View the webinar replay to learn what steps health systems are taking to achieve financial and operational strength through a bundled payment strategy.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/3_22-2.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": [ "bundledpayments" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 19084283,
+    "hash": "b00a9b400446e7326ecd8603f598a388",
+    "seq": 152156783357110,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 17,
+    "share_count": 0,
+    "created_at": "2018-03-20T17:43:53Z",
+    "updated_at": null,
+    "published_at": "2018-03-20T17:43:53Z",
+    "children": null,
+    "slug": "what-are-bundled-payments-19084283",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1i4H1",
+    "short_url": "https://pres.ly/1i4H1",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/what-are-bundled-payments-19084283",
+    "views": 17
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:d620ea98f9616a528197c1485e699587",
+      "url": "https://www.nthrive.com/solutions/middle/health-information-management-him"
+    },
+    "author": { "name": "nThrive" },
+    "title": "nThrive recognizes the hard work of HIM professionals",
+    "description": "nThrive's HIM interim management and HIM department outsourcing abilities deliver proven results of greater financial performance and increased revenue.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/HIM-2.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0.15700221852468121, 1, 0.9943899057127014 ],
+        "edited": true
+      }
+    },
+    "tags": [ "him", "himtechnology" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 19075416,
+    "hash": "fd15e5ca37000a464e64fda45eca688e",
+    "seq": 152156128587242,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2956,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 55,
+    "share_count": 0,
+    "created_at": "2018-03-20T15:54:45Z",
+    "updated_at": "2018-03-21T15:38:45Z",
+    "published_at": "2018-03-20T15:54:45Z",
+    "children": null,
+    "slug": "nthrive-recognizes-the-hard-work-of-him-professionals-19075416",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2956,
+      "name": "HIM &amp; Clinical Engagement",
+      "tags": [],
+      "slug": "him-and-clinical-engagement"
+    },
+    "id_base62": "1i2o0",
+    "short_url": "https://pres.ly/1i2o0",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/nthrive-recognizes-the-hard-work-of-him-professionals-19075416",
+    "views": 55
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:7abde6f651d6369b60c357442ba960b8",
+      "url": "https://hitconsultant.net/2018/03/19/patient-segmentation-revenue-cycle-financial-risk/"
+    },
+    "author": {
+      "name": "Guest Post",
+      "profile_url": "https://hitconsultant.net/author/guest-post/"
+    },
+    "title": "Revenue Cycle: Patient Segmentation Is Key to Mitigating Financial Risk",
+    "description": "Erica Franko, Senior Vice President of Advisory Services and Kelley Blair, SVP &amp; GM, Mid-America at nThrive, focus on aiding healthcare providers with Patient-to-Payment&#8480; solutions.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/3_22.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 19063461,
+    "hash": "41bf115202106b35cc9dbb4b880bbe8a",
+    "seq": 152155279417931,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 67,
+    "share_count": 0,
+    "created_at": "2018-03-20T13:33:14Z",
+    "updated_at": "2018-03-20T13:33:46Z",
+    "published_at": "2018-03-20T13:33:14Z",
+    "children": null,
+    "slug": "revenue-cycle-patient-segmentation-is-key-to-mitigating-financial-risk-19063461",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1hZhb",
+    "short_url": "https://pres.ly/1hZhb",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/revenue-cycle-patient-segmentation-is-key-to-mitigating-financial-risk-19063461",
+    "views": 67
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Healthcare IT News",
+      "uid": "url:220a5b933c5a0efcb429bf1e7400d297",
+      "url": "http://www.healthcareitnews.com/news/hospitals-investing-clinical-surveillance-tools-remain-skeptical-vendor-claims"
+    },
+    "author": {},
+    "title": "Hospitals are investing in clinical surveillance tools, but remain skeptical of vendor claims",
+    "description": "Spyglass survey uncovers varying degrees of understanding which tools can be used for early warning and predictive indicators to prevent adverse health events.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/3_24.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.7806156405990018 ],
+        "edited": true
+      }
+    },
+    "tags": [ "hospital", "clinical" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 18968546,
+    "hash": "64059206ce598ef73f27fa9c76a2ea2a",
+    "seq": 152148711441275,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 6,
+    "share_count": 0,
+    "created_at": "2018-03-19T19:18:34Z",
+    "updated_at": null,
+    "published_at": "2018-03-19T19:18:34Z",
+    "children": null,
+    "slug": "hospitals-are-investing-in-clinical-surveillance-tools-but-remain-skeptical-of-v-18968546",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1hAAi",
+    "short_url": "https://pres.ly/1hAAi",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/hospitals-are-investing-in-clinical-surveillance-tools-but-remain-skeptical-of-v-18968546",
+    "views": 6
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:fec14208c5036aada161ba6b667a6852",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/google-s-parent-alphabet-microsoft-and-apple-have-filed-300-healthcare-patents-5-things-to-know.html"
+    },
+    "author": { "name": "Alia Paavola" },
+    "title": "Google's parent Alphabet, Microsoft and Apple have filed 300+ healthcare patents: 5 things to know",
+    "description": "Alphabet, Microsoft and Apple have filed more than 300 healthcare patents between 2013 and 2017 — revealing the tech giants' increasing desire to disrupt the healthcare space, according to a new report.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/3_23.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg"
+    },
+    "tags": [ "healthcare" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 18968541,
+    "hash": "e73e44380ff14772aebd342c6341522a",
+    "seq": 152148706436108,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 23,
+    "share_count": 0,
+    "created_at": "2018-03-19T19:17:44Z",
+    "updated_at": null,
+    "published_at": "2018-03-19T19:17:44Z",
+    "children": null,
+    "slug": "googles-parent-alphabet-microsoft-and-apple-have-filed-300-healthcare-patents-5--18968541",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1hAAd",
+    "short_url": "https://pres.ly/1hAAd",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/googles-parent-alphabet-microsoft-and-apple-have-filed-300-healthcare-patents-5--18968541",
+    "views": 23
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "RevCycleIntelligence",
+      "uid": "url:e94d1fde4613bf5c9572a886c92c3285",
+      "url": "https://revcycleintelligence.com/news/healthcare-staffing-recruiting-a-major-problem-for-hospitals"
+    },
+    "author": {},
+    "title": "Recruiting Health Care Staff Has Become a Major Problem for Hospitals",
+    "description": "Almost one-third of hospitals reported not finding enough qualified candidates to fill open positions, indicating healthcare staffing and recruiting challenges for hospitals of all sizes.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/3_20.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0.015072102052135161, 1, 0.8524597892401553 ],
+        "edited": true
+      }
+    },
+    "tags": [ "hospital", "healthcare" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 18968523,
+    "hash": "f26bb67381fa7445561de7986a2559a4",
+    "seq": 152148696258495,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 32,
+    "share_count": 0,
+    "created_at": "2018-03-19T19:16:02Z",
+    "updated_at": null,
+    "published_at": "2018-03-19T19:16:02Z",
+    "children": null,
+    "slug": "recruiting-health-care-staff-has-become-a-major-problem-for-hospitals-18968523",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1hAzV",
+    "short_url": "https://pres.ly/1hAzV",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/recruiting-health-care-staff-has-become-a-major-problem-for-hospitals-18968523",
+    "views": 32
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "RevCycleIntelligence",
+      "uid": "url:85cb8637d88e43ad6b41654bf453b2f5",
+      "url": "https://revcycleintelligence.com/news/orgs-troubled-by-post-acute-cares-role-in-new-bundled-payments"
+    },
+    "author": {},
+    "title": "Organizations Are Troubled by Post-Acute Care’s Role in New Bundled Payments",
+    "description": "CMS should include post-acute care providers as episode initiators in the new Medicare bundled payments model, the BPCI Advanced, industry groups urged.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/3_21.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": [ "bundledpayments", "cms", "acutecare", "medicare", "bpci" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 18968404,
+    "hash": "91f910500c5fc1cb22ac343abe73b5ee",
+    "seq": 152148689646480,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 27,
+    "share_count": 0,
+    "created_at": "2018-03-19T19:14:56Z",
+    "updated_at": null,
+    "published_at": "2018-03-19T19:14:56Z",
+    "children": null,
+    "slug": "organizations-are-troubled-by-post-acute-cares-role-in-new-bundled-payments-18968404",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1hAy0",
+    "short_url": "https://pres.ly/1hAy0",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/organizations-are-troubled-by-post-acute-cares-role-in-new-bundled-payments-18968404",
+    "views": 27
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Healthcare Dive",
+      "uid": "url:2997a796de29dd5792712bfb17841aa2",
+      "url": "https://www.healthcaredive.com/news/more-employers-go-direct-to-providers-sidestepping-payers/518269/"
+    },
+    "author": {},
+    "title": "More employers go direct to providers, sidestepping payers",
+    "description": "A recent survey found that only 6% of employers contract directly with providers now, but 22% are considering it for 2019.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/3_19.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0.015072102052135161, 1, 0.8524597892401553 ],
+        "edited": true
+      }
+    },
+    "tags": [ "payers" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 18967811,
+    "hash": "c7f6275a7c29f9dac3ff82aabb57d1a3",
+    "seq": 152148648780318,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 2,
+    "share_count": 0,
+    "created_at": "2018-03-19T19:08:07Z",
+    "updated_at": null,
+    "published_at": "2018-03-19T19:08:07Z",
+    "children": null,
+    "slug": "more-employers-go-direct-to-providers-sidestepping-payers-18967811",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1hAor",
+    "short_url": "https://pres.ly/1hAor",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/more-employers-go-direct-to-providers-sidestepping-payers-18967811",
+    "views": 2
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:f8e6a343c4000e008146b507a2a6e399",
+      "url": "https://www.nthrive.com/blog/medical-coding-audit-success-strategy"
+    },
+    "author": { "name": "nThrive" },
+    "title": "Medical coding audit success strategy",
+    "description": "Learn how to build a successful Quality Coding Audit program in this nThrive blog and upcoming webinar. Join the session and earn one CEU at no cost.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/3_15.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": [ "coding", "codingaudit" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 18574419,
+    "hash": "fab1d162f4ff83eb25301c5267b3071e",
+    "seq": 152111829102654,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 42,
+    "share_count": 0,
+    "created_at": "2018-03-15T12:51:31Z",
+    "updated_at": null,
+    "published_at": "2018-03-15T12:51:31Z",
+    "children": null,
+    "slug": "medical-coding-audit-success-strategy-18574419",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1fW3p",
+    "short_url": "https://pres.ly/1fW3p",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/medical-coding-audit-success-strategy-18574419",
+    "views": 42
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:8a133c3672384da966bb56485c9aa4f5",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/while-vendors-like-big-data-healthcare-leaders-prioritize-patient-safety-6-survey-insights.html"
+    },
+    "author": { "name": "Julie Spitzer" },
+    "title": "Healthcare leaders prioritize patient safety",
+    "description": "Vendors and consultants are at odds with providers over health IT demand and prioritization. Here are 6 survey insights.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/3_10.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0.01980310593455331, 1, 0.8571907931225735 ],
+        "edited": true
+      }
+    },
+    "tags": [ "healthcare" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17949886,
+    "hash": "6927cf918b16316263aedcb6b8a52d72",
+    "seq": 152053542261356,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": null,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 13,
+    "share_count": 0,
+    "created_at": "2018-03-08T18:57:02Z",
+    "updated_at": null,
+    "published_at": "2018-03-08T18:57:02Z",
+    "children": null,
+    "slug": "healthcare-leaders-prioritize-patient-safety-17949886",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": null,
+    "id_base62": "1djAi",
+    "short_url": "https://pres.ly/1djAi",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/healthcare-leaders-prioritize-patient-safety-17949886",
+    "views": 13
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "EHRIntelligence",
+      "uid": "url:59208615cfc99c7b5f706260fc54dcc6",
+      "url": "https://ehrintelligence.com/news/cms-shares-plans-to-enable-interoperability-value-based-care"
+    },
+    "author": {},
+    "title": "CMS Shares Plans to Enable Interoperability, Value-Based Care",
+    "description": "CMS Administrator Seema Verma detailed plans to enable value-based care through improved interoperability and health data exchange.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/3_8.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 0.9933333333333333, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": [ "cms", "interoperability", "valuebasedcare" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17949845,
+    "hash": "4a3a52ccac8c0dc02d6b69aaa77dc523",
+    "seq": 152053533141996,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 9,
+    "share_count": 0,
+    "created_at": "2018-03-08T18:55:31Z",
+    "updated_at": null,
+    "published_at": "2018-03-08T18:55:31Z",
+    "children": null,
+    "slug": "cms-shares-plans-to-enable-interoperability-value-based-care-17949845",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1djzD",
+    "short_url": "https://pres.ly/1djzD",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/cms-shares-plans-to-enable-interoperability-value-based-care-17949845",
+    "views": 9
+  }
+]

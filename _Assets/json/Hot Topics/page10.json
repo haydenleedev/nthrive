@@ -1,0 +1,2309 @@
+[
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "AHIMA - 89th Annual AHIMA Convention",
+      "uid": "url:1d2b1df154d369d67bed4fb3d43745ec",
+      "url": "https://ahima.confex.com/ahima/89am/meetingapp.cgi/Session/10841"
+    },
+    "author": {},
+    "title": "Learn About MACRA &ndash; How 50 Years of Medicare Reporting Changes on January 1, 2018 at AHIMA",
+    "description": "\nBonnie Cassidy Managing Dir. of Clinical Financial Integration Advisory Services at nThrive and Michael Marron-Stearns, CEO and Founder of Apollo HIT, Apollo HIT to speak on \"MACRA-How 50 years of Medicare Reporting Changes on January 1, 2018\"",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/bb5df645e49dfdb907389a723359cc55.png",
+      "width": 720,
+      "height": 405,
+      "format": "png",
+      "etc": {
+        "box": [ 0.01785714285714285, 0, 0.9821428571428572, 0.9885714285714285 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 10934683,
+    "hash": "544d76cf34b88874d34bb5489a2cfae9",
+    "seq": 150696401012015,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 16,
+    "share_count": 0,
+    "created_at": "2017-10-02T17:06:50Z",
+    "updated_at": null,
+    "published_at": "2017-10-02T17:06:50Z",
+    "children": null,
+    "slug": "learn-about-macra-how-50-years-of-medicare-reporting-changes-on-january-1-2018-a-10934683",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "JSBR",
+    "short_url": "https://pres.ly/JSBR",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/learn-about-macra-how-50-years-of-medicare-reporting-changes-on-january-1-2018-a-10934683",
+    "views": 16
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:4b9085407bf5d5c68ce9fb1fdad6169a",
+      "url": "https://www.medpagetoday.com/practicemanagement/reimbursement/68243"
+    },
+    "author": {},
+    "title": "Are You Ready for MACRA? Start Collecting Your Data Now",
+    "description": "Oct. 2 last day to begin collecting data to avoid a Medicare penalty",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/f2d17fad0de4ef60ef866e0d1b8649e6.jpg",
+      "width": 4288,
+      "height": 2848,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0.12172284644194742, 1, 1 ],
+        "edited": true
+      }
+    },
+    "tags": [ "macra" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 10931918,
+    "hash": "6ca9fdc875e5a3c9f3eb24cac639ec5b",
+    "seq": 150695956923949,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 19,
+    "share_count": 0,
+    "created_at": "2017-10-02T15:52:49Z",
+    "updated_at": "2017-10-03T17:14:04Z",
+    "published_at": "2017-10-02T15:52:49Z",
+    "children": null,
+    "slug": "are-you-ready-for-macra-start-collecting-your-data-now-10931918",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "JRTg",
+    "short_url": "https://pres.ly/JRTg",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/are-you-ready-for-macra-start-collecting-your-data-now-10931918",
+    "views": 19
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:000475bb6c81b24a16bcd4c48a2cd5ed",
+      "url": "https://urldefense.proofpoint.com/v2/url?c=z0YJtLPVFNa3_zu-3_83mA&amp;d=DwMGaQ&amp;e=&amp;m=akTE7dJv8PaAAbV6tBl9Q3AV6kBu3-_y-pQLXt5BMzI&amp;r=c9uYF0Th2QLmWYHZp2AhgURvIUKzgQHzBhNwCHF3ueI&amp;s=5w8394xJn9aG5pI6JbGz1YGtkgNpLrjdvTAlAVvvku8&amp;u=https-3A__www.feedingflorida.org_"
+    },
+    "author": {},
+    "title": "Join nThrive at the 2017 HFMA Florida Annual Fall Conference September 27th!",
+    "description": "Come spin the wheel for hurricane relief at booth #18 where nThrive will be matching your winnings to donate to feeding Florida.\nfeeding florida",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/316be7e437f266d72b3c2f244759c981.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0.010341098169717011, 0.9933333333333333, 0.8477287853577371 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 10568904,
+    "hash": "0a968e8d1aed07fddb0731d3bd4c808b",
+    "seq": 150645289441488,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 26,
+    "share_count": 0,
+    "created_at": "2017-09-26T19:08:14Z",
+    "updated_at": "2017-09-26T19:58:54Z",
+    "published_at": "2017-09-26T19:08:14Z",
+    "children": null,
+    "slug": "join-nthrive-at-the-2017-hfma-florida-annual-fall-conference-september-27th-10568904",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "Ilsc",
+    "short_url": "https://pres.ly/Ilsc",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/join-nthrive-at-the-2017-hfma-florida-annual-fall-conference-september-27th-10568904",
+    "views": 26
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:c2110621fead718897bba233eabc2360",
+      "url": "http://www.beckershospitalreview.com/healthcare-information-technology/ama-creates-regulatory-relief-dashboard-to-break-down-cms-macra-proposals.html"
+    },
+    "author": { "name": "Julie Spitzer" },
+    "title": "AMA creates 'regulatory relief' dashboard to break down CMS' MACRA proposals",
+    "description": "The American Medical Association released an online&nbsp;regulatory relief dashboard&nbsp;to track CMS' deregulation efforts.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/nurse-and-man(2).jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg"
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 10565060,
+    "hash": "abf2e7e6568c18b58b26f34afa53aefc",
+    "seq": 150644564878154,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 23,
+    "share_count": 0,
+    "created_at": "2017-09-26T17:07:28Z",
+    "updated_at": null,
+    "published_at": "2017-09-26T17:07:28Z",
+    "children": null,
+    "slug": "ama-creates-regulatory-relief-dashboard-to-break-down-cms-macra-proposals-10565060",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "Iksc",
+    "short_url": "https://pres.ly/Iksc",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/ama-creates-regulatory-relief-dashboard-to-break-down-cms-macra-proposals-10565060",
+    "views": 23
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:8e2ac1788061fd770cf5188e2d6eae1f",
+      "url": "http://www.beckershospitalreview.com/data-analytics-precision-medicine/3-actions-to-get-a-data-analytics-project-off-the-ground.html"
+    },
+    "author": { "name": "Jessica Kim Cohen" },
+    "title": "Learn 3 ways to get a data analytics project off the ground",
+    "description": "Check out how hospitals can ensure adequate returns on investment when deploying data analytics.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/Denials-Mgmt(1).jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0.00561009428729875, 1, 0.8429977814753189 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 10564935,
+    "hash": "faa9bc22fe30e6ef9b80f3b27fa85c00",
+    "seq": 150644554307127,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 31,
+    "share_count": 0,
+    "created_at": "2017-09-26T17:05:43Z",
+    "updated_at": null,
+    "published_at": "2017-09-26T17:05:43Z",
+    "children": null,
+    "slug": "learn-3-ways-to-get-a-data-analytics-project-off-the-ground-10564935",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "Ikqb",
+    "short_url": "https://pres.ly/Ikqb",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/learn-3-ways-to-get-a-data-analytics-project-off-the-ground-10564935",
+    "views": 31
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "EHRIntelligence",
+      "uid": "url:678bd192902a7bc6ac790896c3f4acaa",
+      "url": "https://ehrintelligence.com/news/ensuring-your-ehr-system-meets-macra-requirements-in-2017"
+    },
+    "author": {},
+    "title": "Ensuring Your EHR System Meets MACRA Requirements in 2017",
+    "description": "Health IT certifications, EHR usability, and EHR optimization are key to meeting MACRA requirements.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/5a492d4205a449f6790e5e9ae409dbec.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 10554955,
+    "hash": "1481ad35310ccd384abf12c8a8858db8",
+    "seq": 150643147886028,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 3,
+    "share_count": 0,
+    "created_at": "2017-09-26T13:11:18Z",
+    "updated_at": null,
+    "published_at": "2017-09-26T13:11:18Z",
+    "children": null,
+    "slug": "ensuring-your-ehr-system-meets-macra-requirements-in-2017-10554955",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "IhPd",
+    "short_url": "https://pres.ly/IhPd",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/ensuring-your-ehr-system-meets-macra-requirements-in-2017-10554955",
+    "views": 3
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "AHIMA - 89th Annual AHIMA Convention",
+      "uid": "url:3c0a21deca1f7aeedc8aa6fdd72df498",
+      "url": "https://ahima.confex.com/ahima/89am/meetingapp.cgi/Session/10799"
+    },
+    "author": {},
+    "title": "Learn how to build a coding workforce from military veterans and the community at AHIMA",
+    "description": "Tom Ormondroyd, President of Education and Analytics at nThrive, to speak on \"Building a Community-Sourced Coding Workforce from Military Veterans and Other Nontraditional Sources\" ",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/01b17bd2f083b1826350da4a05218aa5.png",
+      "width": 720,
+      "height": 405,
+      "format": "png",
+      "etc": {
+        "box": [ 0.004999999999999949, 0, 0.9692857142857143, 0.9885714285714285 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 10554451,
+    "hash": "5d7025c57545cddf8d3603165ce8d6ad",
+    "seq": 150643111779849,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 16,
+    "share_count": 0,
+    "created_at": "2017-09-26T13:05:17Z",
+    "updated_at": "2017-09-26T15:20:16Z",
+    "published_at": "2017-09-26T13:05:17Z",
+    "children": null,
+    "slug": "tom-ormondroyd-to-speak-at-ahima-oct-9th-4-30-5-30-p-m-in-los-angeles-ca-10554451",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "IhH5",
+    "short_url": "https://pres.ly/IhH5",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/tom-ormondroyd-to-speak-at-ahima-oct-9th-4-30-5-30-p-m-in-los-angeles-ca-10554451",
+    "views": 16
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Healthcare Finance News",
+      "uid": "url:ec6bfcddba7d53974dc40e34845bb796",
+      "url": "http://www.healthcarefinancenews.com/news/cms-says-it-will-change-direction-cmmi-wants-providers-have-greater-flexibility-payment-model"
+    },
+    "author": {},
+    "title": "CMS says it will change direction of CMMI",
+    "description": "The Centers for Medicare and Medicaid Services is redesigning its innovation center to give providers greater flexibility in payment models.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/2adba62453958ef60db9ae99ae5af38f.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8202218524681086 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 10552229,
+    "hash": "2ce1d13d9ab9804b1d3418172466702d",
+    "seq": 150643004573612,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 4,
+    "share_count": 0,
+    "created_at": "2017-09-26T12:47:25Z",
+    "updated_at": null,
+    "published_at": "2017-09-26T12:47:25Z",
+    "children": null,
+    "slug": "cms-says-it-will-change-direction-of-cmmi-10552229",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "Ih7f",
+    "short_url": "https://pres.ly/Ih7f",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/cms-says-it-will-change-direction-of-cmmi-10552229",
+    "views": 4
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Healthcare IT News",
+      "uid": "url:acf331fcd181c9d50c0bd1f91db6745e",
+      "url": "http://www.healthcareitnews.com/news/heres-where-hospitals-are-investing-innovation-today"
+    },
+    "author": {},
+    "title": "Hospitals Are Investing in Innovation",
+    "description": "AHA says nearly three-quarters of large healthcare organizations have either built an innovation center or have plans to do so soon. ",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/4ce5b80a2017a9a297169aa30c30f7e3.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8202218524681083 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 10493989,
+    "hash": "3487e08aeea74cb50869b369b3981d54",
+    "seq": 150636578983851,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 12,
+    "share_count": 0,
+    "created_at": "2017-09-25T18:56:29Z",
+    "updated_at": null,
+    "published_at": "2017-09-25T18:56:29Z",
+    "children": null,
+    "slug": "hospitals-are-investing-in-innovation-10493989",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "I1XT",
+    "short_url": "https://pres.ly/I1XT",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/hospitals-are-investing-in-innovation-10493989",
+    "views": 12
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "FedHealthIT",
+      "uid": "url:58cda91d3b1e9b0a01b7420673a844e7",
+      "url": "http://www.fedhealthit.com/2017/09/macra-final-rule-healthcare-focuses-on-quality-healthier-patients-and-lower-costs/"
+    },
+    "author": {},
+    "title": "MACRA Final Rule: Healthcare focuses on quality, healthier patients, and lower costs",
+    "description": "Though developed with good intentions, MACRA adds new costs and complexities to healthcare providers.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/88e70eee84286ef8c364b4d899823157.jpg",
+      "width": 4032,
+      "height": 2688,
+      "format": "jpg",
+      "etc": {
+        "box": null,
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 10493028,
+    "hash": "6fe107a2e7e45955ed14a1ca0d4e03f7",
+    "seq": 150636418886144,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 15,
+    "share_count": 0,
+    "created_at": "2017-09-25T18:29:48Z",
+    "updated_at": null,
+    "published_at": "2017-09-25T18:29:48Z",
+    "children": null,
+    "slug": "macra-final-rule-healthcare-focuses-on-quality-healthier-patients-and-lower-cost-10493028",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "I1Io",
+    "short_url": "https://pres.ly/I1Io",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/macra-final-rule-healthcare-focuses-on-quality-healthier-patients-and-lower-cost-10493028",
+    "views": 15
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Healthcare IT News",
+      "uid": "url:191dd3418a84422828390f6e34230785",
+      "url": "http://www.healthcareitnews.com/news/87-healthcare-execs-rank-telehealth-priority-study-finds"
+    },
+    "author": {},
+    "title": "A study was conducted and found that 87% of healthcare execs rank telehealth as a priority",
+    "description": "More than half are already seeing success with improving outcomes and patient satisfaction while uncertain fate of the ACA appears to be making telemedicine more important. Click here to learn more!",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/d37963543b1a7e39a2e61cea806fdea4.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.7995396561286746 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 10488999,
+    "hash": "bcca79ad0acef7120ba90e829d7580e4",
+    "seq": 150636032613769,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 18,
+    "share_count": 0,
+    "created_at": "2017-09-25T17:25:26Z",
+    "updated_at": null,
+    "published_at": "2017-09-25T17:25:26Z",
+    "children": null,
+    "slug": "a-study-was-conducted-and-found-that-87-of-healthcare-execs-rank-telehealth-as-a-10488999",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "I0Fp",
+    "short_url": "https://pres.ly/I0Fp",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/a-study-was-conducted-and-found-that-87-of-healthcare-execs-rank-telehealth-as-a-10488999",
+    "views": 18
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:2f66e2f8084b56382db93cf4ee30eba1",
+      "url": "http://www.fiercehealthcare.com/hospitals/hospital-impact-how-to-pick-right-provider-partner-for-a-value-based-care-arrangement"
+    },
+    "author": {},
+    "title": "How to pick the right provider partner for a value-based care arrangement",
+    "description": "As the healthcare industry continues to move toward value-based delivery and payment models, payers must rethink the way they engage with provider partners.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/hand-shake.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg"
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 10488394,
+    "hash": "947dc9dd5da13b06ce9009a8cccd07e7",
+    "seq": 150635975401382,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 12,
+    "share_count": 0,
+    "created_at": "2017-09-25T17:15:54Z",
+    "updated_at": null,
+    "published_at": "2017-09-25T17:15:54Z",
+    "children": null,
+    "slug": "how-to-pick-the-right-provider-partner-for-a-value-based-care-arrangement-10488394",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "I0vE",
+    "short_url": "https://pres.ly/I0vE",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/how-to-pick-the-right-provider-partner-for-a-value-based-care-arrangement-10488394",
+    "views": 12
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "cvent.com",
+      "uid": "url:57ac6fc3a88bd5152ebdb36c4e526f13",
+      "url": "https://www.cvent.com/surveys/Welcome.aspx?s=4a48add0-4c07-4005-8044-fe46bc56a259"
+    },
+    "author": {},
+    "title": "Book a Demo at AHIMA!",
+    "description": "Schedule a private appointment or demo today! Click here to learn more!",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/7ca6f5c03311e1fa23432eb1df154752.png",
+      "width": 720,
+      "height": 405,
+      "format": "png",
+      "etc": {
+        "box": null,
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 10483542,
+    "hash": "2343ba4b56a3611c232233a4f8fa2886",
+    "seq": 150635411381826,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 13,
+    "share_count": 0,
+    "created_at": "2017-09-25T15:41:53Z",
+    "updated_at": null,
+    "published_at": "2017-09-25T15:41:53Z",
+    "children": null,
+    "slug": "book-a-demo-at-ahima-10483542",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "HZfo",
+    "short_url": "https://pres.ly/HZfo",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/book-a-demo-at-ahima-10483542",
+    "views": 13
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:ae87bd23dff7285c697d36878eb13fe2",
+      "url": "https://www.nthrive.com/events/industry-speaking-events/beckers-annual-health-it-and-rev-cycle-conference"
+    },
+    "author": { "name": "nThrive" },
+    "title": "Join nThrive at the Becker's Annual Health IT Conference",
+    "description": "On September 22, Brian Clubb, vice president of Product Management at nThrive is participating in a panel discussion. Don't miss out!",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/mom-dad-and-boy.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg"
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 10287868,
+    "hash": "f7aca8e44c4cbf2e897dbbe7793e8b66",
+    "seq": 150608215572641,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 27,
+    "share_count": 0,
+    "created_at": "2017-09-22T12:09:15Z",
+    "updated_at": null,
+    "published_at": "2017-09-22T12:09:15Z",
+    "children": null,
+    "slug": "join-nthrive-at-the-beckers-annual-health-it-conference-10287868",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "Halm",
+    "short_url": "https://pres.ly/Halm",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/join-nthrive-at-the-beckers-annual-health-it-conference-10287868",
+    "views": 27
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Health Data Management",
+      "uid": "url:40ed0f613eeaa86fcce51401eae91bd1",
+      "url": "https://www.healthdatamanagement.com/opinion/3-ways-cognitive-computing-could-aid-value-based-care"
+    },
+    "author": {},
+    "title": "Learn 3 ways cognitive computing could aid value-based care",
+    "description": "The ability of augmented intelligence to manage diverse sources of data to provide insights can help care managers focus their efforts.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/534d23f523eb3bd26b2d3dbc5e160768.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 10125712,
+    "hash": "ad1e47a16b844033e98d1da92f547cd0",
+    "seq": 150592772898875,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 22,
+    "share_count": 0,
+    "created_at": "2017-09-20T17:15:28Z",
+    "updated_at": null,
+    "published_at": "2017-09-20T17:15:28Z",
+    "children": null,
+    "slug": "learn-3-ways-cognitive-computing-could-aid-value-based-care-10125712",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "Gu9W",
+    "short_url": "https://pres.ly/Gu9W",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/learn-3-ways-cognitive-computing-could-aid-value-based-care-10125712",
+    "views": 22
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Medical Economics",
+      "uid": "url:aa7ffea4799475bd61c38a5e91653ee5",
+      "url": "http://medicaleconomics.modernmedicine.com/node/440894"
+    },
+    "author": {},
+    "title": "Here are 6 ways to prepare staff for value-based reimbursement",
+    "description": "Whether physicians like it or not, value-based reimbursement is here and everyone wants to play to win. Here's how to get medical staff &ndash; including physicians &ndash; on board with the rules.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/staff(3).jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8090016638935109 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 10125499,
+    "hash": "1f5aa546e7dcd7791b0bbb8547b55ece",
+    "seq": 150592745658625,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 24,
+    "share_count": 0,
+    "created_at": "2017-09-20T17:10:56Z",
+    "updated_at": null,
+    "published_at": "2017-09-20T17:10:56Z",
+    "children": null,
+    "slug": "here-are-6-ways-to-prepare-staff-for-value-based-reimbursement-10125499",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "Gu6v",
+    "short_url": "https://pres.ly/Gu6v",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/here-are-6-ways-to-prepare-staff-for-value-based-reimbursement-10125499",
+    "views": 24
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:cf8232ecdc2d03e6cceb1395a1ec009b",
+      "url": "http://www.hhnmag.com/articles/8528-total-cost-of-care-key-considerations-for-hospitals-and-health-systems"
+    },
+    "author": {},
+    "title": "Key Steps for Hospitals and Health Systems to Consider",
+    "description": "New risk-based payment arrangements and performance measurement programs make managing the &quot;total cost of care&quot; essential.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/9966bd23127b0d580ea2e70abbb09e9d.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 0.9933333333333333, 0.8202218524681086 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 10125132,
+    "hash": "c4f1250b9a8553fe357814107c9e55a7",
+    "seq": 150592721083234,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 10,
+    "share_count": 0,
+    "created_at": "2017-09-20T17:06:50Z",
+    "updated_at": null,
+    "published_at": "2017-09-20T17:06:50Z",
+    "children": null,
+    "slug": "key-steps-for-hospitals-and-health-systems-to-consider-10125132",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "Gu0A",
+    "short_url": "https://pres.ly/Gu0A",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/key-steps-for-hospitals-and-health-systems-to-consider-10125132",
+    "views": 10
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Healthcare Finance News",
+      "uid": "url:589a1425475742044393bc4a88e34d20",
+      "url": "http://www.healthcarefinancenews.com/news/providers-and-payers-both-win-when-they-share-population-health-data"
+    },
+    "author": {},
+    "title": "Providers and payers find common ground sharing population health data",
+    "description": "Provider and insurers may not always see eye to eye, but when it comes to analytics, especially around risk-based contracts, both can find common ground in shared population health data.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/ac75f7413f051d497bbc665963540b44.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 10125002,
+    "hash": "2c1782c3a218bc2efa6e1ccf5b0dafa4",
+    "seq": 150592686163661,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 22,
+    "share_count": 0,
+    "created_at": "2017-09-20T17:01:01Z",
+    "updated_at": "2017-09-20T17:03:12Z",
+    "published_at": "2017-09-20T17:01:01Z",
+    "children": null,
+    "slug": "providers-and-payers-find-common-ground-sharing-population-health-data-10125002",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "GtYu",
+    "short_url": "https://pres.ly/GtYu",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/providers-and-payers-find-common-ground-sharing-population-health-data-10125002",
+    "views": 22
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Health Data Management",
+      "uid": "url:8993c3e3c5a1f772f417e18a6f39984f",
+      "url": "https://www.healthdatamanagement.com/opinion/how-analytics-can-help-hit-5-key-targets-in-value-based-care"
+    },
+    "author": {},
+    "title": "Learn how 5 key targets can help in value-based care",
+    "description": "Healthcare organizations need deeper understanding of their operations, and how to improve them, to manage the shift in reimbursement. Click here to learn more!",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/e72ceca0d522f8157e762f8a8d0b8985.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 0.9933333333333333, 0.8202218524681084 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 10124125,
+    "hash": "e1994a6ca0aa6b0abebf8236a70589ad",
+    "seq": 150592615209181,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 11,
+    "share_count": 0,
+    "created_at": "2017-09-20T16:49:12Z",
+    "updated_at": null,
+    "published_at": "2017-09-20T16:49:12Z",
+    "children": null,
+    "slug": "learn-how-5-key-targets-can-help-in-value-based-care-10124125",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "GtKl",
+    "short_url": "https://pres.ly/GtKl",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/learn-how-5-key-targets-can-help-in-value-based-care-10124125",
+    "views": 11
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "HITInfrastructure",
+      "uid": "url:a9e4b96aa2596b783f360cedf08e4c25",
+      "url": "https://hitinfrastructure.com/news/overcoming-ehr-implementation-issues-for-better-hit-infrastructure"
+    },
+    "author": {},
+    "title": "Overcoming EHR Implementation Issues for Better HIT Infrastructure",
+    "description": "Healthcare organizations are optimistic about analytics for population health despite EHR implementation and interoperability issues. Click here to learn more!",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/6579104d04d4395c79bf1ccdda7613f6.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0.03872712146422608, 1, 0.8761148086522462 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 10123828,
+    "hash": "0111d4390cc1ff416e1fddb0355e5047",
+    "seq": 150592581165756,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 5,
+    "share_count": 0,
+    "created_at": "2017-09-20T16:43:31Z",
+    "updated_at": null,
+    "published_at": "2017-09-20T16:43:31Z",
+    "children": null,
+    "slug": "overcoming-ehr-implementation-issues-for-better-hit-infrastructure-10123828",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "GtFy",
+    "short_url": "https://pres.ly/GtFy",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/overcoming-ehr-implementation-issues-for-better-hit-infrastructure-10123828",
+    "views": 5
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:8b95b6911a802d0729df249acf519a8b",
+      "url": "http://www.beckershospitalreview.com/finance/these-physicians-don-t-qualify-for-any-medicare-apms.html"
+    },
+    "author": { "name": "Emily Rappleye" },
+    "title": "Not all physicians qualify for Medicare APMs",
+    "description": "Although CMS has shown significant support to move Medicare payments to value-based care models, not all providers have access to an alternative payment model. Learn more here!",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/040dc9266e811dfae561f808d0b5e865.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0.03784803105934553, 1, 0.8752357182473657 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 10123823,
+    "hash": "82f320f9cb63e8ab9c7724d8cc3b3d26",
+    "seq": 150592561233030,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 14,
+    "share_count": 0,
+    "created_at": "2017-09-20T16:40:12Z",
+    "updated_at": null,
+    "published_at": "2017-09-20T16:40:12Z",
+    "children": null,
+    "slug": "not-all-physicians-qualify-for-medicare-apms-10123823",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "GtFt",
+    "short_url": "https://pres.ly/GtFt",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/not-all-physicians-qualify-for-medicare-apms-10123823",
+    "views": 14
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:a5f2fc4f93960288429fc4adb5bf4477",
+      "url": "http://www.modernhealthcare.com/article/20170916/NEWS/170919935/population-health-providers-still-struggling-to-build-community"
+    },
+    "author": {},
+    "title": "Providers still struggling to build community connections",
+    "description": "As healthcare providers increase their population health management efforts, learning how to identify and sustain meaningful relationships with their community is still a struggle. ",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/1d039c24782c07d6204eb97d5eaadb2f.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 10123205,
+    "hash": "a733d042669b22701ca465dda6c8b81b",
+    "seq": 150592495953204,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 43,
+    "share_count": 0,
+    "created_at": "2017-09-20T16:29:19Z",
+    "updated_at": null,
+    "published_at": "2017-09-20T16:29:19Z",
+    "children": null,
+    "slug": "providers-still-struggling-to-build-community-connections-10123205",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "Gtvv",
+    "short_url": "https://pres.ly/Gtvv",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/providers-still-struggling-to-build-community-connections-10123205",
+    "views": 43
+  },
+  {
+    "type": "post",
+    "content_hints": [ "text", "link", "widget" ],
+    "source": {
+      "uid": "url:e067833d6091b0c6d125b15ddc2be4b1",
+      "url": "https://www.ahcmedia.com/articles/141260-quickly-update-patient-access-about-changes"
+    },
+    "author": {},
+    "title": "Patient Access Update on Changes",
+    "description": "Aimee Newson, Sir. Director, Patient Access at nThrive, provides insight on how patient access frequently needs to update all employees across the entire department quickly. Click here to learn about some strategies for time-sensitive training. ",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/mom-and-girl(1).jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg"
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 10027910,
+    "hash": "89825aff7ffeae9ff063bddb2581de59",
+    "seq": 150585009891067,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 46,
+    "share_count": 0,
+    "created_at": "2017-09-19T19:41:38Z",
+    "updated_at": "2017-12-05T14:41:30Z",
+    "published_at": "2017-09-19T19:41:38Z",
+    "children": null,
+    "slug": "patient-access-update-on-changes-10027910",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "G4Iu",
+    "short_url": "https://pres.ly/G4Iu",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/patient-access-update-on-changes-10027910",
+    "views": 46
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:f4a8293ff75d35bb9fc7fe1b60511727",
+      "url": "http://www.beckershospitalreview.com/finance/rcm-tip-of-the-day-invest-in-technology-to-manage-denials.html"
+    },
+    "author": { "name": "Kelly Gooch" },
+    "title": "RCM tip of the day: Invest in technology to manage denials",
+    "description": "Andrew Woughter, senior vice president of product strategy at nThrive advises healthcare organizations to invest in technology to manage denials. Learn more here!",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/b9b60e96426ac6fbf4236814889dfc63.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8580698835274542 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 10022343,
+    "hash": "9cdc4d50a957292be4f97792f38278e9",
+    "seq": 150584080422901,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 27,
+    "share_count": 0,
+    "created_at": "2017-09-19T17:06:44Z",
+    "updated_at": "2017-09-19T17:06:55Z",
+    "published_at": "2017-09-19T17:06:44Z",
+    "children": null,
+    "slug": "rcm-tip-of-the-day-invest-in-technology-to-manage-denials-10022343",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "G3gH",
+    "short_url": "https://pres.ly/G3gH",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/rcm-tip-of-the-day-invest-in-technology-to-manage-denials-10022343",
+    "views": 27
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:b7fa21f4399e2c6856ad3dd0405aca1b",
+      "url": "https://www.nthrive.com/blog/nthrive-webinar-why-data-integrity-matters-for-macra-success"
+    },
+    "author": { "name": "nThrive" },
+    "title": "Why Clinical Data Integrity Matters for MACRA Success",
+    "description": "Don't miss this compelling webinar on the importance of health information governance and clinical documentation integrity for MACRA success.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/bc6d1ae0c9e2e767875dd599ed4d1d9a.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8090016638935109 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 9932871,
+    "hash": "cb9a0718df96ac4bb4154e71eab26616",
+    "seq": 150575446025589,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 37,
+    "share_count": 0,
+    "created_at": "2017-09-18T17:07:40Z",
+    "updated_at": "2018-03-15T16:54:40Z",
+    "published_at": "2017-09-18T17:07:40Z",
+    "children": null,
+    "slug": "why-macra-data-integrity-matters-for-success-9932871",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "FFZB",
+    "short_url": "https://pres.ly/FFZB",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/why-macra-data-integrity-matters-for-success-9932871",
+    "views": 37
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:e1107b59c5a3dfbab062bd0aefb06fb1",
+      "url": "https://www.nthrive.com/blog/how-financial-services-impact-patient-experience"
+    },
+    "author": { "name": "nThrive" },
+    "title": "Patient Financial Experience and Patient Access Q&amp;A",
+    "description": "nThrive experts explain how patient access and financial services are impacting patient experience, especially with rising insurance deductibles.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/b9cb4172f15daae21d5ede274303a76f.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0.010341098169716845, 1, 0.847728785357737 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 9932461,
+    "hash": "1c0cccf5d06b3d8e1435e998d7b98157",
+    "seq": 150575411100508,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 84,
+    "share_count": 0,
+    "created_at": "2017-09-18T17:01:51Z",
+    "updated_at": "2018-03-15T16:52:07Z",
+    "published_at": "2017-09-18T17:01:51Z",
+    "children": null,
+    "slug": "learn-how-patient-financial-services-impact-patient-experience-9932461",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "FFSZ",
+    "short_url": "https://pres.ly/FFSZ",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/learn-how-patient-financial-services-impact-patient-experience-9932461",
+    "views": 84
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "cvent.com",
+      "uid": "url:b72582188658e8905610c0819b0d6d80",
+      "url": "https://www.cvent.com/surveys/Welcome.aspx?s=9db8dca9-102e-49f6-92f2-acf2bae83100"
+    },
+    "author": {},
+    "title": "Join nThrive For an Exclusive Reception at Lucky Strike!",
+    "description": "RSVP here to secure your spot! We look forward to see you at AHIMA!",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/db77b4c301843659aed597bac7f200bb.png",
+      "width": 720,
+      "height": 405,
+      "format": "png",
+      "etc": {
+        "box": [ 0.01785714285714285, 0, 0.9821428571428572, 0.9885714285714285 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 9929440,
+    "hash": "4a7fb277b9ebcbae79f25e4ba861f8ea",
+    "seq": 150574956765152,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 72,
+    "share_count": 1,
+    "created_at": "2017-09-18T15:46:07Z",
+    "updated_at": "2017-09-18T17:05:45Z",
+    "published_at": "2017-09-18T15:46:07Z",
+    "children": null,
+    "slug": "join-nthrive-for-an-exclusive-reception-at-lucky-strike-9929440",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "FF6g",
+    "short_url": "https://pres.ly/FF6g",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/join-nthrive-for-an-exclusive-reception-at-lucky-strike-9929440",
+    "views": 72
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Medical Economics",
+      "uid": "url:aa7ffea4799475bd61c38a5e91653ee5",
+      "url": "http://medicaleconomics.modernmedicine.com/node/440894"
+    },
+    "author": {},
+    "title": "6 ways to prepare staff for value-based reimbursement",
+    "description": "Whether physicians like it or not, value-based reimbursement is here and everyone wants to play to win. Here's how to get medical staff &ndash; including physicians &ndash; on board with the rules and metrics of t...",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/iStock-529114228-(1).jpg",
+      "width": 724,
+      "height": 483,
+      "format": "jpg"
+    },
+    "tags": [ "valuebasedreimbursement" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 9746205,
+    "hash": "2d668e942e7d666865914a536c4158e3",
+    "seq": 150548592317796,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 16,
+    "share_count": 0,
+    "created_at": "2017-09-15T14:32:03Z",
+    "updated_at": "2017-09-18T13:38:24Z",
+    "published_at": "2017-09-15T14:32:03Z",
+    "children": null,
+    "slug": "6-ways-to-prepare-staff-for-value-based-reimbursement-9746205",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "ETqR",
+    "short_url": "https://pres.ly/ETqR",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/6-ways-to-prepare-staff-for-value-based-reimbursement-9746205",
+    "views": 16
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Modern Healthcare",
+      "uid": "url:550d0cac31fb28daa7ab47ddac275a8c",
+      "url": "http://www.modernhealthcare.com/article/20170913/NEWS/170919954/cms-seeking-answers-on-spreading-the-word-about-macra"
+    },
+    "author": {},
+    "title": "CMS seeking answers on spreading the word about MACRA",
+    "description": "The CMS said more work needs to be done to get the word out among providers about MACRA since there are still awareness gaps around the requirements of the law nine months into its rollout.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/b8073f017aa21cd296be89939a2c1f14.jpg",
+      "width": 848,
+      "height": 566,
+      "format": "jpg",
+      "etc": {
+        "box": null,
+        "edited": true
+      }
+    },
+    "tags": [ "macra", "cms" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 9745838,
+    "hash": "60d368fdaf4a9c3a64d730796c58a110",
+    "seq": 150548564890783,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 21,
+    "share_count": 0,
+    "created_at": "2017-09-15T14:27:28Z",
+    "updated_at": "2017-09-18T13:38:04Z",
+    "published_at": "2017-09-15T14:27:28Z",
+    "children": null,
+    "slug": "cms-seeking-answers-on-spreading-the-word-about-macra-9745838",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "ETkW",
+    "short_url": "https://pres.ly/ETkW",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/cms-seeking-answers-on-spreading-the-word-about-macra-9745838",
+    "views": 21
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Healthcare IT News",
+      "uid": "url:fd58a403ec4a87511fae4a33e43a1d38",
+      "url": "http://www.healthcareitnews.com/news/macra-tools-can-do-heavy-lifting-preparation-still-required-experts-say"
+    },
+    "author": {},
+    "title": "Studies Show Clinicians Are Not Ready For MACRA",
+    "description": "Clinicians are not sufficiently familiar with the ins and outs of the law and how it will impact them. Click here to learn more. ",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/4730bfdcef1bdfd7e1d4e9d71911a9c9.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0.037848031059345644, 1, 0.8657737104825294 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 9379860,
+    "hash": "bdaaf3d75f38a863edf97238f0be17c0",
+    "seq": 150514629060711,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 25,
+    "share_count": 0,
+    "created_at": "2017-09-11T16:11:30Z",
+    "updated_at": null,
+    "published_at": "2017-09-11T16:11:30Z",
+    "children": null,
+    "slug": "studies-show-clinicians-are-not-ready-for-macra-9379860",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "Dm84",
+    "short_url": "https://pres.ly/Dm84",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/studies-show-clinicians-are-not-ready-for-macra-9379860",
+    "views": 25
+  }
+]

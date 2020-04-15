@@ -1,0 +1,2323 @@
+[
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:74d2e510042ba75fe2b21dbb076c17a4",
+      "url": "https://www.fiercehealthcare.com/finance/study-maryland-s-value-based-care-program-controlled-costs-but-didn-t-necessary-improve"
+    },
+    "author": {},
+    "title": "Maryland’s value-based care program controlled costs but didn’t necessarily improve care",
+    "description": "A new study finds mixed results for an innovative program in Maryland to cut healthcare spending while improving outcomes.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/physician(1).jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8090016638935109 ],
+        "edited": true
+      }
+    },
+    "tags": [ "valuebasedcare" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 16674164,
+    "hash": "9411b7c2a0881bcb6da37c82cd71c641",
+    "seq": 151664869350928,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 2,
+    "share_count": 0,
+    "created_at": "2018-01-22T19:18:13Z",
+    "updated_at": null,
+    "published_at": "2018-01-22T19:18:13Z",
+    "children": null,
+    "slug": "marylands-value-based-care-program-controlled-costs-but-didnt-necessarily-improv-16674164",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "17XI8",
+    "short_url": "https://pres.ly/17XI8",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/marylands-value-based-care-program-controlled-costs-but-didnt-necessarily-improv-16674164",
+    "views": 2
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Verdict Medical Devices",
+      "uid": "url:30ed836b045cf318ebe1258d711c2b4f",
+      "url": "http://www.medicaldevice-network.com/comment/effect-value-based-care-medical-devices-industry/"
+    },
+    "author": {
+      "name": "GlobalData Healthcare",
+      "profile_url": "http://www.medicaldevice-network.com/author/globaldata/"
+    },
+    "title": "The effect of value-based care on the medical devices industry",
+    "description": "On January 9, the Centers for Medicare and Medicaid Services (CMS) announced a new payment model. Learn more here.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/kid-playing-with-doctor.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8296838602329448 ],
+        "edited": true
+      }
+    },
+    "tags": [ "medicaldevices", "medicare", "medicaid", "bundledpayments" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 16674156,
+    "hash": "29845d32f2e6f1113b7f90437aea68b4",
+    "seq": 151664854289839,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 4,
+    "share_count": 0,
+    "created_at": "2018-01-22T19:15:42Z",
+    "updated_at": null,
+    "published_at": "2018-01-22T19:15:42Z",
+    "children": null,
+    "slug": "the-effect-of-value-based-care-on-the-medical-devices-industry-16674156",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "17XI0",
+    "short_url": "https://pres.ly/17XI0",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/the-effect-of-value-based-care-on-the-medical-devices-industry-16674156",
+    "views": 4
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Health Data Management",
+      "uid": "url:202009c54a646dbd7d10c70503770184",
+      "url": "https://www.healthdatamanagement.com/list/a-risk-assessment-is-the-first-step-to-take?feed=00000152-1277-da4c-af7b-56775a740000#slide-1"
+    },
+    "author": {},
+    "title": "6 steps to ensure CMS-compliant text messaging",
+    "description": "The agency clarifies when texting is prohibited and when it is permitted among healthcare professionals.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/doctor-sitting.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0.03872712146422608, 0.9933333333333333, 0.8571907931225734 ],
+        "edited": true
+      }
+    },
+    "tags": [ "cms", "healthcare", "communication" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 16674144,
+    "hash": "0a51bd044f004c3e945a5b86a37ff943",
+    "seq": 151664843452045,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 9,
+    "share_count": 0,
+    "created_at": "2018-01-22T19:13:54Z",
+    "updated_at": null,
+    "published_at": "2018-01-22T19:13:54Z",
+    "children": null,
+    "slug": "6-steps-to-ensure-cms-compliant-text-messaging-16674144",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "17XHO",
+    "short_url": "https://pres.ly/17XHO",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/6-steps-to-ensure-cms-compliant-text-messaging-16674144",
+    "views": 9
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Health Data Management",
+      "uid": "url:9f7717eecda1712cdfdb7cc5dfb1b224",
+      "url": "https://www.healthdatamanagement.com/news/accessibility-to-pertinent-data-at-an-affordable-cost-remains-challenging"
+    },
+    "author": {},
+    "title": "Scientists say artificial intelligence will deliver results in healthcare",
+    "description": "Quality and accessibility of data are among top challenges. Learn more in this next article.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/building.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8391458679977812 ],
+        "edited": true
+      }
+    },
+    "tags": [ "healthcare", "qualitycare" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 16674125,
+    "hash": "1d246227b1290b2feef2702b4faa3bf9",
+    "seq": 151664834543213,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 19,
+    "share_count": 0,
+    "created_at": "2018-01-22T19:12:25Z",
+    "updated_at": null,
+    "published_at": "2018-01-22T19:12:25Z",
+    "children": null,
+    "slug": "scientists-say-artificial-intelligence-will-deliver-results-in-healthcare-16674125",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "17XHv",
+    "short_url": "https://pres.ly/17XHv",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/scientists-say-artificial-intelligence-will-deliver-results-in-healthcare-16674125",
+    "views": 19
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Health Data Management",
+      "uid": "url:36e09f4310bd33ae3875b43718bf2b92",
+      "url": "https://www.healthdatamanagement.com/opinion/how-record-access-suit-may-spur-broader-changes"
+    },
+    "author": {},
+    "title": "Learn how record access suit may spur broader changes",
+    "description": "CIOX Health's legal action against HHS seeks clarity on how much providers can charge for copies of patient records.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/Intuitive-Health-Tech-strategy.jpg",
+      "width": 640,
+      "height": 427,
+      "format": "jpg",
+      "etc": {
+        "box": null,
+        "edited": true
+      }
+    },
+    "tags": [ "patientaccess", "healthinformation", "consumer", "hospital" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 16674109,
+    "hash": "a85950def85032a82e3cdcf2b586e1b1",
+    "seq": 151664822923353,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 20,
+    "share_count": 0,
+    "created_at": "2018-01-22T19:10:29Z",
+    "updated_at": "2018-01-22T19:10:49Z",
+    "published_at": "2018-01-22T19:10:29Z",
+    "children": null,
+    "slug": "how-record-access-suit-may-spur-broader-changes-16674109",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "17XHf",
+    "short_url": "https://pres.ly/17XHf",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/how-record-access-suit-may-spur-broader-changes-16674109",
+    "views": 20
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "UConn Today",
+      "uid": "url:b65191532daac687c3f6517fb6ff48f6",
+      "url": "https://today.uconn.edu/2018/01/removing-immunotherapy-blindfold-using-individual-immune-response-guide-cancer-treatment/"
+    },
+    "author": {
+      "name": "Combined Reports",
+      "profile_url": "https://today.uconn.edu/author/combinedreports/"
+    },
+    "title": "Removing the Immunotherapy Blindfold",
+    "description": "UConn Health researchers are developing a technology that can identify which patients will respond to immunotherapy, with the goal of extending the benefits of the treatment to a wider group of patients.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/drip-bag.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": [ "immunotheraphy" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 16474383,
+    "hash": "fc965944eeaf2fb9ea3c1678f20c4b4f",
+    "seq": 151604905782415,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": null,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 5,
+    "share_count": 0,
+    "created_at": "2018-01-15T20:44:17Z",
+    "updated_at": null,
+    "published_at": "2018-01-15T20:44:17Z",
+    "children": null,
+    "slug": "removing-the-immunotherapy-blindfold-16474383",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": null,
+    "id_base62": "177JR",
+    "short_url": "https://pres.ly/177JR",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/removing-the-immunotherapy-blindfold-16474383",
+    "views": 5
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:7761f508a3ac77d78665d721c2cf62eb",
+      "url": "http://www.healthleadersmedia.com/finance/new-voluntary-bundled-payments-program-eligible-macra-bonus-pay"
+    },
+    "author": {},
+    "title": "CMS’s New Voluntary Bundled Payments Qualify As An Advanced APM",
+    "description": "Because the BCPI Advanced program qualifies as an advanced APM, participants could have access to MACRA’s potential risks and added rewards. ",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/Collections-Blog-2.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg"
+    },
+    "tags": [ "cms", "bundledpayments", "apm", "macra" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 16474377,
+    "hash": "057810db4171b4f6545d67c939d753e9",
+    "seq": 151604899727274,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 7,
+    "share_count": 0,
+    "created_at": "2018-01-15T20:43:17Z",
+    "updated_at": null,
+    "published_at": "2018-01-15T20:43:17Z",
+    "children": null,
+    "slug": "cmss-new-voluntary-bundled-payments-qualify-as-an-advanced-apm-16474377",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "177JL",
+    "short_url": "https://pres.ly/177JL",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/cmss-new-voluntary-bundled-payments-qualify-as-an-advanced-apm-16474377",
+    "views": 7
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "RevCycleIntelligence",
+      "uid": "url:5d55daac9915a67ad2262c100aa76718",
+      "url": "https://revcycleintelligence.com/news/aha-global-budget-payments-help-to-treat-vulnerable-communities"
+    },
+    "author": {},
+    "title": "Global Budget Payments Help to Treat Vulnerable Communities",
+    "description": "The AHA called on CMS and Congress to consider global budget payment models to offer flexibility to providers treating patients in vulnerable communities.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/doctor-shaking-hand.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0.06623405435385477, 0.9933333333333333, 0.8752357182473657 ],
+        "edited": true
+      }
+    },
+    "tags": [ "cms", "paymentmodels", "aha" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 16474371,
+    "hash": "fe6416fbb1f44236cf18201473c5f943",
+    "seq": 151604893319432,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 8,
+    "share_count": 0,
+    "created_at": "2018-01-15T20:42:13Z",
+    "updated_at": null,
+    "published_at": "2018-01-15T20:42:13Z",
+    "children": null,
+    "slug": "global-budget-payments-help-to-treat-vulnerable-communities-16474371",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "177JF",
+    "short_url": "https://pres.ly/177JF",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/global-budget-payments-help-to-treat-vulnerable-communities-16474371",
+    "views": 8
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Health Data Management",
+      "uid": "url:3397ac2fc9417905bfc04ec97a89c28c",
+      "url": "https://www.healthdatamanagement.com/news/cms-launches-new-voluntary-bundled-payment-model"
+    },
+    "author": {},
+    "title": "CMS launches new voluntary bundled payment model",
+    "description": "BPCI Advanced is aimed at aligning payment and care incentives, putting new pressure on providers to implement IT that supports value-based care.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/Denials-Mgmt.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0.019803105934553256, 1, 0.8571907931225734 ],
+        "edited": true
+      }
+    },
+    "tags": [ "cms", "bundledpayments", "valuebasedcare" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 16474366,
+    "hash": "a96edab8beff9a1b430a1969c9960dc9",
+    "seq": 151604885442569,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 34,
+    "share_count": 0,
+    "created_at": "2018-01-15T20:40:54Z",
+    "updated_at": null,
+    "published_at": "2018-01-15T20:40:54Z",
+    "children": null,
+    "slug": "cms-launches-new-voluntary-bundled-payment-model-16474366",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "177JA",
+    "short_url": "https://pres.ly/177JA",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/cms-launches-new-voluntary-bundled-payment-model-16474366",
+    "views": 34
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Managed Healthcare Executive",
+      "uid": "url:4a091657c7c3075bf4856cc9dac22e66",
+      "url": "http://managedhealthcareexecutive.modernmedicine.com/managed-healthcare-executive/news/lessons-learned-program-improve-healthcare-information-exchange"
+    },
+    "author": {},
+    "title": "Lessons learned from program to improve healthcare information exchange",
+    "description": "One major piece of interoperability in healthcare is the expanded use of interstate, cross-state, and regional admission, discharge, and transfer (ADT) notifications across provider networks. ",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/writing.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg"
+    },
+    "tags": [ "healthcare", "interoperability" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 16474350,
+    "hash": "ad27e679d4a9419a3deacc51e0109e7d",
+    "seq": 151604878397251,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 16,
+    "share_count": 0,
+    "created_at": "2018-01-15T20:39:43Z",
+    "updated_at": null,
+    "published_at": "2018-01-15T20:39:43Z",
+    "children": null,
+    "slug": "lessons-learned-from-program-to-improve-healthcare-information-exchange-16474350",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "177Jk",
+    "short_url": "https://pres.ly/177Jk",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/lessons-learned-from-program-to-improve-healthcare-information-exchange-16474350",
+    "views": 16
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Clinical Innovation + Technology",
+      "uid": "url:b64778578846913fff7d05b1d67d0192",
+      "url": "http://www.clinical-innovation.com/topics/mobile-telehealth/physicians-prefer-using-cell-phones-communicate-patients"
+    },
+    "author": {},
+    "title": "Physicians prefer using cell phones to communicate with patients",
+    "description": "Communication between patient and physician is the foundation in building a close relationship—and cell phones have become the favored tool in clinical communication.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/man-on-phone(1).jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": [ "communication", "physician", "patient" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 16474334,
+    "hash": "9f365d4f1d1ba5dca838c10e93009b6a",
+    "seq": 151604871006262,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 11,
+    "share_count": 0,
+    "created_at": "2018-01-15T20:38:30Z",
+    "updated_at": null,
+    "published_at": "2018-01-15T20:38:30Z",
+    "children": null,
+    "slug": "physicians-prefer-using-cell-phones-to-communicate-with-patients-16474334",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "177J4",
+    "short_url": "https://pres.ly/177J4",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/physicians-prefer-using-cell-phones-to-communicate-with-patients-16474334",
+    "views": 11
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:9e585598c36166857d18141da9bfe299",
+      "url": "https://www.beckersasc.com/asc-coding-billing-and-collections/new-voluntary-bundled-payment-model-aims-to-improve-inpatient-outpatient-care-quality-cost-effectiveness-6-insights.html"
+    },
+    "author": { "name": "Eric Oliver" },
+    "title": "New voluntary bundled payment model aims to improve inpatient, outpatient care quality &amp; cost-effectiveness",
+    "description": "6 insights into CMS' new voluntary inpatient and outpatient bundled payment model.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/nurses.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg"
+    },
+    "tags": [ "bundledpayments", "outpatient", "outpatientcare", "inpatient" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 16474327,
+    "hash": "fd5a0b1df47089ea778f40322fdf0c64",
+    "seq": 151604862270404,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 23,
+    "share_count": 0,
+    "created_at": "2018-01-15T20:37:02Z",
+    "updated_at": null,
+    "published_at": "2018-01-15T20:37:02Z",
+    "children": null,
+    "slug": "new-voluntary-bundled-payment-model-aims-to-improve-inpatient-outpatient-care-qu-16474327",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "177IX",
+    "short_url": "https://pres.ly/177IX",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/new-voluntary-bundled-payment-model-aims-to-improve-inpatient-outpatient-care-qu-16474327",
+    "views": 23
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:e03bf95a382257b7789f2791cb2ad616",
+      "url": "https://www.nthrive.com/nquirer/2017/december/certification-and-badge-program?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BsdUJ1zktS4W4Ekfv/5NCqg%3D%3D"
+    },
+    "author": { "name": "nThrive" },
+    "title": "Health Care Certification and Badge Program to Launch in 2018",
+    "description": "nThrive Education will launch its certification and badge programs in 2018. Click here to learn more.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/9-things.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0.07569606211869118, 1, 0.9036217415418749 ],
+        "edited": true
+      }
+    },
+    "tags": [ "healthcare", "certification", "nthriveeducation" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 16346196,
+    "hash": "56786396be454ed220e6326c262b2e91",
+    "seq": 151560978998263,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 61,
+    "share_count": 0,
+    "created_at": "2018-01-10T18:43:09Z",
+    "updated_at": null,
+    "published_at": "2018-01-10T18:43:09Z",
+    "children": null,
+    "slug": "health-care-certification-and-badge-program-to-launch-in-2018-16346196",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "16Aok",
+    "short_url": "https://pres.ly/16Aok",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/health-care-certification-and-badge-program-to-launch-in-2018-16346196",
+    "views": 61
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "CNBC",
+      "uid": "url:7653366fbee5a6e59bc43101d8a30bce",
+      "url": "https://www.cnbc.com/2018/01/04/the-top-25-companies-that-will-let-you-work-from-anywhere.html"
+    },
+    "author": { "name": "Courtney Connley" },
+    "title": "nThrive listed as one of the top 25 companies that will let you work from anywhere",
+    "description": "Working from home today? Find out how you can make that permanent!",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/pink-background.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0.08130615640598993, 0.9933333333333333, 0.9186938435940101 ],
+        "edited": true
+      }
+    },
+    "tags": [ "remote", "remoteculture", "remotejob" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 16346089,
+    "hash": "7688b2ab11642778e7242e862326d99b",
+    "seq": 151560931475091,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 272,
+    "share_count": 0,
+    "created_at": "2018-01-10T18:35:14Z",
+    "updated_at": "2018-01-10T18:35:39Z",
+    "published_at": "2018-01-10T18:35:14Z",
+    "children": null,
+    "slug": "nthrive-listed-as-one-of-the-top-25-companies-that-will-let-you-work-from-anywhe-16346089",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "16AmB",
+    "short_url": "https://pres.ly/16AmB",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/nthrive-listed-as-one-of-the-top-25-companies-that-will-let-you-work-from-anywhe-16346089",
+    "views": 272
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:7edd3629ca2e5b1a910a74d56bc57aea",
+      "url": "https://www.nthrive.com/blog/hospital-denials-management-best-practices"
+    },
+    "author": { "name": "nThrive" },
+    "title": "Hospital Denials Management Best Practices",
+    "description": "Discover the three denial management best practices for building a denials prevention program and increasing revenue in your hospital system.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/wheelchair.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": [ "hospitaldenials", "denialsmanagement" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 16346018,
+    "hash": "7dbe0eee337ee5ac77f258bdb874e10b",
+    "seq": 151560865312461,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 1,
+    "comment_count": 0,
+    "view_count": 49,
+    "share_count": 0,
+    "created_at": "2018-01-10T18:24:13Z",
+    "updated_at": null,
+    "published_at": "2018-01-10T18:24:13Z",
+    "children": null,
+    "slug": "hospital-denials-management-best-practices-16346018",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "16Als",
+    "short_url": "https://pres.ly/16Als",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/hospital-denials-management-best-practices-16346018",
+    "views": 49
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:acaa83c089fce18a5474f1565522466f",
+      "url": "http://info.nthrive.com/2018_Jan_Patient_Access_Webinar_Registration_LP1"
+    },
+    "author": {},
+    "title": "How segmentation can take Patient Access to the next level - Webinar",
+    "description": "Curious how segmentation can take Patient Access to the next level? Register for nThrive's Patient Access webinar on January 24th! Click here!",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/patient-in-hospital(1).jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg"
+    },
+    "tags": [ "patientaccess" ],
+    "media": null,
+    "oembed": null,
+    "etc": {
+      "twitter_share_text": "How segmentation can take Patient Access to the next level - Webinar",
+      "linkedin_share_text": "How segmentation can take Patient Access to the next level - Webinar",
+      "facebook_share_text": "How segmentation can take Patient Access to the next level - Webinar",
+      "email_share_text": "How segmentation can take Patient Access to the next level - Webinar"
+    },
+    "id": 16288910,
+    "hash": "5dbf24c82b77c91642b306ffe68167aa",
+    "seq": 151550977647634,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 3013,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 52,
+    "share_count": 0,
+    "created_at": "2018-01-09T14:56:16Z",
+    "updated_at": "2018-03-15T16:09:38Z",
+    "published_at": "2018-01-09T14:56:16Z",
+    "children": null,
+    "slug": "how-segmentation-can-take-patient-access-to-the-next-level-webinar-16288910",
+    "meta_title": "How segmentation can take Patient Access to the next level - Webinar",
+    "meta_description": "Curious how segmentation can take Patient Access to the next level? Register for nThrive's Patient Access webinar on January 24th! Click here!",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 3013,
+      "name": "Patient Access",
+      "tags": [],
+      "slug": "patient-access"
+    },
+    "id_base62": "16lum",
+    "short_url": "https://pres.ly/16lum",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/how-segmentation-can-take-patient-access-to-the-next-level-webinar-16288910",
+    "views": 52
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Biopharma from Technology Networks",
+      "uid": "url:0d590201f963f5012633ca2f5ebf31f9",
+      "url": "https://www.technologynetworks.com/biopharma/news/taking-cancer-immunotherapy-to-the-next-level-using-viruses-295878"
+    },
+    "author": {},
+    "title": "Cancer Immunotherapy Is Taken To The Next Level Using Viruses",
+    "description": "A new study suggests that a combinations of two immunotherapies -- oncolytic viruses and checkpoint inhibitors -- could be much more successful than traditional treatments in fighting breast cancer and possibly other cancers.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/doctor-on-computer.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0.00561009428729875, 1, 0.8335357737104825 ],
+        "edited": true
+      }
+    },
+    "tags": [ "immunotheraphy" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 16249985,
+    "hash": "fc9320b52fe7b2f0fd84e1a796637b45",
+    "seq": 151543514652555,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 4,
+    "share_count": 0,
+    "created_at": "2018-01-08T18:12:26Z",
+    "updated_at": null,
+    "published_at": "2018-01-08T18:12:26Z",
+    "children": null,
+    "slug": "cancer-immunotherapy-is-taken-to-the-next-level-using-viruses-16249985",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "16bmx",
+    "short_url": "https://pres.ly/16bmx",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/cancer-immunotherapy-is-taken-to-the-next-level-using-viruses-16249985",
+    "views": 4
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "The National Law Review",
+      "uid": "url:c549f0cf56ec202f5c5793a34112c480",
+      "url": "https://www.natlawreview.com/article/health-care-industry-must-be-mindful-information-blocking"
+    },
+    "author": {},
+    "title": "Health Care Industry Must be Mindful of ‘Information Blocking’",
+    "description": "Among other requirements, “information blocking” is prohibited as a condition to Electronic Health Record (EHR) certification, which is a requirement that EHRs must meet to qualify for use in Medicare/Medicaid EHR Incentive Programs.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/guy-on-computer.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0.02838602329450901, 1, 0.8657737104825292 ],
+        "edited": true
+      }
+    },
+    "tags": [ "healthcare", "ehr", "medicaid", "medicare" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 16249884,
+    "hash": "9841d6037ac912b332a2237be2cb37d3",
+    "seq": 151543479148075,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 5,
+    "share_count": 0,
+    "created_at": "2018-01-08T18:06:31Z",
+    "updated_at": "2018-01-08T18:09:10Z",
+    "published_at": "2018-01-08T18:06:31Z",
+    "children": null,
+    "slug": "health-care-industry-must-be-mindful-of-information-blocking-16249884",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "16bkU",
+    "short_url": "https://pres.ly/16bkU",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/health-care-industry-must-be-mindful-of-information-blocking-16249884",
+    "views": 5
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:a46fd74e52477b1404fbdf8c4437d5ca",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/cms-ok-s-texting-for-physicians-with-stipulations.html"
+    },
+    "author": { "name": "Julie Spitzer" },
+    "title": "CMS OK's texting for physicians, with stipulations",
+    "description": "CMS reaffirmed and clarified its stance on physician texting in a Dec. 28 letter to state survey agency directors. Learn more here!",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/doctor-and-lady.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0.01507210205213505, 1, 0.8429977814753188 ],
+        "edited": true
+      }
+    },
+    "tags": [ "cms" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 16249431,
+    "hash": "f5db9a5f8b63dca705c50cc0d2398fc7",
+    "seq": 151543424150067,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 4,
+    "share_count": 0,
+    "created_at": "2018-01-08T17:57:21Z",
+    "updated_at": null,
+    "published_at": "2018-01-08T17:57:21Z",
+    "children": null,
+    "slug": "cms-oks-texting-for-physicians-with-stipulations-16249431",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "16bdB",
+    "short_url": "https://pres.ly/16bdB",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/cms-oks-texting-for-physicians-with-stipulations-16249431",
+    "views": 4
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Healthcare Dive",
+      "uid": "url:7eadf26cbbec5ec163df021cfd3c0f6c",
+      "url": "https://www.healthcaredive.com/news/health-systems-brace-for-2018-disruption/513532/"
+    },
+    "author": {},
+    "title": "Health systems brace for 2018 disruption",
+    "description": "Look for more care in outpatient settings as&nbsp;hospitals consider cost containment and hiring strategies to stay above water.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/doctor-and-child.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8090016638935109 ],
+        "edited": true
+      }
+    },
+    "tags": [ "outpatient", "outpatientcare" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 16249125,
+    "hash": "0ea73c783033789ae2ae81f59792af41",
+    "seq": 151543369132662,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 45,
+    "share_count": 0,
+    "created_at": "2018-01-08T17:48:11Z",
+    "updated_at": null,
+    "published_at": "2018-01-08T17:48:11Z",
+    "children": null,
+    "slug": "health-systems-brace-for-2018-disruption-16249125",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "16b8F",
+    "short_url": "https://pres.ly/16b8F",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/health-systems-brace-for-2018-disruption-16249125",
+    "views": 45
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Health Data Management",
+      "uid": "url:1492150472bde7bc6692f1418b2785ba",
+      "url": "https://www.healthdatamanagement.com/opinion/why-data-sharing-is-critical-to-the-success-under-value-based-care"
+    },
+    "author": {},
+    "title": "Learn why data sharing is critical to success under value-based care",
+    "description": "For providers to improve performance and succeed, payers will need to share relevant claims data and integrate social determinants of care into the equation.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/data-connection.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0.005610094287298695, 1, 0.8429977814753189 ],
+        "edited": true
+      }
+    },
+    "tags": [ "data", "valuebasedcare" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 16167709,
+    "hash": "f0a20da753b9d7c5e51386bb660788c6",
+    "seq": 151509781245100,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 51,
+    "share_count": 0,
+    "created_at": "2018-01-04T20:30:12Z",
+    "updated_at": null,
+    "published_at": "2018-01-04T20:30:12Z",
+    "children": null,
+    "slug": "learn-why-data-sharing-is-critical-to-success-under-value-based-care-16167709",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "15PXv",
+    "short_url": "https://pres.ly/15PXv",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/learn-why-data-sharing-is-critical-to-success-under-value-based-care-16167709",
+    "views": 51
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "HITInfrastructure",
+      "uid": "url:4bba4b3dfb97cbd0b069a45bdd0acc69",
+      "url": "https://hitinfrastructure.com/news/monetization-analytics-support-healthcare-mobile-iot-devices"
+    },
+    "author": {},
+    "title": "Healthcare mobile and IoT devices are becoming the norm",
+    "description": "Organizations need to use their healthcare mobile and IoT devices to their fullest capacity by securing their data and considering real-time analytics.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/lady-on-computer.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": [ "analytics", "healthcare" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 16162821,
+    "hash": "0744f1a949b50678360d216b4c2eda79",
+    "seq": 151507611604574,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 21,
+    "share_count": 0,
+    "created_at": "2018-01-04T14:28:36Z",
+    "updated_at": "2018-01-04T14:28:57Z",
+    "published_at": "2018-01-04T14:28:36Z",
+    "children": null,
+    "slug": "healthcare-mobile-and-iot-devices-are-becoming-the-norm-16162821",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "15OGF",
+    "short_url": "https://pres.ly/15OGF",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/healthcare-mobile-and-iot-devices-are-becoming-the-norm-16162821",
+    "views": 21
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Modern Healthcare",
+      "uid": "url:f4cee4a06c8d498d5a2f652a9d6bbf6c",
+      "url": "http://www.modernhealthcare.com/article/20171230/NEWS/171229923"
+    },
+    "author": {},
+    "title": "CMS' updated star ratings formula still dings safety-net providers",
+    "description": "The CMS has updated the star ratings on its Hospital Compare site using a new methodology that will give more hospitals one to five stars.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/records.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8090016638935109 ],
+        "edited": true
+      }
+    },
+    "tags": [ "cms" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 16162713,
+    "hash": "20607cc3264320ef879cead706a4a71e",
+    "seq": 151507586312396,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 30,
+    "share_count": 0,
+    "created_at": "2018-01-04T14:24:23Z",
+    "updated_at": null,
+    "published_at": "2018-01-04T14:24:23Z",
+    "children": null,
+    "slug": "cms-updated-star-ratings-formula-still-dings-safety-net-providers-16162713",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "15OEV",
+    "short_url": "https://pres.ly/15OEV",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/cms-updated-star-ratings-formula-still-dings-safety-net-providers-16162713",
+    "views": 30
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Health Data Management",
+      "uid": "url:74fb2c6bfdbf5a664663000ea64cc1fe",
+      "url": "https://www.healthdatamanagement.com/news/few-consumers-have-used-telehealth-to-access-care"
+    },
+    "author": {},
+    "title": "Few consumers have used telehealth to access care",
+    "description": "Despite rising investment in the technology, only 18 percent of respondents to one survey have used it.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/guy-with-glasses.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": [ "consumer", "telehealth" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 16130860,
+    "hash": "5d87197d80bc05a799fe53fd1551f593",
+    "seq": 151500951835100,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 24,
+    "share_count": 0,
+    "created_at": "2018-01-03T19:58:38Z",
+    "updated_at": null,
+    "published_at": "2018-01-03T19:58:38Z",
+    "children": null,
+    "slug": "few-consumers-have-used-telehealth-to-access-care-16130860",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "15Gna",
+    "short_url": "https://pres.ly/15Gna",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/few-consumers-have-used-telehealth-to-access-care-16130860",
+    "views": 24
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:9426d113eeca6bfdc5abb895b19740e1",
+      "url": "https://www.nthrive.com/blog/what-is-next-for-quality-payment-program-year-2"
+    },
+    "author": { "name": "nThrive" },
+    "title": "MACRA: Quality Payment Program Year 2, what’s next?",
+    "description": "nThrive has been selected, once again, as Qualified MIPS Registry by CMS! ",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/grandpa-with-doctor.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8090016638935109 ],
+        "edited": true
+      }
+    },
+    "tags": [ "macra", "qpp", "cms" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 16101025,
+    "hash": "4a3ff792e5c5e16ee710fdd90e1baa4b",
+    "seq": 151492076645565,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 25,
+    "share_count": 0,
+    "created_at": "2018-01-02T19:19:26Z",
+    "updated_at": null,
+    "published_at": "2018-01-02T19:19:26Z",
+    "children": null,
+    "slug": "macra-quality-payment-program-year-2-whats-next-16101025",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "15yBX",
+    "short_url": "https://pres.ly/15yBX",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/macra-quality-payment-program-year-2-whats-next-16101025",
+    "views": 25
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Shrinershospitalsforchildren",
+      "uid": "url:763a1ef48b3c15d7d98a0cec2791157f",
+      "url": "https://www.shrinershospitalsforchildren.org/shc"
+    },
+    "author": {},
+    "title": "Join Shriners Hospitals for Children This Holiday Season!",
+    "description": "Shriners Hospitals for Children provides specialized care to children with orthopaedic conditions, burns, spinal cord injuries, and cleft lip and palate, regardless of the families ability to pay. Generally, care is provided until age 18, although, in some cases it may be extended to age 21. All care and services are provided in a family-centered environment.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/christmas-5.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8090016638935109 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 15821252,
+    "hash": "fb4d5f63eb509e31e911cf47b6d20fb7",
+    "seq": 151370815251385,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 29,
+    "share_count": 0,
+    "created_at": "2017-12-19T18:29:12Z",
+    "updated_at": null,
+    "published_at": "2017-12-19T18:29:12Z",
+    "children": null,
+    "slug": "join-shriners-hospitals-for-children-this-holiday-season-15821252",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "14nPu",
+    "short_url": "https://pres.ly/14nPu",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/join-shriners-hospitals-for-children-this-holiday-season-15821252",
+    "views": 29
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Christmasspiritfoundation",
+      "uid": "url:aa1e634b494ede3d0b56bb700bd5f581",
+      "url": "http://www.christmasspiritfoundation.org/"
+    },
+    "author": {},
+    "title": "Deliver the Christmas spirit to military families",
+    "description": "Trees for Troops, a program of the Christmas SPIRIT Foundation, provides free, farm-grown Christmas Trees to United States armed forces members in all branches of the military and their families,&nbsp;through donations, sponsorships, grants and the work of many volunteers.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/christmas-4.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8090016638935109 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 15821194,
+    "hash": "904e43db667af1d0c74d3ea325b1138d",
+    "seq": 151370768552469,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 46,
+    "share_count": 0,
+    "created_at": "2017-12-19T18:21:25Z",
+    "updated_at": null,
+    "published_at": "2017-12-19T18:21:25Z",
+    "children": null,
+    "slug": "deliver-the-christmas-spirit-to-military-families-15821194",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "14nOy",
+    "short_url": "https://pres.ly/14nOy",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/deliver-the-christmas-spirit-to-military-families-15821194",
+    "views": 46
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Toysfortots",
+      "uid": "url:144ff626c242e0be7509dd949d7acbba",
+      "url": "https://www.toysfortots.org/"
+    },
+    "author": {},
+    "title": "Join Toys for Tots this holiday season!",
+    "description": "You can contribute to your local Toys for Tots campaign in several ways. You can donate a toy at one of the area toy drop locations, host a Toys for Tots event at your home, office or other venue and collect toys for Toys for Tots, or volunteer at the local warehouse.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/christmas-3.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 15821079,
+    "hash": "c2197d651a1a697033b5e7e07c98c25b",
+    "seq": 151370666129164,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": null,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 10,
+    "share_count": 0,
+    "created_at": "2017-12-19T18:04:21Z",
+    "updated_at": "2017-12-19T18:08:14Z",
+    "published_at": "2017-12-19T18:04:21Z",
+    "children": null,
+    "slug": "join-toys-for-tots-this-holiday-season-15821079",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": null,
+    "id_base62": "14nMH",
+    "short_url": "https://pres.ly/14nMH",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/join-toys-for-tots-this-holiday-season-15821079",
+    "views": 10
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:5d1b67267e01493e42da859a8631d52e",
+      "url": "https://www.nthrive.com/blog/why-population-health-is-all-about-value"
+    },
+    "author": { "name": "nThrive" },
+    "title": "Population Health Question and Answer Session",
+    "description": "Learn about population health in this Q&amp;A and hear from nThrive experts who spoke at a Becker’s CEO + CFO Roundtable session in November.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/drcouch.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8090016638935109 ],
+        "edited": true
+      }
+    },
+    "tags": [ "beckers", "beckershr", "paymentmodels", "populationhealth" ],
+    "media": null,
+    "oembed": null,
+    "etc": {
+      "twitter_share_text": "Population Health Q&amp;A: Why It's All about Value",
+      "linkedin_share_text": "Population Health Q&amp;A: Why It's All about Value",
+      "facebook_share_text": "Population Health Q&amp;A: Why It's All about Value",
+      "email_share_text": "Population Health Q&amp;A: Why It's All about Value"
+    },
+    "id": 15780197,
+    "hash": "252f79aeccd4931544edaa0a62f9db2f",
+    "seq": 151362344567431,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 31,
+    "share_count": 0,
+    "created_at": "2017-12-18T18:57:25Z",
+    "updated_at": "2018-04-24T14:51:46Z",
+    "published_at": "2017-12-18T18:57:25Z",
+    "children": null,
+    "slug": "beckers-roundtable-recap-payment-models-and-population-health-15780197",
+    "meta_title": "Population Health Question and Answer Session",
+    "meta_description": "Learn about population health in this Q&amp;A and hear from nThrive experts who spoke at a Becker’s CEO + CFO Roundtable session in November.",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "14d9j",
+    "short_url": "https://pres.ly/14d9j",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/beckers-roundtable-recap-payment-models-and-population-health-15780197",
+    "views": 31
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Healthcare Dive",
+      "uid": "url:3f1dea6d59c4d552c34609dbd186e07e",
+      "url": "https://www.healthcaredive.com/news/providers-warming-to-risk-based-payments-survey-shows/513023/"
+    },
+    "author": {},
+    "title": "Survey shows providers are warming to risk-based payments",
+    "description": "AMGA released the results&nbsp;of a survey of member medical groups and health systems that found that they expect nearly 60% of revenues from Medicare will be risk-based by 2019.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/nurse-and-man.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0.01507210205213505, 1, 0.8524597892401552 ],
+        "edited": true
+      }
+    },
+    "tags": [ "amga", "valuebased", "medicare", "revenue" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 15776136,
+    "hash": "5f126c366c33e3d00c7135ed2f629d27",
+    "seq": 151360623129828,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 19,
+    "share_count": 0,
+    "created_at": "2017-12-18T14:10:31Z",
+    "updated_at": null,
+    "published_at": "2017-12-18T14:10:31Z",
+    "children": null,
+    "slug": "survey-shows-providers-are-warming-to-risk-based-payments-15776136",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "14c5O",
+    "short_url": "https://pres.ly/14c5O",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/survey-shows-providers-are-warming-to-risk-based-payments-15776136",
+    "views": 19
+  }
+]

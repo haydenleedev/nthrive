@@ -1,0 +1,2303 @@
+[
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:4d4ad5220b6110f7df9fda01b9dfc228",
+      "url": "https://www.nthrive.com/blog/what-is-a-clinically-integrated-network?la=pressly"
+    },
+    "author": { "name": "nThrive" },
+    "title": "What is a Clinically Integrated Network?",
+    "description": "Learn everything you need to know about a Clinically Integrated Network - definition, characteristics and more - in this webinar recap and replay from nThrive.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/2_22.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8090016638935109 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17588789,
+    "hash": "6a742349feff495f2e06f5e7fd27fffa",
+    "seq": 151975104277085,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 8,
+    "share_count": 0,
+    "created_at": "2018-02-27T17:04:02Z",
+    "updated_at": null,
+    "published_at": "2018-02-27T17:04:02Z",
+    "children": null,
+    "slug": "what-is-a-clinically-integrated-network-17588789",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1bNE9",
+    "short_url": "https://pres.ly/1bNE9",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/what-is-a-clinically-integrated-network-17588789",
+    "views": 8
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:2d6ec429db63742b36770f93fc540171",
+      "url": "https://www.beckershospitalreview.com/finance/nthrive-brings-on-new-leaders-10-things-to-know.html"
+    },
+    "author": { "name": "Kelly Gooch" },
+    "title": "nThrive brings on new leaders: 10 things to know",
+    "description": "10 things to know about nThrive's new CIO, data and analytics president, and board member.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/Bonnie-Cassidy.jpg",
+      "width": 879,
+      "height": 545,
+      "format": "jpg"
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17548622,
+    "hash": "fd1ffc1b77873115228fe88c4099f3f4",
+    "seq": 151965460860297,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 248,
+    "share_count": 0,
+    "created_at": "2018-02-26T14:16:48Z",
+    "updated_at": null,
+    "published_at": "2018-02-26T14:16:48Z",
+    "children": null,
+    "slug": "nthrive-brings-on-new-leaders-10-things-to-know-17548622",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1bDci",
+    "short_url": "https://pres.ly/1bDci",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/nthrive-brings-on-new-leaders-10-things-to-know-17548622",
+    "views": 248
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Healthcare Dive",
+      "uid": "url:252523c3d2142a5d9e5080e28b01e57e",
+      "url": "https://www.healthcaredive.com/news/alphabet-studies-how-deep-learning-could-predict-heart-disease-risk/517511/"
+    },
+    "author": {},
+    "title": "Alphabet studies how deep learning could predict heart disease risk",
+    "description": "Researchers at Google parent Alphabet&apos;s research arm&nbsp;used an algorithm to speed assessments of patient&nbsp;cardiovascular risk factors using eye scans.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/2_23-3.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17515668,
+    "hash": "4a7314e70f7f96cb7f025c7ef9cba0dc",
+    "seq": 151941580478142,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 15,
+    "share_count": 0,
+    "created_at": "2018-02-23T19:56:44Z",
+    "updated_at": null,
+    "published_at": "2018-02-23T19:56:44Z",
+    "children": null,
+    "slug": "alphabet-studies-how-deep-learning-could-predict-heart-disease-risk-17515668",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1buCM",
+    "short_url": "https://pres.ly/1buCM",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/alphabet-studies-how-deep-learning-could-predict-heart-disease-risk-17515668",
+    "views": 15
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Healthcare Dive",
+      "uid": "url:0344d8d9b9aabea61639a68c6d12a7d5",
+      "url": "https://www.healthcaredive.com/news/many-hospitals-lack-strategy-for-leveraging-smartphone-technology/517590/"
+    },
+    "author": {},
+    "title": "Many hospitals lack strategy for leveraging smartphone technology",
+    "description": "Apple leads as the smartphone of choice among healthcare organizations, but its weaknesses could cause other devices to become a new fan favorite, a KLAS Research report concludes.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/man-on-phone.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.7995396561286746 ],
+        "edited": true
+      }
+    },
+    "tags": [ "technology", "klas" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17515663,
+    "hash": "6c71b0792479020d44ff9a3a4a0fc5e7",
+    "seq": 151941575673933,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 11,
+    "share_count": 0,
+    "created_at": "2018-02-23T19:55:56Z",
+    "updated_at": null,
+    "published_at": "2018-02-23T19:55:56Z",
+    "children": null,
+    "slug": "many-hospitals-lack-strategy-for-leveraging-smartphone-technology-17515663",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1buCH",
+    "short_url": "https://pres.ly/1buCH",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/many-hospitals-lack-strategy-for-leveraging-smartphone-technology-17515663",
+    "views": 11
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "RevCycleIntelligence",
+      "uid": "url:ee84a780cba9c24802d9ae822895a73e",
+      "url": "https://revcycleintelligence.com/features/pay-for-performance-strategies-for-independent-physicians-small-practices"
+    },
+    "author": {},
+    "title": "Pay-for-Performance Strategies for Independent Physicians and Small Practices",
+    "description": "Independent physicians and small practices can engage with pay-for-performance and value-based care using payer support and partnerships with peers.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/1_30.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0.00561009428729875, 1, 0.8429977814753189 ],
+        "edited": true
+      }
+    },
+    "tags": [ "payforperformance", "physician", "valuebasedcare" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17515658,
+    "hash": "cfafc3c36ae8885190ab6d9b3e2f9c06",
+    "seq": 151941563658332,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 32,
+    "share_count": 0,
+    "created_at": "2018-02-23T19:53:56Z",
+    "updated_at": null,
+    "published_at": "2018-02-23T19:53:56Z",
+    "children": null,
+    "slug": "pay-for-performance-strategies-for-independent-physicians-and-small-practices-17515658",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1buCC",
+    "short_url": "https://pres.ly/1buCC",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/pay-for-performance-strategies-for-independent-physicians-and-small-practices-17515658",
+    "views": 32
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "RevCycleIntelligence",
+      "uid": "url:46084c5f5e20ff4a39adac5a7a4fdfc2",
+      "url": "https://revcycleintelligence.com/features/key-strategies-for-succeeding-with-healthcare-bundled-payments"
+    },
+    "author": {},
+    "title": "Key Strategies for Succeeding with Healthcare Bundled Payments",
+    "description": "Leveraging predictive analytics, improving patient engagement, and partnering with post-acute care providers are top healthcare bundled payments strategies.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/2_23-2.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8090016638935109 ],
+        "edited": true
+      }
+    },
+    "tags": [ "bundledpayments", "patientengagement", "healthcare" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17515638,
+    "hash": "bcfd6fbf19eb14e8364d22d69ff807c1",
+    "seq": 151941542393962,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 32,
+    "share_count": 0,
+    "created_at": "2018-02-23T19:50:23Z",
+    "updated_at": null,
+    "published_at": "2018-02-23T19:50:23Z",
+    "children": null,
+    "slug": "key-strategies-for-succeeding-with-healthcare-bundled-payments-17515638",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1buCi",
+    "short_url": "https://pres.ly/1buCi",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/key-strategies-for-succeeding-with-healthcare-bundled-payments-17515638",
+    "views": 32
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Health Exec",
+      "uid": "url:caba433df21a92c9c0578fc78256e438",
+      "url": "http://healthexec.com/topics/practice-management/quality/how-hospitals-are-measuring-and-addressing-social-determinants-health"
+    },
+    "author": {},
+    "title": "Learn how hospitals are measuring, addressing social determinants of health",
+    "description": "More hospitals are screening patients on health-related social needs as the industry has recognized the importance of factors outside the healthcare system on outcomes.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/2_23-1.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": [ "hospital", "health", "healthcare" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17515580,
+    "hash": "293132ffb0110910f97ef3e2bb2b1269",
+    "seq": 151941426318406,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 1,
+    "share_count": 0,
+    "created_at": "2018-02-23T19:31:03Z",
+    "updated_at": null,
+    "published_at": "2018-02-23T19:31:03Z",
+    "children": null,
+    "slug": "learn-how-hospitals-are-measuring-addressing-social-determinants-of-health-17515580",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1buBm",
+    "short_url": "https://pres.ly/1buBm",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/learn-how-hospitals-are-measuring-addressing-social-determinants-of-health-17515580",
+    "views": 1
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:87fa08332aad5b7e768aca99a0284123",
+      "url": "https://www.nthrive.com/nthrive-newsroom/press-release-archive/2018/nthrive-welcomes-new-leaders-to-growing-organization"
+    },
+    "author": { "name": "nThrive" },
+    "title": "nThrive Welcomes New Leaders to Growing Organization",
+    "description": "nThrive is pleased to announce the newest additions to its leadership. Bringing these members on to the team is another important step nThrive is taking toward delivering its vision to empower health care for every one in every community.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/employees.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": null,
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17514491,
+    "hash": "4e2a73140a3295c8ca8b19b679e35f0a",
+    "seq": 151940676639808,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 9,
+    "share_count": 0,
+    "created_at": "2018-02-23T17:26:06Z",
+    "updated_at": null,
+    "published_at": "2018-02-23T17:26:06Z",
+    "children": null,
+    "slug": "nthrive-welcomes-new-leaders-to-growing-organization-17514491",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1bujN",
+    "short_url": "https://pres.ly/1bujN",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/nthrive-welcomes-new-leaders-to-growing-organization-17514491",
+    "views": 9
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:bc61b0b96f4c1378bf8340430228176a",
+      "url": "https://www.nthrive.com/events/"
+    },
+    "author": { "name": "nThrive" },
+    "title": "Join us at 340B Coalition Winter Conference!",
+    "description": "Cecilia Williams, Sr. Manager, Govern Programs at nThrive, to discuss Medicare 340B Drug Changes effective January 1, 2018. Don't miss out!",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/2_21-1.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17460938,
+    "hash": "2b4db8aa65f07819187b0494fcf34d2e",
+    "seq": 151924681461249,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 8,
+    "share_count": 0,
+    "created_at": "2018-02-21T21:00:14Z",
+    "updated_at": null,
+    "published_at": "2018-02-21T21:00:14Z",
+    "children": null,
+    "slug": "join-us-at-340b-coalition-winter-conference-17460938",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1bgo2",
+    "short_url": "https://pres.ly/1bgo2",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/join-us-at-340b-coalition-winter-conference-17460938",
+    "views": 8
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:9c1118ba119030ec01381e70deabc3bf",
+      "url": "https://www.nthrive.com/solutions/middle/?la=pressly"
+    },
+    "author": { "name": "nThrive" },
+    "title": "nThrive Middle Revenue Cycle Solutions",
+    "description": "nThrive's middle revenue cycle solutions help health care providers improve accuracy and efficiency in everything from charge capture to medical coding.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/2_21.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": [ "midrevenuecycle", "revenuecycle", "revenue", "chargecapture" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17458716,
+    "hash": "80a195a858d759b95def2d44daa24204",
+    "seq": 151923594359662,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 16,
+    "share_count": 0,
+    "created_at": "2018-02-21T17:59:03Z",
+    "updated_at": "2018-02-21T19:20:06Z",
+    "published_at": "2018-02-21T17:59:03Z",
+    "children": null,
+    "slug": "nthrive-middle-revenue-cycle-solutions-17458716",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1bfOc",
+    "short_url": "https://pres.ly/1bfOc",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/nthrive-middle-revenue-cycle-solutions-17458716",
+    "views": 16
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Healthcare Informatics Magazine",
+      "uid": "url:551593cd2e5e4eb333d43d28c7e0d0b9",
+      "url": "https://www.healthcare-informatics.com/news-item/payment/cms-actuaries-economic-demographic-factors-driving-healthcare-spending-growth"
+    },
+    "author": {},
+    "title": "CMS Actuaries: Economic, Demographic Factors Driving Healthcare Spending Growth",
+    "description": "New estimates released Wednesday from CMS&apos;s Office of the Actuary project an average annual rate of national health spending growth of 5.5 percent for 2017&ndash;2026, outpacing average projected growth in GDP by 1.0 percentage point.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/stethescope-money.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8090016638935109 ],
+        "edited": true
+      }
+    },
+    "tags": [ "cms", "healthcare" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17360517,
+    "hash": "a8bcf12df630af5595af314fb0aebadf",
+    "seq": 151879254019683,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 20,
+    "share_count": 0,
+    "created_at": "2018-02-16T14:49:00Z",
+    "updated_at": null,
+    "published_at": "2018-02-16T14:49:00Z",
+    "children": null,
+    "slug": "cms-actuaries-economic-demographic-factors-driving-healthcare-spending-growth-17360517",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1aQgl",
+    "short_url": "https://pres.ly/1aQgl",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/cms-actuaries-economic-demographic-factors-driving-healthcare-spending-growth-17360517",
+    "views": 20
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:524e3be26e740b346c1e9d6383c17913",
+      "url": "https://www.beckershospitalreview.com/finance/aha-recommends-cms-delay-application-deadline-for-bpci-advanced.html"
+    },
+    "author": { "name": "Kelly Gooch" },
+    "title": "AHA recommends CMS delay application deadline for BPCI Advanced",
+    "description": "AHA recommends CMS delay application deadline for BPCI Advanced The American Hospital Association is urging CMS to provide additional information and delay implementation of a new voluntary bundled payment model.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/2_16-3.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": [ "aha", "cms", "bpci" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17360490,
+    "hash": "ca86a5e95efaf84ad0c308bf88ec29f6",
+    "seq": 151879241205720,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 8,
+    "share_count": 0,
+    "created_at": "2018-02-16T14:46:52Z",
+    "updated_at": null,
+    "published_at": "2018-02-16T14:46:52Z",
+    "children": null,
+    "slug": "aha-recommends-cms-delay-application-deadline-for-bpci-advanced-17360490",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1aQfU",
+    "short_url": "https://pres.ly/1aQfU",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/aha-recommends-cms-delay-application-deadline-for-bpci-advanced-17360490",
+    "views": 8
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "HealthITSecurity",
+      "uid": "url:b1d6f24fd846b4e3cf8570c3f1841f37",
+      "url": "https://healthitsecurity.com/news/how-does-hipaa-compliance-apply-in-the-healthcare-cloud"
+    },
+    "author": {},
+    "title": "How Does HIPAA Compliance Apply in the Healthcare Cloud?",
+    "description": "There are numerous benefits to utilizing the healthcare cloud, but entities need to make sure they maintain HIPAA compliance through the entire process.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/2_16-2.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": [ "hipaa", "healthcare" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17360310,
+    "hash": "a6cdd74a71eef80b150911771adb6035",
+    "seq": 151879213006939,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 1,
+    "share_count": 0,
+    "created_at": "2018-02-16T14:42:10Z",
+    "updated_at": null,
+    "published_at": "2018-02-16T14:42:10Z",
+    "children": null,
+    "slug": "how-does-hipaa-compliance-apply-in-the-healthcare-cloud-17360310",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1aQd0",
+    "short_url": "https://pres.ly/1aQd0",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/how-does-hipaa-compliance-apply-in-the-healthcare-cloud-17360310",
+    "views": 1
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:0dadbe92ed31050a574b492010c176a5",
+      "url": "https://www.fiercehealthcare.com/finance/healthcare-financial-management-association-value-based-care-interoperability"
+    },
+    "author": {},
+    "title": "Lack of interoperability&nbsp;a major barrier to value-based care transformation, hospital finance executives say",
+    "description": "Value-based care contracts have doubled since 2015, and most respondents in a new HFMA survey said they see the benefits of the payment model.&nbsp;But lack of systems interoperability remains a major barrier to success, hospital finance leaders say.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/2_16-1.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": [ "interoperability", "valuebasedcare", "hospital" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17360251,
+    "hash": "d9168aa76a9df2ff649c24b5024ae79b",
+    "seq": 151879195396614,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 3,
+    "share_count": 0,
+    "created_at": "2018-02-16T14:39:13Z",
+    "updated_at": null,
+    "published_at": "2018-02-16T14:39:13Z",
+    "children": null,
+    "slug": "lack-of-interoperability-a-major-barrier-to-value-based-care-transformation-hosp-17360251",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1aQc3",
+    "short_url": "https://pres.ly/1aQc3",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/lack-of-interoperability-a-major-barrier-to-value-based-care-transformation-hosp-17360251",
+    "views": 3
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:4d3900b46448f28c7cead675910a8162",
+      "url": "https://www.nthrive.com/blog/the-mid-revenue-cycle-key-to-reducing-denials"
+    },
+    "author": { "name": "nThrive" },
+    "title": "Reduce Claim Denials by Looking to the Mid Revenue Cycle",
+    "description": "If you want to reduce the number of denied claims from payors, look to the middle of your revenue cycle process for improvement opportunities. Read seven tips on how organizations can prevent denials in the first place.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/2_16.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0.11915418746533546, 1, 0.9376178591236828 ],
+        "edited": true
+      }
+    },
+    "tags": [ "revenuecycle", "denials" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17269434,
+    "hash": "4e4adf01873b7513a04444a32da591f3",
+    "seq": 151855530642215,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 69,
+    "share_count": 0,
+    "created_at": "2018-02-13T20:55:06Z",
+    "updated_at": "2018-03-20T00:38:20Z",
+    "published_at": "2018-02-13T20:55:06Z",
+    "children": null,
+    "slug": "the-middle-revenue-cycle-is-key-to-reducing-denials-17269434",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1aszg",
+    "short_url": "https://pres.ly/1aszg",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/the-middle-revenue-cycle-is-key-to-reducing-denials-17269434",
+    "views": 69
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:371c1553685b1c80fa55948ae038f4b4",
+      "url": "https://www.beckershospitalreview.com/finance/rcm-tip-of-the-day-take-a-multidisciplinary-approach-to-claim-denials.html"
+    },
+    "author": { "name": "Kelly Gooch" },
+    "title": "RCM tip of the day: Take a multidisciplinary approach to claim denials",
+    "description": "Hospitals and health systems continually seek to reduce claim denials so they don't miss out on revenue. One way to achieve this is by using a multidisciplinary approach, according to Kyle Kobe, vice president of consulting and analytic services at nThrive.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/2_13.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17269265,
+    "hash": "dd0566fcdc376646ac4e300b3963afeb",
+    "seq": 151855270070636,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 12,
+    "share_count": 0,
+    "created_at": "2018-02-13T20:11:40Z",
+    "updated_at": null,
+    "published_at": "2018-02-13T20:11:40Z",
+    "children": null,
+    "slug": "rcm-tip-of-the-day-take-a-multidisciplinary-approach-to-claim-denials-17269265",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1aswx",
+    "short_url": "https://pres.ly/1aswx",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/rcm-tip-of-the-day-take-a-multidisciplinary-approach-to-claim-denials-17269265",
+    "views": 12
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:aeac06bfaddfc8dded372084c558ecbd",
+      "url": "https://www.nthrive.com/solutions/middle/cancer-registry"
+    },
+    "author": { "name": "nThrive" },
+    "title": "Cancer Registry Services and Oncology Data Management",
+    "description": "nThrive cancer registry services and oncology data management can help compile and safeguard cancer patient data, potentially helping to improve their lives.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/MACRA-blog.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": [ "oncology", "datamanagement" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17263721,
+    "hash": "89f967be4a92e64918eb958633046f27",
+    "seq": 151853209798818,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 7,
+    "share_count": 0,
+    "created_at": "2018-02-13T14:28:17Z",
+    "updated_at": null,
+    "published_at": "2018-02-13T14:28:17Z",
+    "children": null,
+    "slug": "cancer-registry-services-and-oncology-data-management-17263721",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1ar57",
+    "short_url": "https://pres.ly/1ar57",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/cancer-registry-services-and-oncology-data-management-17263721",
+    "views": 7
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "HealthITAnalytics",
+      "uid": "url:a3490c8183bff441d09788937029a109",
+      "url": "https://healthitanalytics.com/news/as-imaging-analytics-grows-healthcare-orgs-should-proceed-cautiously"
+    },
+    "author": {},
+    "title": "As Imaging Analytics Grows, Healthcare Orgs Should Proceed Cautiously",
+    "description": "To improve care and cut costs, healthcare providers should thoughtfully consider which imaging analytics tools and strategies to implement.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/point.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8090016638935109 ],
+        "edited": true
+      }
+    },
+    "tags": [ "analytics" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17189485,
+    "hash": "78c71f22384eda72f875def5439c7861",
+    "seq": 151820419909398,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 5,
+    "share_count": 0,
+    "created_at": "2018-02-09T19:23:19Z",
+    "updated_at": null,
+    "published_at": "2018-02-09T19:23:19Z",
+    "children": null,
+    "slug": "as-imaging-analytics-grows-healthcare-orgs-should-proceed-cautiously-17189485",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1a7LL",
+    "short_url": "https://pres.ly/1a7LL",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/as-imaging-analytics-grows-healthcare-orgs-should-proceed-cautiously-17189485",
+    "views": 5
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Medical Economics",
+      "uid": "url:a48a40b5c11ee398f7b748a770ef534f",
+      "url": "http://medicaleconomics.modernmedicine.com/medical-economics/news/5-reasons-why-your-ehr-isnt-enough-success-value-based-care"
+    },
+    "author": {},
+    "title": "5 reasons why your EHR isn't enough for success in value-based care",
+    "description": "Keeping in mind that the core mandate of value-based care is shifting accountability to providers for the holistic quality and cost of the care they deliver, five shortcomings of legacy EHRs become apparent.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/2_9-4.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0.00561009428729875, 1, 0.8429977814753189 ],
+        "edited": true
+      }
+    },
+    "tags": [ "ehr", "valuebasedcare", "qualitycare" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17189422,
+    "hash": "dfceb0f046ed4de89be26ad41f9be59b",
+    "seq": 151820408211895,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 21,
+    "share_count": 0,
+    "created_at": "2018-02-09T19:21:22Z",
+    "updated_at": null,
+    "published_at": "2018-02-09T19:21:22Z",
+    "children": null,
+    "slug": "5-reasons-why-your-ehr-isnt-enough-for-success-in-value-based-care-17189422",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1a7KK",
+    "short_url": "https://pres.ly/1a7KK",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/5-reasons-why-your-ehr-isnt-enough-for-success-in-value-based-care-17189422",
+    "views": 21
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:b93e61ea4f3ae670e9c393d94688649f",
+      "url": "https://www.beckershospitalreview.com/cybersecurity/24-of-physicians-can-t-identify-phishing-emails-5-things-to-know.html"
+    },
+    "author": { "name": "Julie Spitzer" },
+    "title": "24% of physicians can't identify phishing emails: 5 things to know",
+    "description": "Here are 5 things to know about why physicians have a difficult time identifying phishing emails.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/2_9-3.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg"
+    },
+    "tags": [ "physician" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17189387,
+    "hash": "74cac2091d9881815315d405e263e843",
+    "seq": 151820395156900,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 7,
+    "share_count": 0,
+    "created_at": "2018-02-09T19:19:11Z",
+    "updated_at": null,
+    "published_at": "2018-02-09T19:19:11Z",
+    "children": null,
+    "slug": "24-of-physicians-cant-identify-phishing-emails-5-things-to-know-17189387",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1a7Kb",
+    "short_url": "https://pres.ly/1a7Kb",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/24-of-physicians-cant-identify-phishing-emails-5-things-to-know-17189387",
+    "views": 7
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Healthcare Dive",
+      "uid": "url:b88609a32b57f628ae1e9d3ed8ac9ffd",
+      "url": "https://www.healthcaredive.com/news/management-organizations-can-play-key-role-in-acos/516454/"
+    },
+    "author": {},
+    "title": "Management organizations can play key role in ACOs",
+    "description": "A Health Affairs report found partnerships helped providers in ACOs with data, administrative,&nbsp;educational&nbsp;and&nbsp;care coordination services.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/2_9-2.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0.06326123128119787, 0.9933333333333333, 0.8817249029395452 ],
+        "edited": true
+      }
+    },
+    "tags": [ "management", "aco", "health", "education" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17189303,
+    "hash": "418aa5b7599ac942134137659a7a2cc9",
+    "seq": 151820364314554,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 3,
+    "share_count": 0,
+    "created_at": "2018-02-09T19:14:03Z",
+    "updated_at": null,
+    "published_at": "2018-02-09T19:14:03Z",
+    "children": null,
+    "slug": "management-organizations-can-play-key-role-in-acos-17189303",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1a7IP",
+    "short_url": "https://pres.ly/1a7IP",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/management-organizations-can-play-key-role-in-acos-17189303",
+    "views": 3
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:cafaffa43d66a77db36da29cd5142701",
+      "url": "http://www.hfma.org/Content.aspx?id=58995"
+    },
+    "author": {},
+    "title": "The Strategic Value of Value",
+    "description": "Dr. Carl Couch, &nbsp;MD, MMM, chief medical officer at nThrive, discusses the strategic value of value and how even fee-for-service healthcare organizations can profit from adopting value-based strategies.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/2_9.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg"
+    },
+    "tags": [ "valuebased", "feeforservice" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17187229,
+    "hash": "817a0eece123b1bc4909c94ef58cbcfe",
+    "seq": 151818864180925,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 24,
+    "share_count": 0,
+    "created_at": "2018-02-09T15:04:01Z",
+    "updated_at": null,
+    "published_at": "2018-02-09T15:04:01Z",
+    "children": null,
+    "slug": "the-strategic-value-of-value-17187229",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "1a7bn",
+    "short_url": "https://pres.ly/1a7bn",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/the-strategic-value-of-value-17187229",
+    "views": 24
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:3a465d6d311cb5b10893ea903b261779",
+      "url": "https://www.nthrive.com/nthrive-newsroom/press-release-archive/2018/nthrive-named-category-leader-for-transcription-services-in-klas-report"
+    },
+    "author": { "name": "nThrive" },
+    "title": "nThrive Named Category Leader in 2018 KLAS Report",
+    "description": "nThrive&trade; was named Category Leader for Transcription Services in the 2018 Best in KLAS: Software &amp; Services report.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/2_7.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": [ "klas", "transcription", "software" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17126410,
+    "hash": "7ff12879f0837296ca9a5c694e4a0dd5",
+    "seq": 151802748472083,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 19,
+    "share_count": 0,
+    "created_at": "2018-02-07T18:18:04Z",
+    "updated_at": null,
+    "published_at": "2018-02-07T18:18:04Z",
+    "children": null,
+    "slug": "nthrive-named-category-leader-in-2018-klas-report-17126410",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "19Rmq",
+    "short_url": "https://pres.ly/19Rmq",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/nthrive-named-category-leader-in-2018-klas-report-17126410",
+    "views": 19
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Health Exec",
+      "uid": "url:dd42eca701df245028ee3b2b91d3e163",
+      "url": "http://healthexec.com/topics/leadership/solve-labor-supply-challenges-growing-your-own-workforce"
+    },
+    "author": {},
+    "title": "Solve labor supply challenges by growing your own workforce",
+    "description": "Tom Ormondroyd, President of Education and Analytics at nThrive, discusses how we often look to hospital&apos;s electronic health records (EHRs), technology and other systems as the culprits of the financial and operational challenges. What we fail to see is that a human, who is the end user of these systems, is at the core of every challenge. Learn more here.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/Bonnie-Cassidy(1).jpg",
+      "width": 879,
+      "height": 545,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.9193211009174311 ],
+        "edited": true
+      }
+    },
+    "tags": [ "ehr", "hospital" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17055098,
+    "hash": "8999c0a720f7102b9028a93b415c0c5b",
+    "seq": 151785542130000,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 40,
+    "share_count": 0,
+    "created_at": "2018-02-05T18:30:21Z",
+    "updated_at": null,
+    "published_at": "2018-02-05T18:30:21Z",
+    "children": null,
+    "slug": "solve-labor-supply-challenges-by-growing-your-own-workforce-17055098",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "19yOe",
+    "short_url": "https://pres.ly/19yOe",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/solve-labor-supply-challenges-by-growing-your-own-workforce-17055098",
+    "views": 40
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Modern Healthcare",
+      "uid": "url:5c11f89b8774eabac4577b7baf5f49e6",
+      "url": "http://www.modernhealthcare.com/article/20180201/TRANSFORMATION02/180209980/medical-supply-distribution-poised-for-e-commerce-migration"
+    },
+    "author": {},
+    "title": "Medical supply distribution poised for e-commerce migration",
+    "description": "Cost-conscious providers will shift more distribution models to e-commerce platforms.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/stethescope.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": [ "medical" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17049875,
+    "hash": "363646bc3a3ece5012aaaa7739f8aba1",
+    "seq": 151784202005937,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 27,
+    "share_count": 0,
+    "created_at": "2018-02-05T14:47:00Z",
+    "updated_at": null,
+    "published_at": "2018-02-05T14:47:00Z",
+    "children": null,
+    "slug": "medical-supply-distribution-poised-for-e-commerce-migration-17049875",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "19xrZ",
+    "short_url": "https://pres.ly/19xrZ",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/medical-supply-distribution-poised-for-e-commerce-migration-17049875",
+    "views": 27
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Health Data Management",
+      "uid": "url:aa8ae2340b8f3d1772270adb4513cba2",
+      "url": "https://www.healthdatamanagement.com/news/breast-cancer-tool-improves-patient-knowledge-of-treatment-options"
+    },
+    "author": {},
+    "title": "Breast cancer tool improves patient knowledge of treatment options",
+    "description": "Interactive decision aid walks users systemically through key facts about surgery and chemotherapy.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/mom-and-girl.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0.04818912922906249, 0.9933333333333333, 0.8855768164170826 ],
+        "edited": true
+      }
+    },
+    "tags": [ "chemotherapy", "surgery", "patient" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17049862,
+    "hash": "f358575cc16617449e9da8be6627ba41",
+    "seq": 151784185368870,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 19,
+    "share_count": 0,
+    "created_at": "2018-02-05T14:44:13Z",
+    "updated_at": null,
+    "published_at": "2018-02-05T14:44:13Z",
+    "children": null,
+    "slug": "breast-cancer-tool-improves-patient-knowledge-of-treatment-options-17049862",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "19xrM",
+    "short_url": "https://pres.ly/19xrM",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/breast-cancer-tool-improves-patient-knowledge-of-treatment-options-17049862",
+    "views": 19
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Health Data Management",
+      "uid": "url:f4b240e16bc253e489cf059d5d3953a6",
+      "url": "https://www.healthdatamanagement.com/opinion/why-healthcare-interoperability-moves-at-a-snails-pace"
+    },
+    "author": {},
+    "title": "Why healthcare interoperability moves at a snail&apos;s pace",
+    "description": "Vendors need to move beyond theoretical demonstrations of data exchange so that providers can have it work in practice.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/macra-blog-2.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 0.9933333333333333, 0.8090016638935109 ],
+        "edited": true
+      }
+    },
+    "tags": [ "interoperability", "healthcare", "data" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17049851,
+    "hash": "2463efc9a65d7c8f1005a97538e22bf6",
+    "seq": 151784178750193,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 17,
+    "share_count": 0,
+    "created_at": "2018-02-05T14:43:07Z",
+    "updated_at": null,
+    "published_at": "2018-02-05T14:43:07Z",
+    "children": null,
+    "slug": "why-healthcare-interoperability-moves-at-a-snails-pace-17049851",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "19xrB",
+    "short_url": "https://pres.ly/19xrB",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/why-healthcare-interoperability-moves-at-a-snails-pace-17049851",
+    "views": 17
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Managed Healthcare Executive",
+      "uid": "url:4b608aa4819b4b41de7f5679a554f79f",
+      "url": "http://managedhealthcareexecutive.modernmedicine.com/managed-healthcare-executive/news/five-healthcare-technologies-likely-be-developed-next-10-years"
+    },
+    "author": {},
+    "title": "Five healthcare technologies likely to be developed in the next 10 years",
+    "description": "In the next decade, many of the concepts aiming to streamline the healthcare industry could be reality.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/guy-talking-at-table.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg"
+    },
+    "tags": [ "healthcare", "interoperability", "blockchain" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17049818,
+    "hash": "b01b6eacbfb8f5157ef6d769cc000a78",
+    "seq": 151784168544374,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 49,
+    "share_count": 0,
+    "created_at": "2018-02-05T14:41:25Z",
+    "updated_at": null,
+    "published_at": "2018-02-05T14:41:25Z",
+    "children": null,
+    "slug": "five-healthcare-technologies-likely-to-be-developed-in-the-next-10-years-17049818",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "19xr4",
+    "short_url": "https://pres.ly/19xr4",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/five-healthcare-technologies-likely-to-be-developed-in-the-next-10-years-17049818",
+    "views": 49
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:ad49d54392fdb8d9a0c1b9819a6e205f",
+      "url": "https://www.beckershospitalreview.com/ehrs/cms-requires-hospitals-use-online-portal-to-attest-to-ehr-incentive-programs.html"
+    },
+    "author": { "name": "Jessica Kim Cohen" },
+    "title": "CMS requires hospitals use online portal to attest to EHR incentive programs",
+    "description": "CMS requires hospitals use online portal to attest to EHR incentive programs CMS mandated Medicare-eligible hospitals. Learn more here!",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/doc-on-computer.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg"
+    },
+    "tags": [ "cms", "hospital", "ehr", "medicare", "medicaid" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17049771,
+    "hash": "4cd5b30788806284a72d420e8ea91f1c",
+    "seq": 151784153549094,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 11,
+    "share_count": 0,
+    "created_at": "2018-02-05T14:38:55Z",
+    "updated_at": null,
+    "published_at": "2018-02-05T14:38:55Z",
+    "children": null,
+    "slug": "cms-requires-hospitals-use-online-portal-to-attest-to-ehr-incentive-programs-17049771",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "19xqj",
+    "short_url": "https://pres.ly/19xqj",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/cms-requires-hospitals-use-online-portal-to-attest-to-ehr-incentive-programs-17049771",
+    "views": 11
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:b8e49e4bf5cd890222069790b30d6444",
+      "url": "https://www.beckershospitalreview.com/finance/millennials-sluggish-with-medical-bills-5-study-findings.html"
+    },
+    "author": { "name": "Kelly Gooch" },
+    "title": "5 studies find millennials are sluggish when it comes to medical bills",
+    "description": "Millennials sluggish with medical bills: 5 study findings Millennials tend to pay medical expenses at a slower rate than baby boomers or Generation X consumers.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/hikers.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg"
+    },
+    "tags": [ "medical", "medicalexpenses", "consumer" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 17049653,
+    "hash": "a5d4ac2bc5fd3e3c0c7985e97f2a088d",
+    "seq": 151784085652516,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2062,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 18,
+    "share_count": 0,
+    "created_at": "2018-02-05T14:27:36Z",
+    "updated_at": null,
+    "published_at": "2018-02-05T14:27:36Z",
+    "children": null,
+    "slug": "5-studies-find-millennials-are-sluggish-when-it-comes-to-medical-bills-17049653",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2062,
+      "name": "Hot Topics",
+      "tags": [],
+      "slug": "hot-topics"
+    },
+    "id_base62": "19xop",
+    "short_url": "https://pres.ly/19xop",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/5-studies-find-millennials-are-sluggish-when-it-comes-to-medical-bills-17049653",
+    "views": 18
+  }
+]

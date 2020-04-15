@@ -1,0 +1,75 @@
+[
+  {
+    "type": "post",
+    "content_hints": [ "text", "link" ],
+    "source": {
+      "uid": "url:4975ecd3684025c11dd4ab1d93e2ecdf",
+      "url": "http://www.beckershospitalreview.com/legal-regulatory-issues/5-ways-policy-management-improves-compliance.html"
+    },
+    "author": {},
+    "title": "5 ways policy management improves compliance",
+    "description": "Written by Saud Juman, CEO and Founder, PolicyMedical | Hospitals deal with numerous requirements from local, state and national regulatory bodies. These requirements set the standards for what is acceptable and unacceptable, while also giving hospitals valuable credentials and instilling a sense of trust with patients and the wider community.",
+    "body": "Written by Saud Juman, CEO and Founder, PolicyMedical | Hospitals deal with numerous requirements from local, state and national regulatory bodies. These requirements set the standards for what is acceptable and unacceptable, while also giving hospitals valuable credentials and instilling a sense of trust with patients and the wider community.",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/1442241557_55f6dbb74403abe14a01f105.png",
+      "width": 600,
+      "height": 450,
+      "format": "png"
+    },
+    "tags": [],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 93234,
+    "hash": "e553174ab02bee26e0c1032a2187f658",
+    "seq": 145581656874354,
+    "hub_id": 1101,
+    "user_id": 1728,
+    "collection_id": 3218,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 0,
+    "share_count": 0,
+    "created_at": "2015-09-14T14:37:43.92Z",
+    "updated_at": "2017-07-11T20:08:21Z",
+    "published_at": "2015-09-14T14:37:43.92Z",
+    "children": null,
+    "slug": "5-ways-policy-management-improves-compliance-93234",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 1728,
+      "username": "nthrive",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/c5be21305094ade4d7b8dae4cc6f3888.png"
+    },
+    "collection": {
+      "id": 3218,
+      "name": "Staff Enablement &amp; Education",
+      "tags": [],
+      "slug": "staff-enablement-and-education"
+    },
+    "id_base62": "ofM",
+    "short_url": "https://pres.ly/ofM",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/5-ways-policy-management-improves-compliance-93234",
+    "views": 0
+  }
+]

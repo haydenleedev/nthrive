@@ -1,0 +1,2358 @@
+[
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:d620ea98f9616a528197c1485e699587",
+      "url": "https://www.nthrive.com/solutions/middle/health-information-management-him"
+    },
+    "author": { "name": "nThrive" },
+    "title": "Join nThrive at 2018 PHIMA 80th Annual Meeting!",
+    "description": "nThrive's health information management (HIM) outsourcing services and technology solutions are designed to help hospital systems and health care providers improve quality, productivity and cash flow in HIM departments.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/pablo-(1).png",
+      "width": 1024,
+      "height": 512,
+      "format": "png",
+      "etc": {
+        "box": [ 0.1488888888888888, 0, 0.8155555555555554, 1 ],
+        "edited": true
+      }
+    },
+    "tags": [ "him", "revenueintegrity", "revenue", "revenuecycle" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 22554752,
+    "hash": "c8cfab91fb8515b527db44c6f4ab1107",
+    "seq": 152691528404629,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2956,
+    "status": "published",
+    "like_count": 1,
+    "comment_count": 0,
+    "view_count": 21,
+    "share_count": 0,
+    "created_at": "2018-05-21T15:08:04Z",
+    "updated_at": "2018-05-21T15:21:37Z",
+    "published_at": "2018-05-21T15:08:04Z",
+    "children": null,
+    "slug": "join-nthrive-at-2018-phima-80th-annual-meeting-22554752",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2956,
+      "name": "HIM &amp; Clinical Engagement",
+      "tags": [],
+      "slug": "him-and-clinical-engagement"
+    },
+    "id_base62": "1wDwk",
+    "short_url": "https://pres.ly/1wDwk",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/join-nthrive-at-2018-phima-80th-annual-meeting-22554752",
+    "views": 21
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:5c96a1cb8522a1b4f1b89a874463678f",
+      "url": "https://www.nthrive.com/blog/why-clinical-data-integrity-matters-for-macra-success"
+    },
+    "author": { "name": "nThrive" },
+    "title": "Learn Why Clinical Data Integrity Matters for MACRA Success",
+    "description": "With so much emphasis on how to report MACRA QPP data, it's easy to lose sight on what to report and your clinical documentation and data integrity. Learn more in this blog and webinar recap.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/6th-2.png",
+      "width": 1024,
+      "height": 512,
+      "format": "png",
+      "etc": {
+        "box": null,
+        "edited": true
+      }
+    },
+    "tags": [ "clinicaldataintegrity", "data", "macra", "qpp", "clinicaldocumentationimprovement" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 22145604,
+    "hash": "7b2a6e2432da44cfd2bc2dae5579796a",
+    "seq": 152449402842202,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2956,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 33,
+    "share_count": 0,
+    "created_at": "2018-04-23T14:33:48Z",
+    "updated_at": null,
+    "published_at": "2018-04-23T14:33:48Z",
+    "children": null,
+    "slug": "learn-why-clinical-data-integrity-matters-for-macra-success-22145604",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2956,
+      "name": "HIM &amp; Clinical Engagement",
+      "tags": [],
+      "slug": "him-and-clinical-engagement"
+    },
+    "id_base62": "1uV5a",
+    "short_url": "https://pres.ly/1uV5a",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/learn-why-clinical-data-integrity-matters-for-macra-success-22145604",
+    "views": 33
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:d620ea98f9616a528197c1485e699587",
+      "url": "https://www.nthrive.com/solutions/middle/health-information-management-him"
+    },
+    "author": { "name": "nThrive" },
+    "title": "nThrive recognizes the hard work of HIM professionals",
+    "description": "nThrive's HIM interim management and HIM department outsourcing abilities deliver proven results of greater financial performance and increased revenue.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/HIM-2.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0.15700221852468121, 1, 0.9943899057127014 ],
+        "edited": true
+      }
+    },
+    "tags": [ "him", "himtechnology" ],
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 19075416,
+    "hash": "fd15e5ca37000a464e64fda45eca688e",
+    "seq": 152156128587242,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2956,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 55,
+    "share_count": 0,
+    "created_at": "2018-03-20T15:54:45Z",
+    "updated_at": "2018-03-21T15:38:45Z",
+    "published_at": "2018-03-20T15:54:45Z",
+    "children": null,
+    "slug": "nthrive-recognizes-the-hard-work-of-him-professionals-19075416",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2956,
+      "name": "HIM &amp; Clinical Engagement",
+      "tags": [],
+      "slug": "him-and-clinical-engagement"
+    },
+    "id_base62": "1i2o0",
+    "short_url": "https://pres.ly/1i2o0",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/nthrive-recognizes-the-hard-work-of-him-professionals-19075416",
+    "views": 55
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:53250bbe1eaa7cd5f2a01cfb38564ca1",
+      "url": "https://www.nthrive.com/blog/three-tips-to-manage-clinical-denials"
+    },
+    "author": { "name": "nThrive" },
+    "title": "Three Tips to Manage Clinical Denials",
+    "description": "Clinical denials can be difficult to manage. Learn three tips for managing major payor denial reasons such as medical necessity or no authorization.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/70bca550f6e41990b8dd34749ff68071.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 12278352,
+    "hash": "de12362d6bd3203d4893b0c4ccca238c",
+    "seq": 150824965043333,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2956,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 86,
+    "share_count": 0,
+    "created_at": "2017-10-17T14:14:10Z",
+    "updated_at": null,
+    "published_at": "2017-10-17T14:14:10Z",
+    "children": null,
+    "slug": "three-tips-to-manage-clinical-denials-12278352",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2956,
+      "name": "HIM &amp; Clinical Engagement",
+      "tags": [],
+      "slug": "him-and-clinical-engagement"
+    },
+    "id_base62": "Pw9W",
+    "short_url": "https://pres.ly/Pw9W",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/three-tips-to-manage-clinical-denials-12278352",
+    "views": 86
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "network": "Clinical Innovation + Technology",
+      "uid": "url:457addbca51b96846fe9b14981488842",
+      "url": "http://www.clinical-innovation.com/topics/policy/ahima17-macra-%E2%80%98tremendous-opportunity%E2%80%99-him"
+    },
+    "author": {},
+    "title": "MACRA is &apos;tremendous opportunity&apos; for HIM",
+    "description": "Bonnie Cassidy, MPA, principal of advisory services at nThrive and former president and chair of the American Health Information Management Association (AHIMA), recaps her MACRA presentation at AHIMA.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/Tech-people(1).jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 12276117,
+    "hash": "1b67a0984390453abe6597f24e0b06a3",
+    "seq": 150824716284897,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2956,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 50,
+    "share_count": 0,
+    "created_at": "2017-10-17T13:32:42Z",
+    "updated_at": "2017-11-27T19:36:31Z",
+    "published_at": "2017-10-17T13:32:42Z",
+    "children": null,
+    "slug": "macra-is-tremendous-opportunity-for-him-12276117",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2956,
+      "name": "HIM &amp; Clinical Engagement",
+      "tags": [],
+      "slug": "him-and-clinical-engagement"
+    },
+    "id_base62": "PvzT",
+    "short_url": "https://pres.ly/PvzT",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/macra-is-tremendous-opportunity-for-him-12276117",
+    "views": 50
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:e21ae2e962ef54c85a73f307a61717f6",
+      "url": "http://www.prnewswire.com/news-releases/nthrive-announces-rebrand-of-clinical-documentation-improvement-and-education-solutions-at-the-2017-ahima-convention-300533155.html"
+    },
+    "author": { "name": "nThrive" },
+    "title": "nThrive Announces Rebrand of Clinical Documentation Improvement and Education Solutions at the 2017 AHIMA Convention",
+    "description": "Stop by the nThrive booth #523 to learn about the rebrand of Clinical Documentation Improvement and Education Solutions",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/8a7b93a9b8cd9295cb4eeee82d32f8cf.png",
+      "width": 720,
+      "height": 405,
+      "format": "png",
+      "etc": {
+        "box": [ 0.021071428571428574, 0, 0.9853571428571428, 0.9885714285714285 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 11501215,
+    "hash": "19a191a383eb18647b978f0d08f38a29",
+    "seq": 150756778311884,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2956,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 37,
+    "share_count": 0,
+    "created_at": "2017-10-09T16:49:43Z",
+    "updated_at": null,
+    "published_at": "2017-10-09T16:49:43Z",
+    "children": null,
+    "slug": "nthrive-announces-rebrand-of-clinical-documentation-improvement-and-education-so-11501215",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2956,
+      "name": "HIM &amp; Clinical Engagement",
+      "tags": [],
+      "slug": "him-and-clinical-engagement"
+    },
+    "id_base62": "MfZt",
+    "short_url": "https://pres.ly/MfZt",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/nthrive-announces-rebrand-of-clinical-documentation-improvement-and-education-so-11501215",
+    "views": 37
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:3ac94870347c02163117e68e599a6409",
+      "url": "http://www.prnewswire.com/news-releases/nthrive-education-and-solutions-to-be-featured-at-the-2017-ahima-convention-300532978.html"
+    },
+    "author": { "name": "nThrive" },
+    "title": "nThrive Education and Solutions to be Featured at the 2017 AHIMA Convention",
+    "description": "Stop by booth #523 to learn more about nThrive's education and HIM solutions",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/5f35a38d8b1365e20aa6bae635b0e35c.png",
+      "width": 720,
+      "height": 405,
+      "format": "png",
+      "etc": {
+        "box": null,
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 11500667,
+    "hash": "de1bda108019d73f0ef345ddbbe18ad9",
+    "seq": 150756752564959,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2956,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 16,
+    "share_count": 0,
+    "created_at": "2017-10-09T16:45:25Z",
+    "updated_at": null,
+    "published_at": "2017-10-09T16:45:25Z",
+    "children": null,
+    "slug": "nthrive-education-and-solutions-to-be-featured-at-the-2017-ahima-convention-11500667",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2956,
+      "name": "HIM &amp; Clinical Engagement",
+      "tags": [],
+      "slug": "him-and-clinical-engagement"
+    },
+    "id_base62": "MfQD",
+    "short_url": "https://pres.ly/MfQD",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/nthrive-education-and-solutions-to-be-featured-at-the-2017-ahima-convention-11500667",
+    "views": 16
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:b819eb8d0d798ef56e7c1399c3c03e58",
+      "url": "http://bit.ly/2yvwM5Q"
+    },
+    "author": { "name": "Andrew Woughter, Senior Vice President of Product Strategy" },
+    "title": "&quot;I want my CDI:&quot; Five real risks without clinical documentation improvement",
+    "description": "Andrew Woughter, Senior Vice President for Product Strategy at nThrive, provides five risks that could happen without CDI. ",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/man-on-phone(2).jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg"
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 11486339,
+    "hash": "1cab2de8ce7fd0339c52a9bf76104b22",
+    "seq": 150755943857022,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2956,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 37,
+    "share_count": 0,
+    "created_at": "2017-10-09T14:30:38Z",
+    "updated_at": null,
+    "published_at": "2017-10-09T14:30:38Z",
+    "children": null,
+    "slug": "i-want-my-cdi-five-real-risks-without-clinical-documentation-improvement-11486339",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2956,
+      "name": "HIM &amp; Clinical Engagement",
+      "tags": [],
+      "slug": "him-and-clinical-engagement"
+    },
+    "id_base62": "Mc7x",
+    "short_url": "https://pres.ly/Mc7x",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/i-want-my-cdi-five-real-risks-without-clinical-documentation-improvement-11486339",
+    "views": 37
+  },
+  {
+    "type": "post",
+    "content_hints": [ "text", "link", "widget" ],
+    "source": {
+      "network": "Healthcare IT News",
+      "uid": "url:8de9f91e67006242e678bb9cf6d278d8",
+      "url": "http://www.healthcareitnews.com/news/how-improve-clinical-documentation"
+    },
+    "author": {},
+    "title": "How to Improve Clinical Documentation",
+    "description": "Denise Johnson, Vice President of HIM Integrated Services at nThrive, weighs in on the importance of focusing on the right metrics while working toward greater buy-in from doctors.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/29e2535caf49d688a5c586d8f0005f64.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0.037848031059345644, 1, 0.856311702717693 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 10925818,
+    "hash": "0e8417397d3a8241fd929051cbfd3df1",
+    "seq": 150695232815955,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2956,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 79,
+    "share_count": 0,
+    "created_at": "2017-10-02T13:52:08Z",
+    "updated_at": "2017-11-15T16:03:31Z",
+    "published_at": "2017-10-02T13:52:08Z",
+    "children": null,
+    "slug": "how-to-improve-clinical-documentation-10925818",
+    "meta_title": "How to Improve Clinical Documentation | News Hub",
+    "meta_description": "Denise Johnson, Vice President of HIM Integrated Services at nThrive, weighs in on the importance of focusing on the right metrics while working toward greater buy-in from doctors.",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2956,
+      "name": "HIM &amp; Clinical Engagement",
+      "tags": [],
+      "slug": "him-and-clinical-engagement"
+    },
+    "id_base62": "JQiS",
+    "short_url": "https://pres.ly/JQiS",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/how-to-improve-clinical-documentation-10925818",
+    "views": 79
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:9bf3695385f6ecf8286b059cc3d5626a",
+      "url": "https://www.nthrive.com/blog/are-there-hidden-clinical-documentation-improvement-problems-crushing-your-bottom-line"
+    },
+    "author": { "name": "nThrive" },
+    "title": "Improving Clinical Documentation: 4 CDI Problems Affecting Revenue",
+    "description": "Discover the four problems in clinical documentation improvement (CDI) that could be holding you back from collecting the reimbursement to which you are entitled.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/210937065dd2df29f46c1f6367cbcc29.jpg",
+      "width": 595,
+      "height": 404,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.849298679867987 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 10924595,
+    "hash": "c3b5e95a2d8fdea247df0bbc9f8db921",
+    "seq": 150695029505833,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 2956,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 67,
+    "share_count": 0,
+    "created_at": "2017-10-02T13:18:15Z",
+    "updated_at": "2017-10-02T13:18:36Z",
+    "published_at": "2017-10-02T13:18:15Z",
+    "children": null,
+    "slug": "improving-clinical-documentation-4-cdi-problems-affecting-revenue-10924595",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 2956,
+      "name": "HIM &amp; Clinical Engagement",
+      "tags": [],
+      "slug": "him-and-clinical-engagement"
+    },
+    "id_base62": "JPZ9",
+    "short_url": "https://pres.ly/JPZ9",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/improving-clinical-documentation-4-cdi-problems-affecting-revenue-10924595",
+    "views": 67
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text" ],
+    "source": {
+      "hash": "6516dbeafb2ad5601222a8ddf0795684",
+      "network": "EHRIntelligence",
+      "uid": "url:b314ec485da504d009f6865a372a61b5",
+      "url": "https://ehrintelligence.com/news/rethinking-current-approaches-to-health-it-interoperability"
+    },
+    "author": {},
+    "title": "Rethinking Current Approaches to Health IT Interoperability",
+    "description": "Achieving true interoperability will require healthcare organizations to connect their health IT infrastructure to a larger network than their own.",
+    "body": "Achieving true interoperability will require healthcare organizations to connect their health IT infrastructure to a larger network than their own.",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/2017-01-11-networking-cables.gif",
+      "width": 690,
+      "height": 425,
+      "format": "gif"
+    },
+    "tags": [ "interoperability" ],
+    "media": null,
+    "oembed": {},
+    "etc": {},
+    "id": 4259733,
+    "hash": "6516dbeafb2ad5601222a8ddf0795684",
+    "seq": 148607435062482,
+    "hub_id": 1101,
+    "user_id": 1376,
+    "collection_id": 2956,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 35,
+    "share_count": 7,
+    "created_at": "2017-02-02T22:25:50Z",
+    "updated_at": "2017-07-11T19:55:27Z",
+    "published_at": "2017-02-02T22:25:50Z",
+    "children": null,
+    "slug": "rethinking-current-approaches-to-health-it-interoperability-4259733",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 1376,
+      "username": "nthrivehub",
+      "name": "nThrive Hub",
+      "avatar_url": "https://cdn.pressly.com/clients/Pressly/static/default-user-avatar.png"
+    },
+    "collection": {
+      "id": 2956,
+      "name": "HIM &amp; Clinical Engagement",
+      "tags": [],
+      "slug": "him-and-clinical-engagement"
+    },
+    "id_base62": "hS9n",
+    "short_url": "https://pres.ly/hS9n",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/rethinking-current-approaches-to-health-it-interoperability-4259733",
+    "views": 35
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link" ],
+    "source": {
+      "hash": "e9c3892a90004d32a93c6e8d31137084",
+      "network": "Healthcare-informatics",
+      "uid": "url:525c7f780a3791c5b80b85c9e8a89ebe",
+      "url": "http://www.healthcare-informatics.com/article/value-based-care-yes-there-low-hanging-fruit"
+    },
+    "author": {},
+    "title": "Value-Based Care: Yes, There Is Low-Hanging Fruit",
+    "description": "Most have a broad set of responsibilities that span information systems management, infrastructure upgrades, health data security and patient engagement. Typically they are also challenged by overarching dynamics that characterize the healthcare industry, including the rapid pace of change, an uncertain regulatory environment, physician fatigue and burnout, an increase in data breaches, the consumerization of healthcare, an upsurge in mergers and acquisitions, and more.",
+    "body": "Most have a broad set of responsibilities that span information systems management, infrastructure upgrades, health data security and patient engagement. Typically they are also challenged by overarching dynamics that characterize the healthcare industry, including the rapid pace of change, an uncertain regulatory environment, physician fatigue and burnout, an increase in data breaches, the consumerization of healthcare, an upsurge in mergers and acquisitions, and more.",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/d40208f5154d5267be1e5a0c37f3d3d4.jpg",
+      "width": 640,
+      "height": 427,
+      "format": "jpg",
+      "etc": {
+        "alt": "",
+        "box": [ 0, 0.0195, 1, 0.9319 ],
+        "edited": true,
+        "focal_point": {}
+      }
+    },
+    "tags": [ "valuebasedcare" ],
+    "media": null,
+    "oembed": {},
+    "etc": {},
+    "id": 4259710,
+    "hash": "0f4b906f3d7b343e46901388aed96e3d",
+    "seq": 148607376095501,
+    "hub_id": 1101,
+    "user_id": 1376,
+    "collection_id": 2956,
+    "status": "published",
+    "like_count": 1,
+    "comment_count": 0,
+    "view_count": 82,
+    "share_count": 8,
+    "created_at": "2017-02-02T22:16:00Z",
+    "updated_at": "2017-02-03T15:06:12Z",
+    "published_at": "2017-02-02T22:16:00Z",
+    "children": null,
+    "slug": "value-based-care-yes-there-is-low-hanging-fruit-4259710",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 1376,
+      "username": "nthrivehub",
+      "name": "nThrive Hub",
+      "avatar_url": "https://cdn.pressly.com/clients/Pressly/static/default-user-avatar.png"
+    },
+    "collection": {
+      "id": 2956,
+      "name": "HIM &amp; Clinical Engagement",
+      "tags": [],
+      "slug": "him-and-clinical-engagement"
+    },
+    "id_base62": "hS90",
+    "short_url": "https://pres.ly/hS90",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/value-based-care-yes-there-is-low-hanging-fruit-4259710",
+    "views": 82
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link" ],
+    "source": {
+      "hash": "c53d713ffba3b17846160a7d543fe33a",
+      "network": "Modern Healthcare",
+      "uid": "url:b6319e395be6373171e286d59968c6a6",
+      "url": "http://www.modernhealthcare.com/article/20170123/NEWS/170129981/kpmg-survey-finds-50-of-providers-receive-value-based-reimbursement"
+    },
+    "author": {},
+    "title": "KPMG survey finds 50% of health systems receive value-based reimbursement",
+    "description": "Half of healthcare systems get some or most of their reimbursement under contracts that put them at risk for the cost and quality of care, according to a new KPMG survey. The results are somewhat more upbeat than a Modern Healthcare survey last June.",
+    "body": "Half of healthcare systems get some or most of their reimbursement under contracts that put them at risk for the cost and quality of care, according to a new KPMG survey. The results are somewhat more upbeat than a Modern Healthcare survey last June.",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/56844b6246454eeec18c12c9f30fa195.jpg",
+      "width": 640,
+      "height": 427,
+      "format": "jpg",
+      "etc": {
+        "alt": "",
+        "box": [ 0, 0.0877, 1, 1 ],
+        "edited": true,
+        "focal_point": {}
+      }
+    },
+    "tags": [ "valuebasedcare", "reimbursement" ],
+    "media": null,
+    "oembed": {},
+    "etc": {},
+    "id": 4213772,
+    "hash": "c53d713ffba3b17846160a7d543fe33a",
+    "seq": 148529847011260,
+    "hub_id": 1101,
+    "user_id": 1376,
+    "collection_id": 2956,
+    "status": "published",
+    "like_count": 1,
+    "comment_count": 0,
+    "view_count": 77,
+    "share_count": 1,
+    "created_at": "2017-01-24T22:54:30Z",
+    "updated_at": "2017-02-03T15:06:12Z",
+    "published_at": "2017-01-24T22:54:30Z",
+    "children": null,
+    "slug": "kpmg-survey-finds-50-of-health-systems-receive-value-based-reimbursement-4213772",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 1376,
+      "username": "nthrivehub",
+      "name": "nThrive Hub",
+      "avatar_url": "https://cdn.pressly.com/clients/Pressly/static/default-user-avatar.png"
+    },
+    "collection": {
+      "id": 2956,
+      "name": "HIM &amp; Clinical Engagement",
+      "tags": [],
+      "slug": "him-and-clinical-engagement"
+    },
+    "id_base62": "hGc4",
+    "short_url": "https://pres.ly/hGc4",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/kpmg-survey-finds-50-of-health-systems-receive-value-based-reimbursement-4213772",
+    "views": 77
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link" ],
+    "source": {
+      "hash": "d946543d692eca7cc85ad1b965c0ae1f",
+      "network": "HealthPayerIntelligence",
+      "uid": "url:f37763bc89289e18e78840ec0b0e38b5",
+      "url": "http://healthpayerintelligence.com/news/3-ways-bundled-payment-models-brought-hospital-cost-savings"
+    },
+    "author": {},
+    "title": "3 Ways Bundled Payment Models Brought Hospital Cost Savings",
+    "description": "Case studies of bundled payment models show significant cost savings among hospitals and both public and private health insurers.",
+    "body": "Case studies of bundled payment models show significant cost savings among hospitals and both public and private health insurers.",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/ACA_Healthcare_Photo.jpg",
+      "width": 700,
+      "height": 466,
+      "format": "jpg"
+    },
+    "tags": [ "bundledpayments", "paymentmodels" ],
+    "media": null,
+    "oembed": {},
+    "etc": {},
+    "id": 4154452,
+    "hash": "d946543d692eca7cc85ad1b965c0ae1f",
+    "seq": 148466283534315,
+    "hub_id": 1101,
+    "user_id": 1376,
+    "collection_id": 2956,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 61,
+    "share_count": 0,
+    "created_at": "2017-01-17T14:20:35Z",
+    "updated_at": "2017-02-03T15:06:12Z",
+    "published_at": "2017-01-17T14:20:35Z",
+    "children": null,
+    "slug": "3-ways-bundled-payment-models-brought-hospital-cost-savings-4154452",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 1376,
+      "username": "nthrivehub",
+      "name": "nThrive Hub",
+      "avatar_url": "https://cdn.pressly.com/clients/Pressly/static/default-user-avatar.png"
+    },
+    "collection": {
+      "id": 2956,
+      "name": "HIM &amp; Clinical Engagement",
+      "tags": [],
+      "slug": "him-and-clinical-engagement"
+    },
+    "id_base62": "hqLi",
+    "short_url": "https://pres.ly/hqLi",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/3-ways-bundled-payment-models-brought-hospital-cost-savings-4154452",
+    "views": 61
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link" ],
+    "source": {
+      "hash": "5aa7a4ce7864be49dd20c1a9fb8d0150",
+      "network": "HealthPayerIntelligence",
+      "uid": "url:62438a6b4a392f274475026f311c56c1",
+      "url": "http://healthpayerintelligence.com/news/why-healthcare-bundled-payment-models-may-expand-in-2017"
+    },
+    "author": {},
+    "title": "Why Healthcare Bundled Payment Models May Expand in 2017",
+    "description": "CMS has advanced bundled payment models by implementing these value-based payment structures in orthopedic and cardiac care.",
+    "body": "CMS has advanced bundled payment models by implementing these <a href=\"https://www.nthrive.com/solutions/value-based-care/\" target=\"_blank\" >value-based payment</a> structures in orthopedic and cardiac care.",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/3211029772fd7958c62d4d1162f7c763.jpg",
+      "width": 640,
+      "height": 427,
+      "format": "jpg",
+      "etc": {
+        "alt": "",
+        "box": [ 0.0283, 0, 0.9717, 0.8607 ],
+        "edited": true,
+        "focal_point": {}
+      }
+    },
+    "tags": [],
+    "media": null,
+    "oembed": {},
+    "etc": {},
+    "id": 4124405,
+    "hash": "5aa7a4ce7864be49dd20c1a9fb8d0150",
+    "seq": 148426919300881,
+    "hub_id": 1101,
+    "user_id": 1376,
+    "collection_id": 2956,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 36,
+    "share_count": 0,
+    "created_at": "2017-01-13T00:59:53Z",
+    "updated_at": "2017-02-03T15:06:12Z",
+    "published_at": "2017-01-13T00:59:53Z",
+    "children": null,
+    "slug": "why-healthcare-bundled-payment-models-may-expand-in-2017-4124405",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 1376,
+      "username": "nthrivehub",
+      "name": "nThrive Hub",
+      "avatar_url": "https://cdn.pressly.com/clients/Pressly/static/default-user-avatar.png"
+    },
+    "collection": {
+      "id": 2956,
+      "name": "HIM &amp; Clinical Engagement",
+      "tags": [],
+      "slug": "him-and-clinical-engagement"
+    },
+    "id_base62": "hiWF",
+    "short_url": "https://pres.ly/hiWF",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/why-healthcare-bundled-payment-models-may-expand-in-2017-4124405",
+    "views": 36
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text" ],
+    "source": {
+      "hash": "d90566059506580d1395b12d7c0004c0",
+      "network": "HealthITInteroperability",
+      "uid": "url:56968ccc52b56c0b5ce29087d5b8bdcb",
+      "url": "http://healthitinteroperability.com/news/health-information-exchange-partnerships-improve-data-sharing"
+    },
+    "author": {},
+    "title": "Health Information Exchange Partnerships Improve Data Sharing",
+    "description": "Newly formed partnerships between health information exchange networks and health plan organizations will improve interoperability across the country.",
+    "body": "Newly formed partnerships between health information exchange networks and health plan organizations will improve interoperability across the country.",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/ee16466f70f0783f5885f22aaaf761f1.jpg",
+      "width": 640,
+      "height": 427,
+      "format": "jpg",
+      "etc": {
+        "alt": "",
+        "box": [ 0, 0, 1, 0.9123 ],
+        "edited": true,
+        "focal_point": {}
+      }
+    },
+    "tags": [],
+    "media": null,
+    "oembed": {},
+    "etc": {},
+    "id": 4093945,
+    "hash": "d90566059506580d1395b12d7c0004c0",
+    "seq": 148398669976370,
+    "hub_id": 1101,
+    "user_id": 1376,
+    "collection_id": 2956,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 6,
+    "share_count": 0,
+    "created_at": "2017-01-09T18:31:39Z",
+    "updated_at": "2017-07-11T19:55:21Z",
+    "published_at": "2017-01-09T18:31:39Z",
+    "children": null,
+    "slug": "health-information-exchange-partnerships-improve-data-sharing-4093945",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 1376,
+      "username": "nthrivehub",
+      "name": "nThrive Hub",
+      "avatar_url": "https://cdn.pressly.com/clients/Pressly/static/default-user-avatar.png"
+    },
+    "collection": {
+      "id": 2956,
+      "name": "HIM &amp; Clinical Engagement",
+      "tags": [],
+      "slug": "him-and-clinical-engagement"
+    },
+    "id_base62": "hb1n",
+    "short_url": "https://pres.ly/hb1n",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/health-information-exchange-partnerships-improve-data-sharing-4093945",
+    "views": 6
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text" ],
+    "source": {
+      "hash": "d705ba5a27c4c3ac7b730e493cfb7e49",
+      "network": "Health Data Management",
+      "uid": "url:6c80e3216a311f4370ccd3df01b4e3df",
+      "url": "http://www.healthdatamanagement.com/opinion/five-certainties-to-drive-healthcare-it-strategy-in-the-new-year"
+    },
+    "author": {},
+    "title": "Five certainties to drive healthcare IT strategy in the New Year",
+    "description": "As a new administration comes to Washington, uncertainty about the nation&apos;s healthcare direction is prevalent, but there are trends that we all can count on in 2017.",
+    "body": "As a new administration comes to Washington, uncertainty about the nation&apos;s healthcare direction is prevalent, but there are trends that we all can count on in 2017.",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/5a02baef97a3ac05b28bdda56f26151c.jpg",
+      "width": 640,
+      "height": 427,
+      "format": "jpg",
+      "etc": {
+        "alt": "",
+        "box": [ 0, 0, 1, 0.9123 ],
+        "edited": true,
+        "focal_point": {}
+      }
+    },
+    "tags": [ "hit" ],
+    "media": null,
+    "oembed": {},
+    "etc": {},
+    "id": 4050065,
+    "hash": "d705ba5a27c4c3ac7b730e493cfb7e49",
+    "seq": 148346343270369,
+    "hub_id": 1101,
+    "user_id": 1376,
+    "collection_id": 2956,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 9,
+    "share_count": 0,
+    "created_at": "2017-01-03T17:10:32Z",
+    "updated_at": "2017-07-11T19:55:05Z",
+    "published_at": "2017-01-03T17:10:32Z",
+    "children": null,
+    "slug": "five-certainties-to-drive-healthcare-it-strategy-in-the-new-year-4050065",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 1376,
+      "username": "nthrivehub",
+      "name": "nThrive Hub",
+      "avatar_url": "https://cdn.pressly.com/clients/Pressly/static/default-user-avatar.png"
+    },
+    "collection": {
+      "id": 2956,
+      "name": "HIM &amp; Clinical Engagement",
+      "tags": [],
+      "slug": "him-and-clinical-engagement"
+    },
+    "id_base62": "gZBD",
+    "short_url": "https://pres.ly/gZBD",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/five-certainties-to-drive-healthcare-it-strategy-in-the-new-year-4050065",
+    "views": 9
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link" ],
+    "source": {
+      "hash": "4d52a27557f36412a7fabacf801b6d6c",
+      "network": "HealthITInteroperability",
+      "uid": "url:7481dc1ff884e35030327eb8e3f3af42",
+      "url": "http://healthitinteroperability.com/news/survey-shows-interoperability-essential-in-value-based-care"
+    },
+    "author": {},
+    "title": "Survey Shows Interoperability Essential in Value-Based Care",
+    "description": "eHealth outlines 9 trends in interoperability in a recent survey.",
+    "body": "eHealth outlines 9 trends in interoperability in a recent survey.",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/index-17-2.jpg",
+      "width": 180,
+      "height": 180,
+      "format": "jpg"
+    },
+    "tags": [ "interoperability", "valuebasedcare" ],
+    "media": null,
+    "oembed": {},
+    "etc": {},
+    "id": 4045106,
+    "hash": "4d52a27557f36412a7fabacf801b6d6c",
+    "seq": 148340590475408,
+    "hub_id": 1101,
+    "user_id": 1376,
+    "collection_id": 2956,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 17,
+    "share_count": 0,
+    "created_at": "2017-01-03T01:11:44Z",
+    "updated_at": "2017-02-03T15:06:12Z",
+    "published_at": "2017-01-03T01:11:44Z",
+    "children": null,
+    "slug": "survey-shows-interoperability-essential-in-value-based-care-4045106",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 1376,
+      "username": "nthrivehub",
+      "name": "nThrive Hub",
+      "avatar_url": "https://cdn.pressly.com/clients/Pressly/static/default-user-avatar.png"
+    },
+    "collection": {
+      "id": 2956,
+      "name": "HIM &amp; Clinical Engagement",
+      "tags": [],
+      "slug": "him-and-clinical-engagement"
+    },
+    "id_base62": "gYjE",
+    "short_url": "https://pres.ly/gYjE",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/survey-shows-interoperability-essential-in-value-based-care-4045106",
+    "views": 17
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text" ],
+    "source": {
+      "hash": "db6870d4f3e4d6732595dbf835235a61",
+      "network": "AJMC",
+      "uid": "url:bd2ac4c4d623e0059806cb171f7f8be1",
+      "url": "http://www.ajmc.com/newsroom/cms-announces-additional-mandatory-bundled-payment-models-aco-track-1"
+    },
+    "author": {},
+    "title": "CMS announces additional mandatory bundled payments in cardiac care and the anticipated Track 1+ ACO model",
+    "description": "CMS is moving full-steam ahead with the transition to value-based care. On Tuesday, the agency announced 3 new bundled payment models in cardiac care, an expansion on the Comprehensive Care for Joint Replacement Model, and the highly anticipated new track in the Medicare Shared Savings Program.",
+    "body": "CMS is moving full-steam ahead with the transition to <a href=\"https://www.nthrive.com/solutions/value-based-care/\" target=\"_blank\" >value-based care</a>. On Tuesday, the agency announced 3 new bundled payment models in cardiac care, an expansion on the Comprehensive Care for Joint Replacement Model, and the highly anticipated new track in the Medicare Shared Savings Program.",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/118ba05b95070d9bdbd933924752a62b.jpg",
+      "width": 640,
+      "height": 427,
+      "format": "jpg",
+      "etc": {
+        "alt": "",
+        "box": [ 0, 0.0847, 1, 0.997 ],
+        "edited": true,
+        "focal_point": {}
+      }
+    },
+    "tags": [ "bundledpayments", "cms" ],
+    "media": null,
+    "oembed": {},
+    "etc": {},
+    "id": 3985490,
+    "hash": "db6870d4f3e4d6732595dbf835235a61",
+    "seq": 148251149742303,
+    "hub_id": 1101,
+    "user_id": 1376,
+    "collection_id": 2956,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 70,
+    "share_count": 0,
+    "created_at": "2016-12-23T16:44:57Z",
+    "updated_at": "2017-03-23T01:48:51Z",
+    "published_at": "2016-12-23T16:44:57Z",
+    "children": null,
+    "slug": "cms-announces-additional-mandatory-bundled-payments-in-cardiac-care-and-the-anti-3985490",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 1376,
+      "username": "nthrivehub",
+      "name": "nThrive Hub",
+      "avatar_url": "https://cdn.pressly.com/clients/Pressly/static/default-user-avatar.png"
+    },
+    "collection": {
+      "id": 2956,
+      "name": "HIM &amp; Clinical Engagement",
+      "tags": [],
+      "slug": "him-and-clinical-engagement"
+    },
+    "id_base62": "gIO6",
+    "short_url": "https://pres.ly/gIO6",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/cms-announces-additional-mandatory-bundled-payments-in-cardiac-care-and-the-anti-3985490",
+    "views": 70
+  },
+  {
+    "type": "post",
+    "content_hints": [ "text", "link" ],
+    "source": {
+      "hash": "981810ffed1fdd83bf606b6fa47bf812",
+      "network": "Beckersasc",
+      "uid": "url:32dbe1c1a990336769aadc297b7fabce",
+      "url": "http://www.beckersasc.com/asc-coding-billing-and-collections/macra-patient-engagement-cheat-sheet-no-4-patient-engagement-strategies-for-bundled-payments.html"
+    },
+    "author": { "name": "Mark Heaney, founding partner, Get Real Health in Rockville, Md." },
+    "title": "MACRA patient engagement cheat sheet No. 4: Patient engagement strategies for bundled payments",
+    "description": "Bundled payment programs are a type of value-based care program that have become much more significant with the emergence of the Medicare Access and CHIP Reauthorization Act. For the first time, a bundled payment program, the Comprehensive Care for Joint Replacement initiative, is mandatory for some providers rather than just optional. CMS has signaled that this is the beginning, not the end, of mandatory payment bundling for specific episodes of care. Also, on the private payer front, payment bundling is rapidly gaining interest. Boeing and United Airlines have negotiated specific bundled payment programs with certain providers, and other private payers and large employer groups are doing the same.",
+    "body": "Bundled payment programs are a type of value-based care program that have become much more significant with the emergence of the Medicare Access and CHIP Reauthorization Act. For the first time, a bundled payment program, the <a href=\"http://go.nthrive.com/cjr.html\" target=\"_blank\" >Comprehensive Care for Joint Replacement</a> initiative, is mandatory for some providers rather than just optional. CMS has signaled that this is the beginning, not the end, of mandatory payment bundling for specific episodes of care. Also, on the private payer front, payment bundling is rapidly gaining interest. Boeing and United Airlines have negotiated specific bundled payment programs with certain providers, and other private payers and large employer groups are doing the same.",
+    "context": "Read this article from Becker's Hospital review on patient engagement strategies for bundled payments, value-based care and MACRA.",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/c31f9bdfd1f44730fc5518d700b3d12a.jpg",
+      "width": 640,
+      "height": 427,
+      "format": "jpg",
+      "etc": {
+        "alt": "",
+        "box": [],
+        "edited": true,
+        "focal_point": {}
+      }
+    },
+    "tags": [ "bundledpayments" ],
+    "media": null,
+    "oembed": {},
+    "etc": {},
+    "id": 3985205,
+    "hash": "981810ffed1fdd83bf606b6fa47bf812",
+    "seq": 148250827617795,
+    "hub_id": 1101,
+    "user_id": 1376,
+    "collection_id": 2956,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 30,
+    "share_count": 0,
+    "created_at": "2016-12-23T15:51:16Z",
+    "updated_at": "2017-09-09T18:05:18Z",
+    "published_at": "2016-12-23T15:51:16Z",
+    "children": null,
+    "slug": "macra-patient-engagement-cheat-sheet-no-4-patient-engagement-strategies-for-bund-3985205",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 1376,
+      "username": "nthrivehub",
+      "name": "nThrive Hub",
+      "avatar_url": "https://cdn.pressly.com/clients/Pressly/static/default-user-avatar.png"
+    },
+    "collection": {
+      "id": 2956,
+      "name": "HIM &amp; Clinical Engagement",
+      "tags": [],
+      "slug": "him-and-clinical-engagement"
+    },
+    "id_base62": "gIJv",
+    "short_url": "https://pres.ly/gIJv",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/macra-patient-engagement-cheat-sheet-no-4-patient-engagement-strategies-for-bund-3985205",
+    "views": 30
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link" ],
+    "source": {
+      "hash": "06edf25d2688f665f866c87834d350c8",
+      "network": "Modern Healthcare",
+      "uid": "url:e04b4d7554d7a9550570e03867d3a6b0",
+      "url": "http://www.modernhealthcare.com/article/20161217/MAGAZINE/312179892/%7B%7Blink%7D%7D"
+    },
+    "author": {},
+    "title": "Trump's HHS secretary pick, Rep. Tom Price, is expected to roll back bundled payments @HHS.gov",
+    "description": "The roller coaster of value-based payment continued its thrill ride in 2016.",
+    "body": "The roller coaster of value-based payment continued its thrill ride in 2016.",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/62db50cbac35490fcf2c4cceaf0f592b.jpg",
+      "width": 640,
+      "height": 427,
+      "format": "jpg",
+      "etc": {
+        "alt": "",
+        "box": [ 0, 0, 1, 0.9123 ],
+        "edited": true,
+        "focal_point": {}
+      }
+    },
+    "tags": [ "bundledpayments" ],
+    "media": null,
+    "oembed": {},
+    "etc": {},
+    "id": 3978742,
+    "hash": "06edf25d2688f665f866c87834d350c8",
+    "seq": 148242434965433,
+    "hub_id": 1101,
+    "user_id": 1376,
+    "collection_id": 2956,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 69,
+    "share_count": 0,
+    "created_at": "2016-12-22T16:32:29Z",
+    "updated_at": "2017-02-03T15:06:12Z",
+    "published_at": "2016-12-22T16:32:29Z",
+    "children": null,
+    "slug": "trumps-hhs-secretary-pick-rep-tom-price-is-expected-to-roll-back-bundled-payment-3978742",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 1376,
+      "username": "nthrivehub",
+      "name": "nThrive Hub",
+      "avatar_url": "https://cdn.pressly.com/clients/Pressly/static/default-user-avatar.png"
+    },
+    "collection": {
+      "id": 2956,
+      "name": "HIM &amp; Clinical Engagement",
+      "tags": [],
+      "slug": "him-and-clinical-engagement"
+    },
+    "id_base62": "gH3g",
+    "short_url": "https://pres.ly/gH3g",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/trumps-hhs-secretary-pick-rep-tom-price-is-expected-to-roll-back-bundled-payment-3978742",
+    "views": 69
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link" ],
+    "source": {
+      "hash": "4b66f6be868447e05d6ae34cfbbe5997",
+      "network": "Managed Healthcare Executive",
+      "uid": "url:fcae08935f275d1957bc44ce102f1240",
+      "url": "http://managedhealthcareexecutive.modernmedicine.com/managed-healthcare-executive/news/three-concepts-consider-bundled-payment-success"
+    },
+    "author": {},
+    "title": "Three concepts to consider for bundled payment success",
+    "description": "Value based payment models around episodes of care are rapidly growing in both the public and private health insurance sectors. Whether it be the various CMS models &ndash; The Bundled Payments...",
+    "body": "Value based payment models around episodes of care are rapidly growing in both the public and private health insurance sectors. Whether it be the various CMS models?The&nbsp;Bundled Payments",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/eacce0652bc5b68dd6455872ba8e28bc.jpg",
+      "width": 640,
+      "height": 427,
+      "format": "jpg",
+      "etc": {
+        "alt": "",
+        "box": [ 0, 0.0652, 1, 0.9775 ],
+        "edited": true,
+        "focal_point": {}
+      }
+    },
+    "tags": [ "bundledpayments" ],
+    "media": null,
+    "oembed": {},
+    "etc": {},
+    "id": 3815174,
+    "hash": "4b66f6be868447e05d6ae34cfbbe5997",
+    "seq": 148051311487946,
+    "hub_id": 1101,
+    "user_id": 1376,
+    "collection_id": 2956,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 40,
+    "share_count": 0,
+    "created_at": "2016-11-30T13:38:34Z",
+    "updated_at": "2017-02-03T15:06:12Z",
+    "published_at": "2016-11-30T13:38:34Z",
+    "children": null,
+    "slug": "three-concepts-to-consider-for-bundled-payment-success-3815174",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 1376,
+      "username": "nthrivehub",
+      "name": "nThrive Hub",
+      "avatar_url": "https://cdn.pressly.com/clients/Pressly/static/default-user-avatar.png"
+    },
+    "collection": {
+      "id": 2956,
+      "name": "HIM &amp; Clinical Engagement",
+      "tags": [],
+      "slug": "him-and-clinical-engagement"
+    },
+    "id_base62": "g0v4",
+    "short_url": "https://pres.ly/g0v4",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/three-concepts-to-consider-for-bundled-payment-success-3815174",
+    "views": 40
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text" ],
+    "source": {
+      "hash": "6b0c9fff7d862490e51c16dabc2c25c5",
+      "uid": "url:d6f789b5bf0f8f48261d8fe4822c407e",
+      "url": "http://www.icd10monitor.com/enews/item/1661-lesson-learned-implementing-icd-10-the-need-for-collaboration"
+    },
+    "author": {},
+    "title": "Lesson Learned Implementing ICD-10: The Need for Collaboration",
+    "description": "ICD-10 implementation success to date has been a result of collaboration and leveraging technology and education. Just as we experienced with planning...",
+    "body": "ICD-10 implementation success to date has been a result of collaboration and leveraging technology and education. Just as we experienced with planning...",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/4a8f23fc6cfd1e65bceb90240bc8930e.jpg",
+      "width": 640,
+      "height": 427,
+      "format": "jpg",
+      "etc": {
+        "alt": "",
+        "box": [ 0.0389, 0.003, 0.9735, 0.8557 ],
+        "edited": true,
+        "focal_point": {}
+      }
+    },
+    "tags": [ "icd-10" ],
+    "media": null,
+    "oembed": {},
+    "etc": {},
+    "id": 3811137,
+    "hash": "6b0c9fff7d862490e51c16dabc2c25c5",
+    "seq": 148045718368626,
+    "hub_id": 1101,
+    "user_id": 1376,
+    "collection_id": 2956,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 67,
+    "share_count": 0,
+    "created_at": "2016-11-29T22:06:23Z",
+    "updated_at": "2017-07-11T19:49:01Z",
+    "published_at": "2016-11-29T22:06:23Z",
+    "children": null,
+    "slug": "lesson-learned-implementing-icd-10-the-need-for-collaboration-3811137",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 1376,
+      "username": "nthrivehub",
+      "name": "nThrive Hub",
+      "avatar_url": "https://cdn.pressly.com/clients/Pressly/static/default-user-avatar.png"
+    },
+    "collection": {
+      "id": 2956,
+      "name": "HIM &amp; Clinical Engagement",
+      "tags": [],
+      "slug": "him-and-clinical-engagement"
+    },
+    "id_base62": "fZrX",
+    "short_url": "https://pres.ly/fZrX",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/lesson-learned-implementing-icd-10-the-need-for-collaboration-3811137",
+    "views": 67
+  },
+  {
+    "type": "post",
+    "content_hints": [ "text", "link" ],
+    "source": {
+      "hash": "abcdbc896002edd536a94414ba05c3d7",
+      "network": "Medical Economics",
+      "uid": "url:582a4d2659617faa76a80574b150611d",
+      "url": "http://medicaleconomics.modernmedicine.com/medical-economics/news/top-5-tips-combatting-2017-coding-concerns"
+    },
+    "author": {},
+    "title": "Top 5 tips for combatting 2017 coding concerns",
+    "description": "The calendar may say the ICD-10 transition is long gone, but practices still will likely feel its repercussions in 2017 in terms of payer requests, denials and the new code set&apos;s influence on value-based care. Looking to next year, practices should start being proactive with these coding opportunities now to consider how the following five factors will impact documenting, coding and billing for care",
+    "body": "The calendar may say the ICD-10 transition is long gone, but practices still will likely feel its repercussions in 2017 in terms of payer requests, denials and the new code set&apos;s influence on value-based care. Looking to next year, practices should start being proactive with these coding opportunities now to consider how the following five factors will impact documenting, coding and billing for care",
+    "context": "Read this article from Medical Economics on 5 tips for combating medical coding concerns in 2017.",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/shutterstock_153237758.png",
+      "width": 640,
+      "height": 380,
+      "format": "png"
+    },
+    "tags": [],
+    "media": null,
+    "oembed": {},
+    "etc": {},
+    "id": 3801009,
+    "hash": "abcdbc896002edd536a94414ba05c3d7",
+    "seq": 148034688550129,
+    "hub_id": 1101,
+    "user_id": 1376,
+    "collection_id": 2956,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 57,
+    "share_count": 0,
+    "created_at": "2016-11-28T15:28:05Z",
+    "updated_at": "2017-09-09T18:01:10Z",
+    "published_at": "2016-11-28T15:28:05Z",
+    "children": null,
+    "slug": "top-5-tips-for-combatting-2017-coding-concerns-3801009",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 1376,
+      "username": "nthrivehub",
+      "name": "nThrive Hub",
+      "avatar_url": "https://cdn.pressly.com/clients/Pressly/static/default-user-avatar.png"
+    },
+    "collection": {
+      "id": 2956,
+      "name": "HIM &amp; Clinical Engagement",
+      "tags": [],
+      "slug": "him-and-clinical-engagement"
+    },
+    "id_base62": "fWOB",
+    "short_url": "https://pres.ly/fWOB",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/top-5-tips-for-combatting-2017-coding-concerns-3801009",
+    "views": 57
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text" ],
+    "source": {
+      "hash": "0986e2694990c30bfcb88f1bf86476af",
+      "network": "Satellite Press Releases",
+      "uid": "url:7f740140de66acda50ddf02790ad722b",
+      "url": "http://satprnews.com/2016/11/21/healthcare-it-outsourcing-market-to-cross-us-50-billion-by-2021/"
+    },
+    "author": {
+      "name": "View all posts by Monika Donimirska",
+      "profile_url": "http://satprnews.com/author/karol/"
+    },
+    "title": "Healthcare IT Outsourcing Market to Cross US $50 Billion by 2021",
+    "description": "Deerfield Beach, FL - ( SBWIRE) - 11/21/2016 - The healthcare IT outsourcing market is expected to exceed more than USD $50 billion by 2020. Browse Full Report: https://www.marketresearchengine.com/reportdetails/healthcare-it-outsourcing-market Healthcare is biggest industry in all over world. The main function of healthcare is to analyze and treating patient.",
+    "body": "Deerfield Beach, FL - ( SBWIRE) - 11/21/2016 - The healthcare IT outsourcing market is expected to exceed more than USD $50 billion by 2020. Browse Full Report: <a href=\"https://www.marketresearchengine.com/reportdetails/healthcare-it-outsourcing-market\" target=\"_blank\" >https://www.marketresearchengine.com/reportdetails/healthcare-it-outsourcing-market</a> Healthcare is biggest industry in all over world. The main function of healthcare is to analyze and treating patient.",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/eacce0652bc5b68dd6455872ba8e28bc.jpg",
+      "width": 640,
+      "height": 427,
+      "format": "jpg",
+      "etc": {
+        "alt": "",
+        "box": [ 0, 0.0684, 1, 0.9808 ],
+        "edited": true,
+        "focal_point": {}
+      }
+    },
+    "tags": [],
+    "media": null,
+    "oembed": {},
+    "etc": {},
+    "id": 3650519,
+    "hash": "0986e2694990c30bfcb88f1bf86476af",
+    "seq": 147991734329397,
+    "hub_id": 1101,
+    "user_id": 1376,
+    "collection_id": 2956,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 32,
+    "share_count": 0,
+    "created_at": "2016-11-23T16:09:03Z",
+    "updated_at": "2017-07-11T19:54:59Z",
+    "published_at": "2016-11-23T16:09:03Z",
+    "children": null,
+    "slug": "healthcare-it-outsourcing-market-to-cross-us-50-billion-by-2021-3650519",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 1376,
+      "username": "nthrivehub",
+      "name": "nThrive Hub",
+      "avatar_url": "https://cdn.pressly.com/clients/Pressly/static/default-user-avatar.png"
+    },
+    "collection": {
+      "id": 2956,
+      "name": "HIM &amp; Clinical Engagement",
+      "tags": [],
+      "slug": "him-and-clinical-engagement"
+    },
+    "id_base62": "fjFl",
+    "short_url": "https://pres.ly/fjFl",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/healthcare-it-outsourcing-market-to-cross-us-50-billion-by-2021-3650519",
+    "views": 32
+  },
+  {
+    "type": "post",
+    "content_hints": [ "text", "link" ],
+    "source": {
+      "hash": "5e3099d1d55dd22eef5065ffabcdfd71",
+      "network": "HealthITInteroperability",
+      "uid": "url:fc7b66fa1eb29a2f59cb790cbc47c318",
+      "url": "http://healthitinteroperability.com/news/removing-barriers-to-behavioral-health-information-exchange"
+    },
+    "author": {},
+    "title": "Removing Barriers to Behavioral Health Information Exchange",
+    "description": "Two ONC data briefs share strategies for improving behavioral health data exchange underway in South Carolina and Arkansas.",
+    "body": "Two ONC data briefs share strategies for improving behavioral health data exchange underway in South Carolina and Arkansas.",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/c31f9bdfd1f44730fc5518d700b3d12a.jpg",
+      "width": 640,
+      "height": 427,
+      "format": "jpg",
+      "etc": {
+        "alt": "",
+        "box": [ 0, 0, 1, 0.9123 ],
+        "edited": true,
+        "focal_point": {}
+      }
+    },
+    "tags": [ "ehr", "hit" ],
+    "media": null,
+    "oembed": {},
+    "etc": {},
+    "id": 3103906,
+    "hash": "5e3099d1d55dd22eef5065ffabcdfd71",
+    "seq": 147913698062130,
+    "hub_id": 1101,
+    "user_id": 1376,
+    "collection_id": 2956,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 27,
+    "share_count": 0,
+    "created_at": "2016-11-14T15:23:00Z",
+    "updated_at": "2017-07-11T19:54:44Z",
+    "published_at": "2016-11-14T15:23:00Z",
+    "children": null,
+    "slug": "removing-barriers-to-behavioral-health-information-exchange-3103906",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 1376,
+      "username": "nthrivehub",
+      "name": "nThrive Hub",
+      "avatar_url": "https://cdn.pressly.com/clients/Pressly/static/default-user-avatar.png"
+    },
+    "collection": {
+      "id": 2956,
+      "name": "HIM &amp; Clinical Engagement",
+      "tags": [],
+      "slug": "him-and-clinical-engagement"
+    },
+    "id_base62": "d1t0",
+    "short_url": "https://pres.ly/d1t0",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/removing-barriers-to-behavioral-health-information-exchange-3103906",
+    "views": 27
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text" ],
+    "source": {
+      "hash": "23ac8db29f19edb781075c881cb1ae79",
+      "network": "Health System Management",
+      "uid": "url:76cde5cc5f7bcf342752bb51a9a5cc9c",
+      "url": "http://health-system-management.advanceweb.com/whats-the-key-to-better-icd-10-coding/"
+    },
+    "author": {
+      "name": "ADVANCE Staff",
+      "profile_url": "http://health-system-management.advanceweb.com/author/astaff/"
+    },
+    "title": "What&apos;s the Key to Better ICD-10 Coding?",
+    "description": "Nearly a quarter of all U.S. hospitals now outsource some or all coding functions. Ninety percent of hospitals over 150 beds currently outsourcing their CDI",
+    "body": "Nearly a quarter of all U.S. hospitals now outsource some or all coding functions. Ninety percent of hospitals over 150 beds currently outsourcing their CDI",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/GettyImages-512694947.jpg",
+      "width": 600,
+      "height": 400,
+      "format": "jpg"
+    },
+    "tags": [ "icd-10", "coding" ],
+    "media": null,
+    "oembed": {},
+    "etc": {},
+    "id": 3103569,
+    "hash": "23ac8db29f19edb781075c881cb1ae79",
+    "seq": 147913670864606,
+    "hub_id": 1101,
+    "user_id": 1376,
+    "collection_id": 2956,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 37,
+    "share_count": 0,
+    "created_at": "2016-11-14T15:18:28Z",
+    "updated_at": "2017-07-11T19:49:37Z",
+    "published_at": "2016-11-14T15:18:28Z",
+    "children": null,
+    "slug": "whats-the-key-to-better-icd-10-coding-3103569",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 1376,
+      "username": "nthrivehub",
+      "name": "nThrive Hub",
+      "avatar_url": "https://cdn.pressly.com/clients/Pressly/static/default-user-avatar.png"
+    },
+    "collection": {
+      "id": 2956,
+      "name": "HIM &amp; Clinical Engagement",
+      "tags": [],
+      "slug": "him-and-clinical-engagement"
+    },
+    "id_base62": "d1nz",
+    "short_url": "https://pres.ly/d1nz",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/whats-the-key-to-better-icd-10-coding-3103569",
+    "views": 37
+  },
+  {
+    "type": "post",
+    "content_hints": [ "text", "link" ],
+    "source": {
+      "hash": "bc37a08c6aa52708e8dce4f427268b0f",
+      "network": "Health Data Management",
+      "uid": "url:b8d82e9416223e34746f321c8a536717",
+      "url": "http://www.healthdatamanagement.com/opinion/how-to-solve-the-core-problem-of-patient-record-matching"
+    },
+    "author": {},
+    "title": "How to solve the core problem of patient record matching",
+    "description": "Higher level technology is needed to better match records and thus improve the continuity and quality of care.",
+    "body": "Higher level technology is needed to better match records and thus improve the continuity and quality of care.",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/0af2c6ecbe7860e982e73d50e4f3a37f.jpg",
+      "width": 640,
+      "height": 427,
+      "format": "jpg",
+      "etc": {
+        "alt": "",
+        "box": [ 0, 0, 1, 0.9123 ],
+        "edited": true,
+        "focal_point": {}
+      }
+    },
+    "tags": [],
+    "media": null,
+    "oembed": {},
+    "etc": {},
+    "id": 2833640,
+    "hash": "bc37a08c6aa52708e8dce4f427268b0f",
+    "seq": 147870913841444,
+    "hub_id": 1101,
+    "user_id": 1376,
+    "collection_id": 2956,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 46,
+    "share_count": 0,
+    "created_at": "2016-11-09T16:32:18Z",
+    "updated_at": "2017-07-11T19:54:37Z",
+    "published_at": "2016-11-09T16:32:18Z",
+    "children": null,
+    "slug": "how-to-solve-the-core-problem-of-patient-record-matching-2833640",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 1376,
+      "username": "nthrivehub",
+      "name": "nThrive Hub",
+      "avatar_url": "https://cdn.pressly.com/clients/Pressly/static/default-user-avatar.png"
+    },
+    "collection": {
+      "id": 2956,
+      "name": "HIM &amp; Clinical Engagement",
+      "tags": [],
+      "slug": "him-and-clinical-engagement"
+    },
+    "id_base62": "bT9S",
+    "short_url": "https://pres.ly/bT9S",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/how-to-solve-the-core-problem-of-patient-record-matching-2833640",
+    "views": 46
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link", "text" ],
+    "source": {
+      "hash": "dbdef82b888b86f5c6f14fd3733394f4",
+      "network": "Health Data Management",
+      "uid": "url:4237d73e05be9426d9f0dfa3489a34f2",
+      "url": "http://www.healthdatamanagement.com/news/control-secured-senate-gop-leaders-to-focus-on-medical-bill?tag=00000155-e5f1-dd4d-af5f-eff9d1150000"
+    },
+    "author": {},
+    "title": "Control secured, Senate GOP leaders to focus on medical bill",
+    "description": "Lamar Alexander (R-Tenn.) is committed to passing legislation to aid medical breakthroughs.",
+    "body": "Lamar Alexander (R-Tenn.) is committed to passing legislation to aid medical breakthroughs.",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/index-18-3.jpg",
+      "width": 500,
+      "height": 330
+    },
+    "tags": [ "government", "gop", "senate", "house" ],
+    "media": null,
+    "oembed": {},
+    "etc": {},
+    "id": 2832969,
+    "hash": "dbdef82b888b86f5c6f14fd3733394f4",
+    "seq": 147870839753061,
+    "hub_id": 1101,
+    "user_id": 1376,
+    "collection_id": 2956,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 35,
+    "share_count": 0,
+    "created_at": "2016-11-09T16:19:57Z",
+    "updated_at": "2017-07-11T19:54:30Z",
+    "published_at": "2016-11-09T16:19:57Z",
+    "children": null,
+    "slug": "control-secured-senate-gop-leaders-to-focus-on-medical-bill-2832969",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 1376,
+      "username": "nthrivehub",
+      "name": "nThrive Hub",
+      "avatar_url": "https://cdn.pressly.com/clients/Pressly/static/default-user-avatar.png"
+    },
+    "collection": {
+      "id": 2956,
+      "name": "HIM &amp; Clinical Engagement",
+      "tags": [],
+      "slug": "him-and-clinical-engagement"
+    },
+    "id_base62": "bSZ3",
+    "short_url": "https://pres.ly/bSZ3",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/control-secured-senate-gop-leaders-to-focus-on-medical-bill-2832969",
+    "views": 35
+  },
+  {
+    "type": "post",
+    "content_hints": [ "link" ],
+    "source": {
+      "hash": "dff5f33503eb0d9aa82bc35f08d83b03",
+      "network": "Managed Healthcare Executive",
+      "uid": "url:adfb338bd0b6eaeba45dc69b9cb6bd5e",
+      "url": "http://managedhealthcareexecutive.modernmedicine.com/managed-healthcare-executive/news/three-ways-technology-can-lead-bundled-payment-success"
+    },
+    "author": {},
+    "title": "Three ways technology can lead to bundled payment success",
+    "description": "As organizations embrace value-based care, they are beginning to appreciate the importance of robust care coordination. The more providers collaborate and communicate, the more likely patients are",
+    "body": "As organizations embrace value-based care, they are beginning to appreciate the importance of robust care coordination. The more providers collaborate and communicate, the more likely patients are",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/ae255aa3924149d18e7aa5dd02016693.jpg",
+      "width": 640,
+      "height": 427,
+      "format": "jpg",
+      "etc": {
+        "alt": "",
+        "box": [ 0, 0.0684, 1, 0.9808 ],
+        "edited": true,
+        "focal_point": {}
+      }
+    },
+    "tags": [ "bundledpayments", "himtechnology" ],
+    "media": null,
+    "oembed": {},
+    "etc": {},
+    "id": 2708230,
+    "hash": "dff5f33503eb0d9aa82bc35f08d83b03",
+    "seq": 147853637855379,
+    "hub_id": 1101,
+    "user_id": 1376,
+    "collection_id": 2956,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 216,
+    "share_count": 0,
+    "created_at": "2016-11-07T16:32:58Z",
+    "updated_at": "2018-05-09T15:01:55Z",
+    "published_at": "2016-11-07T16:32:58Z",
+    "children": null,
+    "slug": "three-ways-technology-can-lead-to-bundled-payment-success-2708230",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 1376,
+      "username": "nthrivehub",
+      "name": "nThrive Hub",
+      "avatar_url": "https://cdn.pressly.com/clients/Pressly/static/default-user-avatar.png"
+    },
+    "collection": {
+      "id": 2956,
+      "name": "HIM &amp; Clinical Engagement",
+      "tags": [],
+      "slug": "him-and-clinical-engagement"
+    },
+    "id_base62": "bmx8",
+    "short_url": "https://pres.ly/bmx8",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/three-ways-technology-can-lead-to-bundled-payment-success-2708230",
+    "views": 216
+  }
+]

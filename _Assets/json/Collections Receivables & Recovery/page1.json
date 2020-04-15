@@ -1,0 +1,79 @@
+[
+  {
+    "type": "post",
+    "content_hints": [ "link", "text", "widget" ],
+    "source": {
+      "uid": "url:9fe403c551b4757da45d3f315f33495d",
+      "url": "https://www.nthrive.com/solutions/back/recovery-and-collections"
+    },
+    "author": { "name": "nThrive" },
+    "title": "Health Care Recovery and Collections Solutions",
+    "description": "nThrive's solutions for health care recovery, collections, accounts receivable and denials help hospital systems improve their reimbursements and cash flow.",
+    "body": "",
+    "context": "",
+    "title_image": {
+      "url": "https://www.nthrive.com/_assets/images/hub/archive/b012291663c93fff0eaaa07da418ff15.jpg",
+      "width": 853,
+      "height": 601,
+      "format": "jpg",
+      "etc": {
+        "box": [ 0, 0, 1, 0.8184636716583473 ],
+        "edited": true
+      }
+    },
+    "tags": null,
+    "media": null,
+    "oembed": null,
+    "etc": {},
+    "id": 10120981,
+    "hash": "39fde8692e6b138b10ca35ae114b521b",
+    "seq": 150592310092528,
+    "hub_id": 1101,
+    "user_id": 7877,
+    "collection_id": 6619,
+    "status": "published",
+    "like_count": 0,
+    "comment_count": 0,
+    "view_count": 16,
+    "share_count": 0,
+    "created_at": "2017-09-20T15:58:20Z",
+    "updated_at": null,
+    "published_at": "2017-09-20T15:58:20Z",
+    "children": null,
+    "slug": "health-care-recovery-and-collections-solutions-10120981",
+    "meta_title": "",
+    "meta_description": "",
+    "meta_canonical": "",
+    "hub": {
+      "id": 1101,
+      "uid": "news",
+      "name": "News Hub",
+      "hub_url": "https://na2.pressly.com/nthrivex/news",
+      "visibility": "public",
+      "account_slug": "nthrivex",
+      "locale": "en-CA",
+      "footer_links": null
+    },
+    "user": {
+      "id": 7877,
+      "username": "atcommunications",
+      "name": "nThrive",
+      "avatar_url": "https://s3.amazonaws.com/pressly-imgrydb/images/uploads/2557de5ac9f9b2fa879504c3d78a4392.png"
+    },
+    "collection": {
+      "id": 6619,
+      "name": "Collections, Receivables &amp; Recovery",
+      "tags": [],
+      "slug": "collections-receivables-and-recovery"
+    },
+    "id_base62": "GsVD",
+    "short_url": "https://pres.ly/GsVD",
+    "user_context": {
+      "liked": false,
+      "commented": false
+    },
+    "top_contributors": [],
+    "url": "https://na2.pressly.com/nthrivex/news/posts/health-care-recovery-and-collections-solutions-10120981",
+    "views": 16
+  }
+]
