@@ -1,1 +1,3 @@
-baseurl: ""
+# Serving
+url:     "https://nthrivemarketingdev.github.io/"
+baseurl: "/nthrive"
