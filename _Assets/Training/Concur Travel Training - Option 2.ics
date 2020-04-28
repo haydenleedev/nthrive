@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 15.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Eastern Standard Time
+BEGIN:STANDARD
+DTSTART:16011104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20160920T194722Z
+DESCRIPTION:Live Training via WebEx\n\n*	Tuesday\, Oct. 4\, 11 a.m. – 12:
+	30 p.m. EST (not recorded-holds up to 500 attendees)\n\nWebEx Meeting Deta
+	ils:\n1.	Click on this link:  https://amexgbt.webex.com/join/tina-marie.co
+	leman\n2.	Click the ‘I Will Call In’ button\, located on the Quick Sta
+	rt Tab to display the call In number\, access code and attendee ID\nAudio 
+	Conferencing Information:\nToll-free:		+1 (855) 797.9485\nToll:			+1 (415)
+	 655.0002\nAccess Code:		86370714\n\n
+DTEND;TZID="Eastern Standard Time":20161004T123000
+DTSTAMP:20160920T172330Z
+DTSTART;TZID="Eastern Standard Time":20161004T110000
+LAST-MODIFIED:20160920T194722Z
+LOCATION:Webinar
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Concur Travel Training - Option 2
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000C056D32D4213D201000000000000000
+	0100000005F3FCD4234EB34438CA257FB37B0A3DF
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion rmj.rmm.rup.rpr">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted 
+	from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="en-us"><B></B></SPAN><S
+	PAN LANG="en-us"><B></B></SPAN><SPAN LANG="en-us"><B><FONT COLOR="#9E1F63"
+	 FACE="Arial">Live Training via WebEx</FONT></B></SPAN></P>\n\n<P DIR=LTR>
+	<SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n<P DIR=LTR><SP
+	AN LANG="en-us"><FONT FACE="Symbol">&#183\;<FONT FACE="Courier New">&nbsp\
+	;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;</FONT></FONT></SPAN><SPAN LANG="en-us
+	"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="e
+	n-us"></SPAN><SPAN LANG="en-us"> <FONT FACE="Arial">Tuesday\, Oct. 4\, 11 
+	a.m. – 12:30 p.m. EST</FONT></SPAN><SPAN LANG="en-us"><I></I></SPAN><SPA
+	N LANG="en-us"><I> <FONT FACE="Arial">(not recorded-holds up to 500 attend
+	ees)</FONT></I></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN>
+	</P>\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SP
+	AN LANG="en-us"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"><B></B></SPAN
+	><SPAN LANG="en-us"><B><FONT FACE="Arial">WebEx Meeting Details:</FONT></B
+	></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"><FONT FACE="Arial">1.&nbsp\;
+	&nbsp\;&nbsp\;&nbsp\;&nbsp\;</FONT></SPAN><SPAN LANG="en-us"><B></B></SPAN
+	><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></
+	SPAN><SPAN LANG="en-us"> <FONT FACE="Arial">Click on this link:&nbsp\;</FO
+	NT></SPAN><SPAN LANG="en-us"> </SPAN><A HREF="https://amexgbt.webex.com/jo
+	in/tina-marie.coleman"><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U><FO
+	NT COLOR="#5B9BD5" FACE="Arial">https://amexgbt.webex.com/join/tina-marie.
+	coleman</FONT></U></SPAN><SPAN LANG="en-us"></SPAN></A><SPAN LANG="en-us">
+	</SPAN><SPAN LANG="en-us"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"><FO
+	NT FACE="Arial">2.&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;</FONT></SPAN><SPAN L
+	ANG="en-us"> <FONT FACE="Arial">Click the ‘I Will Call In’ button\, lo
+	cated on the Quick Start Tab to display the call In number\, access code a
+	nd attendee ID</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><
+	SPAN LANG="en-us"><B></B></SPAN><SPAN LANG="en-us"><B><FONT FACE="Arial">A
+	udio Conferencing Information:</FONT></B></SPAN></P>\n\n<P DIR=LTR><SPAN L
+	ANG="en-us"></SPAN><SPAN LANG="en-us"><FONT FACE="Arial">Toll-free:&nbsp\;
+	&nbsp\;&nbsp\;&nbsp\;&nbsp\; &nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nb
+	sp\; +1 (855) 797.9485</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us">
+	<FONT FACE="Arial">Toll:&nbsp\;&nbsp\; &nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;
+	&nbsp\;&nbsp\; &nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +1 (415) 
+	655.0002<BR>\nAccess Code:&nbsp\;&nbsp\;&nbsp\; &nbsp\;&nbsp\;&nbsp\;&nbsp
+	\;&nbsp\;&nbsp\;&nbsp\; 86370714</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

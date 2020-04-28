@@ -1,0 +1,113 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 15.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Eastern Standard Time
+BEGIN:STANDARD
+DTSTART:16011104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20161004T171855Z
+DESCRIPTION:Live Training via Adobe\n\n*	Friday\, Oct. 7\, 11 a.m. – 12:3
+	0 p.m. EST (will be recorded-holds up to 100 attendees)\n\nAdobe Connect M
+	eeting\nTo join the Adobe Connect Meeting\, please click on the following 
+	link:  https://gbt.adobeconnect.com/r2c24k63xww/\n\nFirst Time Users\nIf y
+	ou have never attended an Adobe Connect meeting before:\nTest your connect
+	ion: https://gbt.adobeconnect.com/common/help/en/support/meeting_test.htm\
+	nGet a quick overview: http://www.adobe.com/products/adobeconnect.html\n\n
+DTEND;TZID="Eastern Standard Time":20161007T123000
+DTSTAMP:20160920T172553Z
+DTSTART;TZID="Eastern Standard Time":20161007T110000
+LAST-MODIFIED:20161004T171855Z
+LOCATION:Webinar
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Concur Travel Training - Option 3
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000601254834213D201000000000000000
+	01000000036FF616B071CA3408BF5C1C3E39A2CFD
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion rmj.rmm.rup.rpr">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted 
+	from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="en-us"><B></B></SPAN><S
+	PAN LANG="en-us"><B></B></SPAN><SPAN LANG="en-us"><B><FONT COLOR="#9E1F63"
+	 FACE="Arial">Live Training via Adobe<BR>\n</FONT></B></SPAN><SPAN LANG="e
+	n-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n<
+	P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="
+	en-us"><FONT FACE="Symbol">&#183\;</FONT></SPAN><SPAN LANG="en-us"></SPAN>
+	<SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT FACE="Courier New">  
+	    </FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN>
+	<SPAN LANG="en-us"><FONT FACE="Arial"> Friday\, Oct. 7\, 11 a.m. – 12:30
+	 p.m. EST</FONT></SPAN><SPAN LANG="en-us"><I></I></SPAN><SPAN LANG="en-us"
+	><I></I></SPAN><SPAN LANG="en-us"><I><FONT FACE="Arial"> (will be recorded
+	-holds up to 100 attendees)</FONT></I></SPAN><SPAN LANG="en-us"></SPAN><SP
+	AN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n<P DIR=LTR><SPAN 
+	LANG="en-us"><B></B></SPAN><SPAN LANG="en-us"><B></B></SPAN><SPAN LANG="en
+	-us"><B><FONT FACE="Arial">Adobe Connect Meeting</FONT></B></SPAN><SPAN LA
+	NG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN></P>
+	\n\n<P DIR=LTR><SPAN LANG="en-us"><FONT FACE="Arial">To join the Adobe Con
+	nect Meeting\, please click on the following link: </FONT></SPAN><SPAN LA
+	NG="en-us"> </SPAN><A HREF="https://gbt.adobeconnect.com/r2c24k63xww/"><SP
+	AN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U><FO
+	NT COLOR="#0563C1" FACE="Arial">https://gbt.adobeconnect.com/r2c24k63xww/<
+	/FONT></U></SPAN><SPAN LANG="en-us"></SPAN></A><SPAN LANG="en-us"></SPAN><
+	SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n<P DIR=LTR><SPA
+	N LANG="en-us"><B></B></SPAN><SPAN LANG="en-us"><B><FONT SIZE=5 FACE="Cali
+	bri">Audio: </FONT></B></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"><B></B
+	></SPAN><SPAN LANG="en-us"><B><FONT FACE="Calibri">Toll-free:</FONT></B></
+	SPAN><SPAN LANG="en-us"><B></B></SPAN><SPAN LANG="en-us"><B><FONT FACE="Ca
+	libri">&nbsp\;&nbsp\;&nbsp\;</FONT></B></SPAN><SPAN LANG="en-us"></SPAN><S
+	PAN LANG="en-us"> <FONT FACE="Calibri">+1 (855) 797.9485</FONT></SPAN></P>
+	\n\n<P DIR=LTR><SPAN LANG="en-us"><B></B></SPAN><SPAN LANG="en-us"><B><FON
+	T FACE="Calibri">Toll:  </FONT></B></SPAN><SPAN LANG="en-us"><B></B></SP
+	AN><SPAN LANG="en-us"><B><FONT FACE="Calibri"></FONT></B></SPAN><SPAN LANG
+	="en-us"></SPAN><SPAN LANG="en-us"> <FONT FACE="Calibri">+1 (415) 655.0002
+	</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"><B></B></SPAN><SPAN LA
+	NG="en-us"><B><FONT FACE="Calibri">Attendee Access Code:</FONT></B></SPAN>
+	</P>\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT FACE
+	="Calibri">86370714</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-
+	us"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"
+	></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n<P DIR
+	=LTR><SPAN LANG="en-us"><B></B></SPAN><SPAN LANG="en-us"><B></B></SPAN><SP
+	AN LANG="en-us"><B><FONT FACE="Arial">First Time Users</FONT></B></SPAN><S
+	PAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPA
+	N></P>\n\n<P DIR=LTR><SPAN LANG="en-us"><FONT FACE="Arial">If you have nev
+	er attended an Adobe Connect meeting before:</FONT></SPAN></P>\n\n<P DIR=L
+	TR><SPAN LANG="en-us"><FONT FACE="Arial">Test your connection:</FONT></SPA
+	N><SPAN LANG="en-us"> </SPAN><A HREF="https://gbt.adobeconnect.com/common/
+	help/en/support/meeting_test.htm"><SPAN LANG="en-us"></SPAN><SPAN LANG="en
+	-us"></SPAN><SPAN LANG="en-us"><U><FONT COLOR="#0563C1" FACE="Arial">https
+	://gbt.adobeconnect.com/common/help/en/support/meeting_test.htm</FONT></U>
+	</SPAN><SPAN LANG="en-us"></SPAN></A><SPAN LANG="en-us"></SPAN><SPAN LANG=
+	"en-us"></SPAN><SPAN LANG="en-us"><BR>\n<FONT FACE="Arial">Get a quick ove
+	rview:</FONT></SPAN><SPAN LANG="en-us"> </SPAN><A HREF="http://www.adobe.c
+	om/products/adobeconnect.html"><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us
+	"></SPAN><SPAN LANG="en-us"><U><FONT COLOR="#0563C1" FACE="Arial">http://w
+	ww.adobe.com/products/adobeconnect.html</FONT></U></SPAN><SPAN LANG="en-us
+	"></SPAN></A><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

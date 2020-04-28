@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 15.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Eastern Standard Time
+BEGIN:STANDARD
+DTSTART:16011104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20160914T140002Z
+DESCRIPTION:\n
+DTEND;TZID="Eastern Standard Time":20160920T150000
+DTSTAMP:20160914T130653Z
+DTSTART;TZID="Eastern Standard Time":20160920T140000
+LAST-MODIFIED:20160914T140002Z
+LOCATION:Webinar
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Concur Expense Training - Option 1
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000050CC0256670ED201000000000000000
+	01000000073745CB3F67306489B999E3DC6D5AF4C
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion rmj.rmm.rup.rpr">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted 
+	from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="en-us"><FONT COLOR="#44546A" FACE="Arial">You
+	 are invited to a Zoom webinar.</FONT></SPAN><SPAN LANG="en-us"></SPAN><SP
+	AN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT FACE="Arial"> </FONT></SPA
+	N></P>\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><
+	SPAN LANG="en-us"><FONT COLOR="#44546A" FACE="Arial">When: Sep 20\, 2016</
+	FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG
+	="en-us"><FONT FACE="Arial"></FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN 
+	LANG="en-us"></SPAN><SPAN LANG="en-us"> <FONT COLOR="#44546A" FACE="Arial"
+	>2:00 PM Eastern Time (US and Canada)</FONT></SPAN><SPAN LANG="en-us"></SP
+	AN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT FACE="Arial"> </FONT
+	></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></
+	SPAN><SPAN LANG="en-us"><FONT COLOR="#44546A" FACE="Arial">Please click th
+	e link below to join the webinar:</FONT></SPAN><SPAN LANG="en-us"></SPAN><
+	SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT FACE="Arial"> </FONT></S
+	PAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><A HREF="https://nthrive.
+	zoom.us/j/297458690"><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><
+	SPAN LANG="en-us"><U><FONT COLOR="#0563C1" FACE="Arial">https://nthrive.zo
+	om.us/j/297458690</FONT></U></SPAN><SPAN LANG="en-us"></SPAN></A><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT FACE="
+	Arial"> </FONT></SPAN></P>\n<BR>\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><
+	SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT COLOR="#44546A" FACE="Ar
+	ial">Or iPhone one-tap (US Toll):  +14086380968\,297458690# or +164655886
+	56\,297458690#</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><
+	/SPAN><SPAN LANG="en-us"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"></SP
+	AN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT COLOR="#44546A" FACE
+	="Arial">Or Telephone:</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="
+	en-us"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-
+	us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT COLOR="#4454
+	6A" FACE="Arial">    Dial: +1 408 638 0968 (US Toll) or +1 646 558 8656
+	 (US Toll)</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPA
+	N><SPAN LANG="en-us"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><
+	SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT COLOR="#44546A" FACE="Ar
+	ial">    +34 900 839 088 (Spain Toll Free)</FONT></SPAN><SPAN LANG="en-
+	us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n<P 
+	DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en
+	-us"><FONT COLOR="#44546A" FACE="Arial">   </FONT></SPAN><SPAN LANG="en
+	-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT FACE="Arial
+	"> </FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LANG="
+	en-us"></SPAN><SPAN LANG="en-us"><FONT COLOR="#44546A" FACE="Arial">   
+	 Webinar ID: 297 458 690</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="
+	en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT COLOR="#4
+	4546A" FACE="Arial">    International numbers available:</FONT></SPAN><
+	SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FON
+	T FACE="Arial"></FONT></SPAN><SPAN LANG="en-us"> </SPAN><A HREF="https://n
+	thrive.zoom.us/zoomconference?m=y_UaLtFvEcD2QjLtzP_x-wJcK-RmsbUK"><SPAN LA
+	NG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U><FONT CO
+	LOR="#0563C1" FACE="Arial">https://nthrive.zoom.us/zoomconference?m=y_UaLt
+	FvEcD2QjLtzP_x-wJcK-RmsbUK</FONT></U></SPAN><SPAN LANG="en-us"></SPAN></A>
+	<SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FO
+	NT FACE="Arial"> </FONT></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

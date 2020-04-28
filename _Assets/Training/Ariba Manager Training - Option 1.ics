@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 15.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Eastern Standard Time
+BEGIN:STANDARD
+DTSTART:16011104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20160923T202418Z
+DESCRIPTION:You are invited to a Zoom webinar. \n\nWhen: Sep 29\, 2016   2:
+	00 PM  Eastern Time (US and Canada) \n\nPlease click the link below to joi
+	n the webinar: \nhttps://nthrive.zoom.us/j/232722805 \n \nOr iPhone one-ta
+	p (US Toll):  +16465588656\,232722805# or +14086380968\,232722805#\n\nOr T
+	elephone:\n    Dial: +1 646 558 8656 (US Toll) or +1 408 638 0968 (US Toll
+	)\n    +34 900 839 088 (Spain Toll Free)\n    \n    Webinar ID: 232 722 80
+	5\n    International numbers available: https://nthrive.zoom.us/zoomconfer
+	ence?m=g8q1SZoqwiONbJ1h50ELrWFB0uyQHO83 \n\n
+DTEND;TZID="Eastern Standard Time":20160929T150000
+DTSTAMP:20160923T202418Z
+DTSTART;TZID="Eastern Standard Time":20160929T140000
+LAST-MODIFIED:20160923T202418Z
+LOCATION:Webinar
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Ariba Manager Training - Option 1
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000B00BC9EEB615D201000000000000000
+	01000000049C37C2B25ED5745A7CC484ACE3F0D60
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion rmj.rmm.rup.rpr">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted 
+	from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="en-us"><FONT COLOR="#44546A" FACE="Arial">You
+	 are invited to a Zoom webinar.</FONT></SPAN><SPAN LANG="en-us"></SPAN><SP
+	AN LANG="en-us"></SPAN><SPAN LANG="en-us"> </SPAN></P>\n\n<P DIR=LTR><SPAN
+	 LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><
+	/P>\n\n<P DIR=LTR><SPAN LANG="en-us"><FONT COLOR="#44546A" FACE="Arial">Wh
+	en: Sep 29\, 2016</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us
+	"></SPAN><SPAN LANG="en-us"><FONT COLOR="#44546A" FACE="Arial">&nbsp\;</FO
+	NT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="
+	en-us">&nbsp\;<FONT COLOR="#44546A" FACE="Arial"> 2:00 PM&nbsp\; Eastern T
+	ime (US and Canada) </FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"><F
+	ONT COLOR="#44546A" FACE="Arial">Please click the link below to join the w
+	ebinar: </FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><A HREF
+	="https://nthrive.zoom.us/j/232722805"><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="en-us"><U><FONT COLOR="#0563C1" FACE="Arial">
+	https://nthrive.zoom.us/j/232722805</FONT></U></SPAN><SPAN LANG="en-us"></
+	SPAN></A><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="e
+	n-us"><FONT COLOR="#44546A" FACE="Arial"> </FONT></SPAN></P>\n\n<P DIR=LTR
+	><SPAN LANG="en-us"><FONT COLOR="#44546A" FACE="Arial"> </FONT></SPAN></P
+	>\n\n<P DIR=LTR><SPAN LANG="en-us"><FONT COLOR="#44546A" FACE="Arial">Or i
+	Phone one-tap (US Toll):  +16465588656\,232722805# or +14086380968\,23272
+	2805#</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"><FONT COLOR="#445
+	46A" FACE="Arial">Or Telephone:</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG
+	="en-us"><FONT COLOR="#44546A" FACE="Arial">    Dial: +1 646 558 8656 (
+	US Toll) or +1 408 638 0968 (US Toll)</FONT></SPAN></P>\n\n<P DIR=LTR><SPA
+	N LANG="en-us"><FONT COLOR="#44546A" FACE="Arial">    +34 900 839 088 (
+	Spain Toll Free)</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"><FONT 
+	COLOR="#44546A" FACE="Arial">    </FONT></SPAN></P>\n\n<P DIR=LTR><SPAN
+	 LANG="en-us"><FONT COLOR="#44546A" FACE="Arial">    Webinar ID: 232 7
+	22 805</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"><FONT COLOR="#44
+	546A" FACE="Arial">    International numbers available:</FONT></SPAN><S
+	PAN LANG="en-us"> </SPAN><A HREF="https://nthrive.zoom.us/zoomconference?m
+	=g8q1SZoqwiONbJ1h50ELrWFB0uyQHO83"><SPAN LANG="en-us"></SPAN><SPAN LANG="e
+	n-us"></SPAN><SPAN LANG="en-us"><U><FONT COLOR="#0563C1" FACE="Arial">http
+	s://nthrive.zoom.us/zoomconference?m=g8q1SZoqwiONbJ1h50ELrWFB0uyQHO83</FON
+	T></U></SPAN><SPAN LANG="en-us"></SPAN></A><SPAN LANG="en-us"></SPAN><SPAN
+	 LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT COLOR="#44546A" FACE="Arial"
+	> </FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LANG="e
+	n-us"></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
