@@ -478,7 +478,7 @@ a.button-box:hover {
     line-height: 14px
 }
 
-.text-12px {
+.text-12px, p.text-12px {
     font-size: 12px;
     line-height: 16px
 }
@@ -523,7 +523,7 @@ a.button-box:hover {
     line-height: 25px
 }
 
-.text-22px {
+.text-22px, p.text-22px {
     font-size: 22px;
     line-height: 26px
 }
