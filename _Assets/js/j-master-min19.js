@@ -805,11 +805,7 @@
             !1
         ),
     $(document).ready(function () {
-        $(window).width() < 840 &&
-            $("#main-nav a").on("click", function () {
-                $("#nth-menu-switch").prop("checked", !1);
-            }),
-            $("#page-nav").length && $("#page-nav").offset().top,
+        $(window).width() < 840 && $("#page-nav").length && $("#page-nav").offset().top,
             $(window).scroll(function () {
                 var e = $(this).scrollTop();
                 window.location.href.indexOf("com/hub/") > -1
@@ -3185,3 +3181,16 @@ $(document).ready(function (e) {
         }
         $(window).resize(s), s();
     });
+if ($(window).width() <= 840) {
+    $(document).ready(function () {
+        $("#main-nav").find("a.dropdown-toggle").click(function (event) {
+            event.preventDefault();
+        });
+        $(".accordion").find(".accordion-toggle").click(function () {
+            $(this).find(".accordion-content").slideToggle("slow");
+            $(this).siblings().find(".accordion-content").slideUp("slow").removeClass("accordion-open");
+            $(".accordion-toggle.accordion-open").not(this).removeClass("accordion-open");
+            $(this).toggleClass("accordion-open");
+        });
+    });
+}
