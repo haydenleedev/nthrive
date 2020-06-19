@@ -805,7 +805,7 @@
             !1
         ),
     $(document).ready(function () {
-        $(window).width() < 840 && $("#page-nav").length && $("#page-nav").offset().top,
+        $("#page-nav").length && $("#page-nav").offset().top,
             $(window).scroll(function () {
                 var e = $(this).scrollTop();
                 window.location.href.indexOf("com/hub/") > -1
@@ -3181,16 +3181,34 @@ $(document).ready(function (e) {
         }
         $(window).resize(s), s();
     });
-if ($(window).width() <= 840) {
-    $(document).ready(function () {
-        $("#main-nav").find("a.dropdown-toggle").click(function (event) {
-            event.preventDefault();
+$(document).ready(function () {
+    if ($(window).width() <= 840) {
+        $(".accordion").attr({ role: "tablist", multiselectable: "true" });
+        $(".accordion-content").attr("id", function (IDcount) {
+            return "panel-" + IDcount;
         });
-        $(".accordion").find(".accordion-toggle").click(function () {
-            $(this).find(".accordion-content").slideToggle("slow");
-            $(this).siblings().find(".accordion-content").slideUp("slow").removeClass("accordion-open");
-            $(".accordion-toggle.accordion-open").not(this).removeClass("accordion-open");
-            $(this).toggleClass("accordion-open");
+        $(".accordion-content").attr("aria-labelledby", function (IDcount) {
+            return "control-panel-" + IDcount;
         });
-    });
-}
+        $(".accordion-content").attr("aria-hidden", "true");
+        $(".accordion .accordion-content").attr("role", "tabpanel");
+        $(".accordion-toggle").each(function (i) {
+            $target = $(this).children(".accordion-content")[0].id;
+            $(this)
+                .attr("aria-expanded", "false")
+                .attr("aria-controls", $target)
+                .attr("id", "control-" + $target)
+                .addClass("accordion-open");
+        });
+        $(".dropdown-toggle").click(function (e) {
+            e.preventDefault();
+            if ($(this).parent(".accordion-toggle").attr("aria-expanded") == "false") {
+                $(this).parent().parent(".accordion").find(".accordion-toggle").not(this).attr("aria-expanded", false).removeClass("accordion-open").children(".accordion-content").attr("aria-hidden", "true").slideUp(200);
+                $(this).parent(".accordion-toggle").attr("aria-expanded", true).removeClass("accordion-open").addClass("accordion-open").children(".accordion-content").slideToggle(200);
+            } else {
+                $(this).parent(".accordion-toggle").attr("aria-expanded", false).removeClass("accordion-open").children(".accordion-content").slideUp(200).attr("aria-hidden", "true");
+            }
+            return false;
+        });
+    }
+});

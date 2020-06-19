@@ -400,6 +400,19 @@ header .link-arrow-text {
     max-width: 79%
 }
 
+.rm0 .narrow-col.menu-panel.l-col-1 {
+    right: 0
+}
+
+.narrow-col.menu-panel.l-col-1 {
+    width: 200px;
+    right: 200px
+}
+
+.narrow-col.open .menu-panel-wrap {
+    min-height: 1px
+}
+
 @media only screen and (max-width:487px) {
     .notification-bar-content-desc {
         max-width: 100%
@@ -1699,7 +1712,7 @@ a.open + .navarrow {
     }
 
 .menu-panel-group > a {
-    color: #441a63;
+    color: #662d91;
     font-size: 1.05em;
     font-weight: 600;
     line-height: 1.2em !important;
@@ -2467,7 +2480,7 @@ header {
 }
 
 .menu-panel-group > a {
-    color: #441a63;
+    color: #662d91;
     font-size: 1.05em;
     font-weight: 600;
     line-height: 1.2em !important;
@@ -2556,6 +2569,11 @@ header.bg-purple .navarrow {
     width: auto !important
 }
 
+@media only screen and (max-width: 1024px) {
+    body #primary-nav #main-nav > li.rm0 > a {
+        padding: 0 5px;
+    }
+}
 
 @media only screen and (max-width: 1023px) {
     .main-nav {
@@ -2770,7 +2788,6 @@ header.bg-purple .navarrow {
         z-index: -1
     }
 }
-
 /* New mobile nav code - Alli */
 @media only screen and (max-width:840px) {
     .accordion-content.panel-wrap {

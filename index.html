@@ -12,17 +12,16 @@
     <!-- Google Tag Manager -->
     <script>
         (function (w, d, s, l, i) {
-            w[l] = w[l] || []; w[l].push({
-                'gtm.start':
-                    new Date().getTime(), event: 'gtm.js'
-            }); var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
         })(window, document, 'script', 'dataLayer', 'GTM-PWJJCV');</script>
     <!-- End Google Tag Manager -->
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-    <script>document.createElement('video')</script>
     <meta name="Author" content="nThrive" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 
@@ -142,7 +141,7 @@
         }
     </style>
     <link rel="stylesheet" type="text/css" href="/_Assets/css/nthrive_main_nav.css" />
-    <link rel="stylesheet" type="text/css" href="/_Assets/css/nthrive_master_min-v39.css" />
+    <link rel="stylesheet" type="text/css" href="/_Assets/css/nthrive_master_min-v40.css" />
     <link rel="stylesheet" type="text/css" href="/_Assets/css/nthrive_theme_min-v35.css" />
     <link rel="stylesheet" type="text/css" href="/_Assets/css/int-phone5.css" />
     <script type="text/javascript" src="/_assets/js/jquery-1.12.4.min.js"></script>
@@ -157,7 +156,7 @@
                     var validator = $.data(this[0], "validator"); if (validator) { return validator; }
                     this.attr("novalidate", "novalidate"); validator = new $.validator(options, this[0]); $.data(this[0], "validator", validator); if (validator.settings.onsubmit) {
                         this.on("click.validate", ":submit", function (event) {
-                            validator.submitButton = event.currentTarget; if ($(this).hasClass("cancel")) { validator.cancelSubmit = true; }
+                        validator.submitButton = event.currentTarget; if ($(this).hasClass("cancel")) { validator.cancelSubmit = true; }
                             if ($(this).attr("formnovalidate") !== undefined) { validator.cancelSubmit = true; }
                         }); this.on("submit.validate", function (event) {
                             if (validator.settings.debug) { event.preventDefault(); }
@@ -205,21 +204,21 @@
             }; $.extend($.validator, {
                 defaults: {
                     messages: {}, groups: {}, rules: {}, errorClass: "error", pendingClass: "pending", validClass: "valid", errorElement: "div", focusCleanup: false, focusInvalid: true, errorContainer: $([]), errorLabelContainer: $([]), onsubmit: true, ignore: ":hidden", ignoreTitle: false, onfocusin: function (element) {
-                        this.lastActive = element; if (this.settings.focusCleanup) {
-                            if (this.settings.unhighlight) { this.settings.unhighlight.call(this, element, this.settings.errorClass, this.settings.validClass); }
-                            this.hideThese(this.errorsFor(element));
-                        }
+                    this.lastActive = element; if (this.settings.focusCleanup) {
+                        if (this.settings.unhighlight) { this.settings.unhighlight.call(this, element, this.settings.errorClass, this.settings.validClass); }
+                        this.hideThese(this.errorsFor(element));
+                    }
                     }, onfocusout: function (element) { if (!this.checkable(element) && (element.name in this.submitted || !this.optional(element))) { this.element(element); } }, onkeyup: function (element, event) { var excludedKeys = [16, 17, 18, 20, 35, 36, 37, 38, 39, 40, 45, 144, 225]; if (event.which === 9 && this.elementValue(element) === "" || $.inArray(event.keyCode, excludedKeys) !== -1) { return; } else if (element.name in this.submitted || element.name in this.invalid) { this.element(element); } }, onclick: function (element) { if (element.name in this.submitted) { this.element(element); } else if (element.parentNode.name in this.submitted) { this.element(element.parentNode); } }, highlight: function (element, errorClass, validClass) { if (element.type === "radio") { this.findByName(element.name).addClass(errorClass).removeClass(validClass); } else { $(element).addClass(errorClass).removeClass(validClass); } }, unhighlight: function (element, errorClass, validClass) { if (element.type === "radio") { this.findByName(element.name).removeClass(errorClass).addClass(validClass); } else { $(element).removeClass(errorClass).addClass(validClass); } }
                 }, setDefaults: function (settings) { $.extend($.validator.defaults, settings); }, messages: { required: "This field is required.", remote: "Please fix this field.", email: "Please enter a valid email address.", url: "Please enter a valid URL.", date: "Please enter a valid date.", dateISO: "Please enter a valid date (ISO).", number: "Please enter a valid number.", digits: "Please enter only digits.", equalTo: "Please enter the same value again.", maxlength: $.validator.format("Please enter no more than {0} characters."), minlength: $.validator.format("Please enter at least {0} characters."), rangelength: $.validator.format("Please enter a value between {0} and {1} characters long."), range: $.validator.format("Please enter a value between {0} and {1}."), max: $.validator.format("Please enter a value less than or equal to {0}."), min: $.validator.format("Please enter a value greater than or equal to {0}."), step: $.validator.format("Please enter a multiple of {0}.") }, autoCreateRanges: false, prototype: {
                     init: function () {
-                        this.labelContainer = $(this.settings.errorLabelContainer); this.errorContext = this.labelContainer.length && this.labelContainer || $(this.currentForm); this.containers = $(this.settings.errorContainer).add(this.settings.errorLabelContainer); this.submitted = {}; this.valueCache = {}; this.pendingRequest = 0; this.pending = {}; this.invalid = {}; this.reset(); var currentForm = this.currentForm, groups = (this.groups = {}), rules; $.each(this.settings.groups, function (key, value) {
-                            if (typeof value === "string") { value = value.split(/\s/); }
-                            $.each(value, function (index, name) { groups[name] = key; });
-                        }); rules = this.settings.rules; $.each(rules, function (key, value) { rules[key] = $.validator.normalizeRule(value); }); function delegate(event) {
-                            var isContentEditable = typeof $(this).attr("contenteditable") !== "undefined" && $(this).attr("contenteditable") !== "false"; if (!this.form && isContentEditable) { this.form = $(this).closest("form")[0]; this.name = $(this).attr("name"); }
-                            if (currentForm !== this.form) { return; }
-                            var validator = $.data(this.form, "validator"), eventType = "on" + event.type.replace(/^validate/, ""), settings = validator.settings; if (settings[eventType] && !$(this).is(settings.ignore)) { settings[eventType].call(validator, this, event); }
-                        }
+                    this.labelContainer = $(this.settings.errorLabelContainer); this.errorContext = this.labelContainer.length && this.labelContainer || $(this.currentForm); this.containers = $(this.settings.errorContainer).add(this.settings.errorLabelContainer); this.submitted = {}; this.valueCache = {}; this.pendingRequest = 0; this.pending = {}; this.invalid = {}; this.reset(); var currentForm = this.currentForm, groups = (this.groups = {}), rules; $.each(this.settings.groups, function (key, value) {
+                        if (typeof value === "string") { value = value.split(/\s/); }
+                        $.each(value, function (index, name) { groups[name] = key; });
+                    }); rules = this.settings.rules; $.each(rules, function (key, value) { rules[key] = $.validator.normalizeRule(value); }); function delegate(event) {
+                        var isContentEditable = typeof $(this).attr("contenteditable") !== "undefined" && $(this).attr("contenteditable") !== "false"; if (!this.form && isContentEditable) { this.form = $(this).closest("form")[0]; this.name = $(this).attr("name"); }
+                        if (currentForm !== this.form) { return; }
+                        var validator = $.data(this.form, "validator"), eventType = "on" + event.type.replace(/^validate/, ""), settings = validator.settings; if (settings[eventType] && !$(this).is(settings.ignore)) { settings[eventType].call(validator, this, event); }
+                    }
                         $(this.currentForm).on("focusin.validate focusout.validate keyup.validate", ":text, [type='password'], [type='file'], select, textarea, [type='number'], [type='search'], " + "[type='tel'], [type='url'], [type='email'], [type='datetime'], [type='date'], [type='month'], " + "[type='week'], [type='time'], [type='datetime-local'], [type='range'], [type='color'], " + "[type='radio'], [type='checkbox'], [contenteditable], [type='button']", delegate).on("click.validate", "select, option, [type='radio'], [type='checkbox']", delegate); if (this.settings.invalidHandler) { $(this.currentForm).on("invalid-form.validate", this.settings.invalidHandler); }
                     }, form: function () {
                         this.checkForm(); $.extend(this.submitted, this.errorMap); this.invalid = $.extend({}, this.errorMap); if (!this.valid()) { $(this.currentForm).triggerHandler("invalid-form", [this]); }
@@ -323,7 +322,7 @@
                         switch (element.nodeName.toLowerCase()) { case "select": return $("option:selected", element).length; case "input": if (this.checkable(element)) { return this.findByName(element.name).filter(":checked").length; } }
                         return value.length;
                     }, depend: function (param, element) { return this.dependTypes[typeof param] ? this.dependTypes[typeof param](param, element) : true; }, dependTypes: { "boolean": function (param) { return param; }, "string": function (param, element) { return !!$(param, element.form).length; }, "function": function (param, element) { return param(element); } }, optional: function (element) { var val = this.elementValue(element); return !$.validator.methods.required.call(this, val, element) && "dependency-mismatch"; }, startRequest: function (element) { if (!this.pending[element.name]) { this.pendingRequest++; $(element).addClass(this.settings.pendingClass); this.pending[element.name] = true; } }, stopRequest: function (element, valid) {
-                        this.pendingRequest--; if (this.pendingRequest < 0) { this.pendingRequest = 0; }
+                    this.pendingRequest--; if (this.pendingRequest < 0) { this.pendingRequest = 0; }
                         delete this.pending[element.name]; $(element).removeClass(this.settings.pendingClass); if (valid && this.pendingRequest === 0 && this.formSubmitted && this.form()) {
                             $(this.currentForm).submit(); if (this.submitButton) { $("input:hidden[name='" + this.submitButton.name + "']", this.currentForm).remove(); }
                             this.formSubmitted = false;
@@ -549,13 +548,12 @@
                                     </li>
                                 </ul><!-- #logo-wrap -->
                                 <div class="nth-content">
-                                    <ul id="main-nav" class="nth-list main-nav nav menu l-inline-list l-align-right l-clearfix accordion">
+                                    <ul id="main-nav" class="nth-list main-nav nav menu l-inline-list l-align-right l-clearfix accordion js-menu">
                                         <!-- START: Main Menu Repeat -->
                                         <!-- START: Main Menu Repeat -->
                                         <li class="nav-top-level button-dropdown accordion-toggle">
                                             <a class="dropdown-toggle" href="/solutions/" id="solutions">Solutions</a>
-                                            <div class="navarrow"></div>
-                                            <div class="panel-wrap l-col-3 accordion-content">
+                                            <div class="navarrow"></div><div class="panel-wrap accordion-content l-col-3">
                                                 <figure><img srcset="/_assets/images/navigation/medassets.png 122w, /_assets/images/icon/t.gif 1w" sizes="(max-width: 840px) 1px" alt="" class="nav-bg-menu " width="122" height="190"></figure>
                                                 <div class="plr-10px ptb-10px l-clearfix">
                                                     <div class="menu-panel-wrap">
@@ -724,8 +722,7 @@
                                         </li>
                                         <li class="nav-top-level button-dropdown accordion-toggle">
                                             <a class="dropdown-toggle" href="/about-us/" id="about-us">About Us</a>
-                                            <div class="navarrow"></div>
-                                            <div class="panel-wrap l-col-3 accordion-content">
+                                            <div class="navarrow"></div><div class="panel-wrap accordion-content l-col-3">
                                                 <figure><img srcset="/_assets/images/navigation/girl-on-laptop.png 192w, /_assets/images/icon/t.gif 1w" sizes="(max-width: 840px) 1px" alt="" class="nav-bg-menu  br-30px" width="192" height="203"></figure>
                                                 <div class="plr-10px ptb-10px l-clearfix">
                                                     <div class="menu-panel-wrap">
@@ -808,8 +805,7 @@
                                         </li>
                                         <li class="nav-top-level button-dropdown accordion-toggle">
                                             <a class="dropdown-toggle" href="/nthrive-newsroom/" id="newsroom">News</a>
-                                            <div class="navarrow"></div>
-                                            <div class="panel-wrap l-col-1 accordion-content">
+                                            <div class="navarrow"></div><div class="panel-wrap accordion-content l-col-1">
                                                 <figure><img srcset="/_assets/images/navigation/precyse.png 161w, /_assets/images/icon/t.gif 1w" sizes="(max-width: 840px) 1px" alt="" class="nav-bg-menu " width="161" height="243"></figure>
                                                 <div class="plr-10px ptb-10px l-clearfix">
                                                     <div class="menu-panel-wrap">
@@ -853,8 +849,7 @@
                                         </li>
                                         <li class="nav-top-level button-dropdown accordion-toggle">
                                             <a class="dropdown-toggle" href="/events/" id="events">Events</a>
-                                            <div class="navarrow"></div>
-                                            <div class="panel-wrap l-col-1 accordion-content">
+                                            <div class="navarrow"></div><div class="panel-wrap accordion-content l-col-1">
                                                 <figure><img srcset="/_assets/images/navigation/contact.png 146w, /_assets/images/icon/t.gif 1w" sizes="(max-width: 840px) 1px" alt="" class="nav-bg-menu " width="146" height="222"></figure>
                                                 <div class="plr-10px ptb-10px l-clearfix">
                                                     <div class="menu-panel-wrap">
@@ -918,8 +913,7 @@
                                         </li>
                                         <li class="nav-top-level button-dropdown accordion-toggle">
                                             <a class="dropdown-toggle" href="/careers/" id="careers">Careers</a>
-                                            <div class="navarrow"></div>
-                                            <div class="panel-wrap l-col-1 narrow-col accordion-content">
+                                            <div class="navarrow"></div><div class="panel-wrap accordion-content l-col-1 narrow-col">
                                                 <div class="plr-10px ptb-10px l-clearfix">
                                                     <div class="menu-panel-wrap">
                                                         <ul>
@@ -939,8 +933,7 @@
                                         </li>
                                         <li class="nav-top-level  rm0 button-dropdown accordion-toggle">
                                             <a class="dropdown-toggle" href="/contact-us/" id="contact-us">Contact Us</a>
-                                            <div class="navarrow"></div>
-                                            <div class="panel-wrap l-col-1 narrow-col accordion-content">
+                                            <div class="navarrow"></div><div class="panel-wrap accordion-content l-col-1 narrow-col">
                                                 <div class="plr-10px ptb-10px l-clearfix">
                                                     <div class="menu-panel-wrap">
                                                         <ul>
@@ -1038,14 +1031,11 @@
                                         <h2 id="popup1Title" class="visually-hidden">Play Video</h2><button data-popup-action="close" class="popup-close" aria-label="Close" onclick="videoClose()"></button><div class="video-window-wrap video-hide" role="dialog" id="video-window-wrap">
                                         </div>
                                     </div>
-                                    <script type="text/javascript">
-                                        var $videoContent = '<video data-video-id="4949835685001" data-account="1777252755001" data-player="N1yTcLEje" data-embed="default" data-application-id class="video-js popup-video" controls></video>';
-                                        var s = document.createElement("script");
-                                        s.type = "text/javascript";
-                                        s.src = "//players.brightcove.net/1777252755001/N1yTcLEje_default/index.min.js";
 
+                                    <script type="text/javascript">
+                                        var $yTrender = '<div class="popup-vid-wrapper"><div class="vid-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/-FQvw3OXLJ8?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>';
                                         $("#video-link").on('click', function () {
-                                            $("#video-window-wrap").append($videoContent).after(s);
+                                            $("#video-window-wrap").append($yTrender);
                                         });
                                     </script>
 
@@ -1247,6 +1237,7 @@
 
                     <!-- ************** END: #26 Block - Short Wide Content w/ Link & Logos ***************** -->
                     <!-- ************** START: #13 & #30 Block - 3 Columns w/ Expandable Button  ****************** --><section class="relative l-site-width ptb-30px"><div class="break-line thick"></div></section>
+
                     <section id="section-10" class="section-10 section-wrap">
                         <div class="bg-white">
                             <div class="l-site-width text-center">
@@ -1257,23 +1248,7 @@
                                         <p class="pt-34px lh-30px">At nThrive, formerly known as MedAssets, Precyse, Equation, Adreima and e4e, we've built our company around our knowledge and expertise across the entire revenue cycle. Our people are passionate about transforming health care solutions and are recognized industry experts in many facets of revenue cycle management.</p>
 
                                     </div>
-                                    <div class="relative recent-wrap">
-                                        <div class="recent-box bg-f2f2f2 mb-30px mt-20px plr-30px pt-30px pb-45px text-14px text-400 mb-40px h-200px">
-                                            <h4 class="text-300 text-26px">Recent Updates</h4>
-                                            <ul class="l-site-width l-list-two-col text-left text-14px mt-20px pb-30px l-clearfix ">
-                                                <li class="br-cdcdcd b-box smheight">
-                                                    <p class="mb-0" data-date="04/23/2220"><strong><span class="text-15px text-26ab9a">New</span></strong></p>
-
-                                                </li>
-                                                <li class="b-box smheight">
-                                                    <p class="mb-0" data-date="04/23/2220"><strong><span class="text-15px text-662D91">Updated</span></strong></p>
-                                                </li>
-                                            </ul>
-                                            <div class="hide-gradient"></div>
-                                            <a class="show-more text-13px b-cdcdcd ptb-5px plr-10px mt-20px">+ Show More</a>
-                                        </div>
-                                    </div> <!-- .recent-wrap -->
-                                    <div class="tabs-box pb-30px">
+                                    <div class="tabs-box arrow-box pb-30px">
                                         <div class="tab-links l-clearfix">
                                             <ul>
                                                 <li class="tab open">
@@ -1544,14 +1519,13 @@
                         </div>
                     </section>
                     <!-- ********************* END: #8 Block - Image w/ Content & 2 Columns ******************* -->
-                    <div id="snippet_84cc787d-0679-49c4-836c-bff6b4d8e082"></div>
-                    <script async type="text/javascript" src="//snippet.omm.crownpeak.com/s/a1b8a2af-6252-4720-8e5c-c6df4a0d977d?_wco_embedid=snippet_84cc787d-0679-49c4-836c-bff6b4d8e082"></script><!-- ******** END: #219 Block -Targeting *********** -->
+                    <div id="snippet_3a96afa3-8da8-4fed-9612-8798bc9f3ea5"></div>
+                    <script async type="text/javascript" src="//snippet.omm.crownpeak.com/s/a1b8a2af-6252-4720-8e5c-c6df4a0d977d?_wco_embedid=snippet_3a96afa3-8da8-4fed-9612-8798bc9f3ea5"></script><!-- ******** END: #219 Block -Targeting *********** -->
                     <!-- ******** START: #231 Block - Contact Form *********** -->
                 </article><!-- article#main-content -->
             </div><!-- #content-wrap -->
         </main><!-- #main -->
         <div id="nav-overlay"></div>
-
         <!-- START: Footer Contact Form -->
         <!-- START: section#section21 -->
         <!--
@@ -1868,7 +1842,7 @@
     </div><!-- div#outer-wrap -->
     <script type="text/javascript" src="/_Assets/js/lead-anywhere-popup-form-min3.js"></script>
     <script type="text/javascript" src="/_Assets/js/modernizr-nth.js"></script>
-    <script type="text/javascript" src="/_Assets/js/j-master-min19.js"></script>
+    <script type="text/javascript" src="/_Assets/js/j-master-min21.js"></script>
     <script type="text/javascript" src="/_Assets/js/pre_re_min6.js"></script>
     <script type="text/javascript" src="/_assets/js/picturefill.min.js"></script>
     <script type="text/javascript">
@@ -1975,6 +1949,5 @@
     <noscript>
         <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=54599&fmt=gif" />
     </noscript>
-    <script type="text/javascript" src="//players.brightcove.net/1777252755001/N1yTcLEje_default/index.min.js" async></script>
 </body>
 </html>
