@@ -3524,7 +3524,7 @@ footer .break-line {
 }
 
     .no-svg .linkin-link:hover {
-        background: #00699f url('../images/linkin.png') no-repeat center center
+        background: #00699f url('../images/icon/linkin.png') no-repeat center center
     }
 
 .ytube-link {
@@ -4783,7 +4783,7 @@ a.wrightarrow {
     position: absolute;
     right: -25px;
     top: 20px;
-    background: url(../images/right-doublearrow.png) scroll no-repeat 0 0;
+    background: url(../images/icon/right-doublearrow.png) scroll no-repeat 0 0;
     width: 9px;
     height: 8px
 }
@@ -4877,7 +4877,7 @@ a.wrightarrow {
     position: absolute;
     left: -15px;
     top: 7px;
-    background: url(../images/right-singlearrow.png) scroll no-repeat 0 0;
+    background: url(../images/icon/right-singlearrow.png) scroll no-repeat 0 0;
     width: 4px;
     height: 8px
 }
