@@ -93,7 +93,7 @@ a {
 }
 
 #primary-nav a:focus {
-    outline: 2px solid #a6ccdb;
+    outline: 2px solid $color-a6ccdb;
 }
 
 #primary-nav li {
@@ -174,7 +174,7 @@ body #primary-nav #main-nav > li > a:hover {
 }
 
 .noscript-content #primary-nav > ul > li > ul > li > ul > li > a:focus, .noscript-content #primary-nav > ul > li > ul > li > a:focus, .noscript-content #primary-nav a:focus {
-    outline: 2px solid #a6ccdb;
+    outline: 2px solid $color-a6ccdb;
     -webkit-border-radius: 3px 3px 3px 3px !important;
     border-radius: 3px 3px 3px 3px !important
 }
@@ -189,7 +189,7 @@ body #primary-nav #main-nav > li > a:focus {
 }
 
 .noscript-content body #primary-nav #main-nav > li > a:focus, .noscript-content #primary-nav > ul > li > ul > li > a:focus, .noscript-content #primary-nav > ul > li > ul > li > ul > li > a:focus {
-    outline: 2px solid #a6ccdb;
+    outline: 2px solid $color-a6ccdb;
     -webkit-border-radius: 3px 3px 3px 3px !important;
     border-radius: 3px 3px 3px 3px !important
 }
@@ -254,7 +254,7 @@ body #primary-nav #main-nav > li.rm0 > a {
 }
 
 #main-nav .panel-wrap {
-    border: 1px solid #ededed
+    border: 1px solid $color-ededed
 }
 
 .skip-nav a {
@@ -267,7 +267,7 @@ body #primary-nav #main-nav > li.rm0 > a {
     background: $color-ffffff;
     display: inline-block;
     max-width: 200px;
-    border: 1px solid #ededed
+    border: 1px solid $color-ededed
 }
 
 .ml-10px {
@@ -282,7 +282,7 @@ body #primary-nav #main-nav > li.rm0 > a {
 
 .notification-bar {
     height: auto;
-    background: #555;
+    background: $color-555555;
     display: block;
     opacity: 1;
     visibility: visible;
@@ -507,11 +507,11 @@ header .link-arrow-text {
     }
 
     .nav-top-level > a.selected {
-        border-left: 5px solid #752dab
+        border-left: 5px solid $color-752dab
     }
 
     #primary-nav li.nav-top-level {
-        border-bottom: 1px solid #321349
+        border-bottom: 1px solid $color-321349
     }
 
     #primary-nav .nth-show-menu, #primary-nav .first, #primary-nav .second {
@@ -560,7 +560,7 @@ header .link-arrow-text {
     }
 
     #primary-nav > ul li {
-        border-bottom: 1px solid #321349;
+        border-bottom: 1px solid $color-321349;
         -webkit-box-shadow: none !important;
         box-shadow: none !important
     }
@@ -818,7 +818,7 @@ header .link-arrow-text {
     }
 
     #main-nav {
-        border-top: 1px solid #321349
+        border-top: 1px solid $color-321349
     }
 
     #primary-nav .second li:last-child, #primary-nav .first li:last-child, #secondary-nav li:last-child {
@@ -1411,24 +1411,6 @@ header .link-arrow-text {
     display: block
 }
 
-@media only screen and (max-width: 840px) {
-}
-
-@media only screen and (max-width: 1023px) {
-}
-
-@media only screen and (max-width: 840px) {
-}
-
-@media only screen and (max-width: 840px) {
-}
-
-@media only screen and (max-width: 840px) {
-}
-
-@media only screen and (max-width: 840px) {
-}
-
 .nav-outer-wrap {
     position: absolute;
     z-index: 9999
@@ -1547,8 +1529,8 @@ li.mb-first:overlay {
 
 .panel-wrap {
     background: $color-f6f6f6;
-    border: 1px solid #b3b3b3;
-    box-shadow: 0 4px 4px -3px #171717;
+    border: 1px solid $color-b3b3b3;
+    box-shadow: 0 4px 4px -3px $color-171717;
     color: $color-5e6977;
     cursor: default;
     right: -1px;
@@ -1585,8 +1567,8 @@ li.mb-first:overlay {
 }
 
 .panel-wrap .menu-panel-wrap:nth-child(2n) {
-    border-right: 1px solid #cdcdcd;
-    border-left: 1px solid #cdcdcd
+    border-right: 1px solid $color-cdcdcd;
+    border-left: 1px solid $color-cdcdcd
 }
 
 .menu-panel-group ul {
@@ -1959,7 +1941,7 @@ nav button {
 }
 
 .bg-purple #nav-wrap {
-    background: #4a1c6b
+    background: $color-4a1c6b
 }
 
 .nthrive-main-nav-wrap {
@@ -2326,7 +2308,7 @@ header {
     background: $color-ffffff;
     display: inline-block;
     max-width: 200px;
-    border: 1px solid #ededed
+    border: 1px solid $color-ededed
 }
 
 .skip-nav a:active, .skip-nav a:focus {
@@ -2353,8 +2335,8 @@ header {
 
 .panel-wrap {
     background: $color-f6f6f6;
-    border: 1px solid #b3b3b3;
-    box-shadow: 0 4px 4px -3px #171717;
+    border: 1px solid $color-b3b3b3;
+    box-shadow: 0 4px 4px -3px $color-171717;
     color: $color-5e6977;
     cursor: default;
     right: -1px;
@@ -2398,7 +2380,7 @@ header {
 }
 
 .menu-panel > ul > li {
-    border-left: 1px solid #b3b3b3;
+    border-left: 1px solid $color-b3b3b3;
     float: left;
     margin-bottom: 1em;
     margin-right: 1em;
@@ -2473,8 +2455,8 @@ header {
 }
 
 .panel-wrap .menu-panel-wrap:nth-child(2n) {
-    border-right: 1px solid #cdcdcd;
-    border-left: 1px solid #cdcdcd
+    border-right: 1px solid $color-cdcdcd;
+    border-left: 1px solid $color-cdcdcd
 }
 
 .menu-panel.l-col-4 > ul > li, .menu-panel.l-col-4b > ul > li {
@@ -2752,7 +2734,7 @@ header.bg-purple .navarrow {
     }
 
     .nth-searchform-input {
-        border-top: 1px solid #321349;
+        border-top: 1px solid $color-321349;
         border-right: 0;
         border-bottom: 0;
         border-left: 0;
